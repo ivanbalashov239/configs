@@ -1,0 +1,16 @@
+# KVIrc configuration file
+[help]
+Splitter=783,205
+IsDocked=true
+EntryTimestamp=1368216680
+IsMaximized=false
+WinRect=20,20,500,400
+[console]
+commandLineIsUserFriendly=false
+Splitter=480,160
+IsDocked=true
+NotifyListViewVisible=false
+EntryTimestamp=1412606802
+inputToolButtonsHidden=true
+IsMaximized=false
+WinRect=0,0,0,0

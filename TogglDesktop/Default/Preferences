@@ -1,0 +1,198 @@
+{
+   "browser": {
+      "clear_lso_data_enabled": true,
+      "window_placement": {
+         "bottom": 527,
+         "left": 304,
+         "maximized": false,
+         "right": 604,
+         "top": 27,
+         "work_area_bottom": 768,
+         "work_area_left": 0,
+         "work_area_right": 1366,
+         "work_area_top": 27
+      },
+      "window_placement_angegkmjdpiadkgcocckmeapgcjoimmb_/index": {
+         "html": {
+            "bottom": 527,
+            "left": 0,
+            "maximized": false,
+            "right": 300,
+            "top": 27,
+            "work_area_bottom": 768,
+            "work_area_left": 0,
+            "work_area_right": 1366,
+            "work_area_top": 27
+         }
+      }
+   },
+   "cloud_print": {
+      "email": ""
+   },
+   "countryid_at_install": 21077,
+   "default_apps_install_state": 1,
+   "default_search_provider": {
+      "enabled": true,
+      "encodings": "UTF-8",
+      "icon_url": "http://www.google.com/favicon.ico",
+      "id": "2",
+      "instant_url": "{google:baseURL}webhp?{google:RLZ}sourceid=chrome-instant&{google:instantFieldTrialGroupParameter}ie={inputEncoding}&ion=1{searchTerms}",
+      "keyword": "google.ru",
+      "name": "Google",
+      "prepopulate_id": "1",
+      "search_url": "{google:baseURL}search?{google:RLZ}{google:acceptedSuggestion}{google:originalQueryForSuggestion}{google:searchFieldtrialParameter}{google:instantFieldTrialGroupParameter}sourceid=chrome&ie={inputEncoding}&q={searchTerms}",
+      "suggest_url": "{google:baseSuggestURL}search?{google:searchFieldtrialParameter}{google:instantFieldTrialGroupParameter}client=chrome&hl={language}&q={searchTerms}"
+   },
+   "dns_prefetching": {
+      "host_referral_list": [ 2 ],
+      "startup_list": [ 1, "https://www.toggl.com/" ]
+   },
+   "download": {
+      "directory_upgrade": true,
+      "extensions_to_open": ""
+   },
+   "extensions": {
+      "autoupdate": {
+         "next_check": "13015268620264357"
+      },
+      "chrome_url_overrides": {
+         "bookmarks": [ "chrome-extension://eemcgdkfndhakfknompkggombfjjjeno/main.html" ]
+      },
+      "settings": {
+         "ahfgeienlihckogmohjhadlkjgocpleb": {
+            "app_launcher_index": -2,
+            "page_index": 0
+         },
+         "angegkmjdpiadkgcocckmeapgcjoimmb": {
+            "active_permissions": {
+               "api": [ "background", "idle", "notifications", "tabs", "unlimitedStorage" ],
+               "explicit_host": [ "https://accounts.google.com/*", "https://m.toggl.com/*", "https://stream.toggl.com/*", "https://www.toggl.com/*" ],
+               "scriptable_host": [ "http://www.google.com/robots.txt*" ]
+            },
+            "app_launcher_index": 0,
+            "from_bookmark": false,
+            "from_webstore": false,
+            "install_time": "13015250652416227",
+            "location": 2,
+            "manifest": {
+               "app": {
+                  "container": "tab",
+                  "launch": {
+                     "local_path": "index.html"
+                  }
+               },
+               "background_page": "background.html",
+               "content_scripts": [ {
+                  "js": [ "oauth2/oauth2_inject.js" ],
+                  "matches": [ "http://www.google.com/robots.txt*" ],
+                  "run_at": "document_start"
+               } ],
+               "description": "Toggl Offline Timer",
+               "homepage_url": "https://www.toggl.com",
+               "icons": {
+                  "128": "toggl_icon128.ico",
+                  "16": "toggl_icon16.ico"
+               },
+               "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDP0WeTWXZC/dUjztUbAFFtYNVms4frqaPmmZLHGqL8+pGmeBAe6M3eCg9U8PWLaFAQyUvZAc1/PkBpxNJcCxvliHfnY/Bo8qM03+EUrf9lu25Dhj3mw3/ltc84biHYdvPORrVw/26BT9u2ifZgSc9y9B6ohg5N2SY9yz075G7lZwIDAQAB",
+               "name": "Toggl Offline Timer",
+               "permissions": [ "https://m.toggl.com/", "https://stream.toggl.com/", "https://www.toggl.com/", "https://accounts.google.com/o/oauth2/token", "idle", "unlimitedStorage", "notifications", "background", "tabs" ],
+               "version": "4.94.0"
+            },
+            "page_index": 0,
+            "path": "angegkmjdpiadkgcocckmeapgcjoimmb/4.94.0_0",
+            "state": 1
+         }
+      }
+   },
+   "geolocation": {
+      "default_content_setting": 2
+   },
+   "homepage_is_newtabpage": false,
+   "http_throttling": {
+      "enabled": true
+   },
+   "ntp": {
+      "app_page_names": [ "Apps" ],
+      "pref_version": 3,
+      "promo_build": 0,
+      "promo_closed": false,
+      "promo_end": 0.0,
+      "promo_group": 90,
+      "promo_group_max": 0,
+      "promo_group_timeslice": 0,
+      "promo_line": "",
+      "promo_resource_cache_update": "1370777055.475421",
+      "promo_start": 0.0,
+      "promo_views": 0,
+      "promo_views_max": 0,
+      "shown_sections": 64
+   },
+   "plugins": {
+      "enabled_internal_pdf3": true,
+      "enabled_nacl": true,
+      "last_internal_directory": "/opt/toggl/toggl-desktop",
+      "plugins_list": [ {
+         "enabled": true,
+         "name": "Remoting Viewer",
+         "path": "internal-remoting-viewer",
+         "version": ""
+      }, {
+         "enabled": true,
+         "name": "Remoting Viewer"
+      }, {
+         "enabled": true,
+         "name": "Java Plug-in 1.7.0_21",
+         "path": "/opt/java/jre/lib/amd64/libnpjp2.so",
+         "version": ""
+      }, {
+         "enabled": true,
+         "name": "Java Plug-in 1.7.0_21"
+      }, {
+         "enabled": true,
+         "name": "Skype Buttons for Kopete",
+         "path": "/usr/lib/mozilla/plugins/skypebuttons.so",
+         "version": ""
+      }, {
+         "enabled": true,
+         "name": "Skype Buttons for Kopete"
+      }, {
+         "enabled": true,
+         "name": "Google Talk Plugin",
+         "path": "/opt/google/talkplugin/libnpgoogletalk.so",
+         "version": ""
+      }, {
+         "enabled": true,
+         "name": "Google Talk Plugin Video Accelerator",
+         "path": "/opt/google/talkplugin/libnpgtpo3dautoplugin.so",
+         "version": ""
+      }, {
+         "enabled": true,
+         "name": "Google Talk Plugin Video Renderer",
+         "path": "/opt/google/talkplugin/libnpo1d.so",
+         "version": ""
+      }, {
+         "enabled": true,
+         "name": "Google Talk Plugin"
+      }, {
+         "enabled": true,
+         "name": "Shockwave Flash",
+         "path": "/usr/lib/mozilla/plugins/libflashplayer.so",
+         "version": "11.2 r202"
+      }, {
+         "enabled": true,
+         "name": "Flash"
+      } ]
+   },
+   "profile": {
+      "content_settings": {
+         "pref_version": 1
+      },
+      "default_content_settings": {
+         "geolocation": 2,
+         "notifications": 2,
+         "plugins": 2
+      },
+      "exited_cleanly": true,
+      "local_profile_id": 5825874
+   }
+}

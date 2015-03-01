@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<contacts>
+  <account name="Default">
+    <group expanded="no" name="Buddies"/>
+    <group expanded="yes" name="Telegram"/>
+  </account>
+</contacts>

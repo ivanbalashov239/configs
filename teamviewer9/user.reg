@@ -1,0 +1,437 @@
+WINE REGISTRY Version 2
+;; All keys relative to \\User\\S-1-5-21-0-0-0-1000
+
+#arch=win32
+
+[AppEvents\\Schemes\\Apps\\Explorer\\Navigating\\.Current] 1398021288
+@=""
+
+[Control Panel\\Accessibility\\Blind Access] 1398021287
+"On"="0"
+
+[Control Panel\\Accessibility\\Keyboard Preference] 1398021287
+"On"="1"
+
+[Control Panel\\Accessibility\\ShowSounds] 1398021287
+"On"="0"
+
+[Control Panel\\Colors] 1398021287
+
+[Control Panel\\Desktop] 1398021288
+"ActiveWndTrackTimeout"=dword:00000000
+"BlockSendInputResets"="0"
+"CaretWidth"=dword:00000001
+"ClickLockTime"=dword:000004b0
+"DoubleClickHeight"="4"
+"DoubleClickWidth"="4"
+"DragFullWindows"="0"
+"DragHeight"="4"
+"DragWidth"="4"
+"FocusBorderHeight"=dword:00000001
+"FocusBorderWidth"=dword:00000001
+"FontSmoothing"="2"
+"FontSmoothingGamma"=dword:00000578
+"FontSmoothingOrientation"=dword:00000001
+"FontSmoothingType"=dword:00000002
+"ForegroundFlashCount"=dword:00000003
+"ForegroundLockTimeout"=dword:00000000
+"IconTitleWrap"="1"
+"LowPowerActive"="0"
+"MenuShowDelay"="400"
+"UserPreferencesMask"=hex:30,00,00,80,10,00,00,00
+"Wallpaper"=""
+"WheelScrollChars"="3"
+"WheelScrollLines"="3"
+
+[Control Panel\\Desktop\\WindowMetrics] 1398021287
+"BorderWidth"="-15"
+"CaptionHeight"="-270"
+"CaptionWidth"="-270"
+"IconSpacing"="-1125"
+"IconTitleWrap"="1"
+"IconVerticalSpacing"="-1125"
+"MenuHeight"="-270"
+"MenuWidth"="-270"
+"PaddedBorderWidth"="0"
+"ScrollHeight"="-240"
+"ScrollWidth"="-240"
+"Shell Icon Size"="32"
+"SmCaptionHeight"="-225"
+"SmCaptionWidth"="-225"
+
+[Control Panel\\International] 1398021286
+"iCalendarType"="1"
+"iCountry"="7"
+"iCurrDigits"="2"
+"iCurrency"="1"
+"iDate"="1"
+"iDigits"="2"
+"iFirstDayOfWeek"="0"
+"iFirstWeekOfYear"="0"
+"iLDate"="1"
+"iLZero"="1"
+"iMeasure"="0"
+"iNegCurr"="5"
+"iNegNumber"="1"
+"iPaperSize"="9"
+"iTime"="1"
+"iTimePrefix"="0"
+"iTLZero"="0"
+"LC_CTYPE"="00000419"
+"LC_MEASUREMENT"="00000419"
+"LC_MONETARY"="00000419"
+"LC_NUMERIC"="00000419"
+"LC_PAPER"="00000419"
+"LC_TELEPHONE"="00000419"
+"LC_TIME"="00000419"
+"Locale"="00000419"
+"Numshape"="1"
+"s1159"=""
+"s2359"=""
+"sCountry"="Russia"
+"sCurrency"="\x440."
+"sDate"="."
+"sDecimal"=","
+"sGrouping"="3;0"
+"sLanguage"="RUS"
+"sList"=";"
+"sLongDate"="d MMMM yyyy '\x433.'"
+"sMonDecimalSep"=","
+"sMonGrouping"="3;0"
+"sMonThousandSep"="\xa0"
+"sNativeDigits"="0123456789"
+"sNegativeSign"="-"
+"sPositiveSign"=""
+"sShortDate"="dd.MM.yyyy"
+"sThousand"="\xa0"
+"sTime"=":"
+"sTimeFormat"="H:mm:ss"
+"sYearMonth"="MMMM yyyy '\x433.'"
+
+[Control Panel\\Keyboard] 1398021287
+"KeyboardDelay"="1"
+"KeyboardSpeed"="31"
+
+[Control Panel\\Mouse] 1398021287
+"ActiveWindowTracking"=dword:00000000
+"DoubleClickHeight"="4"
+"DoubleClickSpeed"="500"
+"DoubleClickWidth"="4"
+"MouseHoverHeight"="4"
+"MouseHoverTime"="400"
+"MouseHoverWidth"="4"
+"MouseSensitivity"="10"
+"MouseSpeed"="1"
+"MouseThreshold1"="6"
+"MouseThreshold2"="10"
+"SnapToDefaultButton"="0"
+"SwapMouseButtons"="0"
+
+[Control Panel\\Sound] 1398021287
+"Beep"="Yes"
+
+[Environment] 1398021288
+"TEMP"="C:\\users\\ivn\\Temp"
+"TMP"="C:\\users\\ivn\\Temp"
+
+[Keyboard Layout\\Preload] 1398021287
+"1"="00000419"
+
+[Software\\Microsoft\\Protected Storage System Provider] 1398021288
+
+[Software\\Microsoft\\SystemCertificates\\CA\\Certificates] 1398021292
+
+[Software\\Microsoft\\SystemCertificates\\CA\\CRLs] 1398021292
+
+[Software\\Microsoft\\SystemCertificates\\CA\\CTLs] 1398021292
+
+[Software\\Microsoft\\SystemCertificates\\Disallowed\\Certificates] 1398021292
+
+[Software\\Microsoft\\SystemCertificates\\Disallowed\\CRLs] 1398021292
+
+[Software\\Microsoft\\SystemCertificates\\Disallowed\\CTLs] 1398021292
+
+[Software\\Microsoft\\SystemCertificates\\My\\Certificates] 1398021292
+
+[Software\\Microsoft\\SystemCertificates\\My\\CRLs] 1398021292
+
+[Software\\Microsoft\\SystemCertificates\\My\\CTLs] 1398021292
+
+[Software\\Microsoft\\SystemCertificates\\Root\\Certificates] 1398021292
+
+[Software\\Microsoft\\SystemCertificates\\Root\\CRLs] 1398021292
+
+[Software\\Microsoft\\SystemCertificates\\Root\\CTLs] 1398021292
+
+[Software\\Microsoft\\SystemCertificates\\Trust\\Certificates] 1398021292
+
+[Software\\Microsoft\\SystemCertificates\\Trust\\CRLs] 1398021292
+
+[Software\\Microsoft\\SystemCertificates\\Trust\\CTLs] 1398021292
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Shell Folders] 1398021288
+"AppData"="C:\\users\\ivn\\Application Data"
+"Cache"="C:\\users\\ivn\\Local Settings\\Temporary Internet Files"
+"Cookies"="C:\\users\\ivn\\Cookies"
+"Desktop"="C:\\users\\ivn\\Desktop"
+"Favorites"="C:\\users\\ivn\\Favorites"
+"Fonts"="C:\\windows\\Fonts"
+"History"="C:\\users\\ivn\\Local Settings\\History"
+"Local AppData"="C:\\users\\ivn\\Local Settings\\Application Data"
+"My Music"="C:\\users\\ivn\\My Music"
+"My Pictures"="C:\\users\\ivn\\My Pictures"
+"My Videos"="C:\\users\\ivn\\My Videos"
+"NetHood"="C:\\users\\ivn\\NetHood"
+"Personal"="C:\\users\\ivn\\My Documents"
+"PrintHood"="C:\\users\\ivn\\PrintHood"
+"Programs"="C:\\users\\ivn\\Start Menu\\Programs"
+"Recent"="C:\\users\\ivn\\Recent"
+"SendTo"="C:\\users\\ivn\\SendTo"
+"Start Menu"="C:\\users\\ivn\\Start Menu"
+"StartUp"="C:\\users\\ivn\\Start Menu\\Programs\\StartUp"
+"Templates"="C:\\users\\ivn\\Templates"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\User Shell Folders] 1398021288
+"AppData"=str(2):"%USERPROFILE%\\Application Data"
+"Cache"=str(2):"%USERPROFILE%\\Local Settings\\Temporary Internet Files"
+"Cookies"=str(2):"%USERPROFILE%\\Cookies"
+"Desktop"=str(2):"%USERPROFILE%\\Desktop"
+"Favorites"=str(2):"%USERPROFILE%\\Favorites"
+"Fonts"=str(2):"C:\\windows\\Fonts"
+"History"=str(2):"%USERPROFILE%\\Local Settings\\History"
+"Local AppData"=str(2):"%USERPROFILE%\\Local Settings\\Application Data"
+"My Music"=str(2):"%USERPROFILE%\\My Music"
+"My Pictures"=str(2):"%USERPROFILE%\\My Pictures"
+"My Videos"=str(2):"%USERPROFILE%\\My Videos"
+"NetHood"=str(2):"%USERPROFILE%\\NetHood"
+"Personal"=str(2):"%USERPROFILE%\\My Documents"
+"PrintHood"=str(2):"%USERPROFILE%\\PrintHood"
+"Programs"=str(2):"%USERPROFILE%\\Start Menu\\Programs"
+"Recent"=str(2):"%USERPROFILE%\\Recent"
+"SendTo"=str(2):"%USERPROFILE%\\SendTo"
+"Start Menu"=str(2):"%USERPROFILE%\\Start Menu"
+"StartUp"=str(2):"%USERPROFILE%\\Start Menu\\Programs\\StartUp"
+"Templates"=str(2):"%USERPROFILE%\\Templates"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Run] 1398021288
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Wintrust\\Trust Providers\\Software Publishing] 1398021291
+"State"=dword:00023c00
+
+[Software\\Wine\\Crypto\\RSA] 1416772623
+"KeyExchangeKeyPair"=hex:01,00,00,00,57,69,6e,65,20,43,72,79,70,74,33,32,20,6f,\
+  6b,00,01,00,00,00,57,69,6e,65,20,43,72,79,70,74,33,32,20,6f,6b,00,00,00,00,\
+  00,02,00,00,00,00,00,03,66,00,00,a8,00,00,00,10,00,00,00,57,69,6e,65,20,43,\
+  72,79,70,74,33,32,20,6f,6b,00,00,00,00,00,04,80,00,00,a0,00,00,00,10,00,00,\
+  00,a6,ea,6a,f7,9e,0d,65,34,ee,79,5a,ed,48,05,7f,a3,98,04,00,00,79,92,8b,b7,\
+  ab,0c,92,6e,df,04,b2,a2,d6,a2,f4,1b,00,a1,47,aa,be,e9,54,82,a5,e7,fc,3b,1c,\
+  fd,e1,97,88,e7,2c,0f,3c,d5,2d,69,bb,a7,20,07,cc,4f,28,1b,99,fd,c5,ba,84,5e,\
+  0e,56,97,95,79,2f,b4,6f,29,f1,8a,a8,94,52,e9,04,61,83,ae,01,d5,18,ff,d7,ed,\
+  ba,68,c0,94,05,69,65,0d,1c,7a,31,d2,f9,d8,f8,99,01,cc,fe,e1,5e,93,9a,43,09,\
+  3f,1c,19,af,28,a0,23,a3,70,3f,64,48,0c,11,d8,a5,5f,00,c4,3b,3c,d7,7d,13,dc,\
+  cc,ca,a5,7a,80,eb,a7,d3,67,55,f2,a5,5a,a6,c4,93,13,df,d6,52,4b,b0,d3,cb,97,\
+  7b,db,cf,cc,fd,81,f4,de,08,27,3d,bd,f0,a6,3e,31,9f,87,c4,8e,52,e8,0d,e2,ac,\
+  d0,13,33,9e,8c,dc,39,f8,f6,fe,a5,f9,b4,e0,be,f4,2f,d7,55,8e,20,54,f0,bb,ff,\
+  bd,1b,ce,7d,6a,18,2c,1c,35,dd,d3,a7,b2,99,56,e3,25,a0,ef,c3,c3,57,17,fc,54,\
+  31,d1,b7,e4,af,28,df,c4,f3,40,0b,7a,35,14,c4,99,4f,6b,75,17,af,b7,85,c7,10,\
+  ac,9b,fd,a6,a1,b0,6f,3b,2e,0b,20,ce,b2,cb,5c,9a,23,60,84,37,74,95,01,81,64,\
+  dd,05,a1,5e,05,a5,7c,71,24,62,ea,aa,f7,e9,5f,93,24,d2,f4,3e,50,76,98,50,b0,\
+  1f,cf,db,0b,32,8b,da,69,cd,8c,ca,50,60,73,0d,1d,da,e2,ec,8c,78,b3,23,dc,aa,\
+  c7,fb,77,71,f8,7d,e7,14,03,0f,a2,f6,8c,a9,e8,c2,af,97,7d,ba,4a,f3,7e,79,a0,\
+  76,da,3d,97,c1,1b,10,9f,ef,42,52,a9,da,b9,3d,bf,ea,64,da,62,fe,a8,f8,78,b9,\
+  f4,57,0f,ac,7c,78,64,f0,56,4f,7b,75,cf,25,b7,05,8f,b2,ef,5a,a1,bc,43,c4,82,\
+  9e,cc,a7,78,50,ba,44,a6,78,67,82,89,7a,2b,5a,93,e5,90,45,74,86,cd,f7,38,78,\
+  1f,d1,7b,fd,f8,8c,27,79,2b,f9,34,1e,b9,5f,1b,6d,79,bc,72,d5,81,c0,05,98,12,\
+  da,d1,74,24,ef,15,f0,3b,66,5a,20,b5,86,52,d2,b1,bd,77,dd,1b,fa,de,97,17,92,\
+  7a,d2,93,33,2d,05,00,79,cd,73,c4,55,56,bb,ba,b1,0c,26,fa,17,ae,37,f8,71,a7,\
+  93,7d,89,d8,0e,1e,21,68,34,bb,db,d3,4e,d7,0b,d5,8f,ca,3e,81,01,16,33,d9,88,\
+  6a,49,18,d1,a5,9a,a7,32,00,3c,8f,8f,64,5f,6c,9d,c5,f4,68,35,01,1e,e6,27,8b,\
+  83,e2,c9,72,42,96,ef,96,79,6f,09,cc,36,77,de,97,0b,b4,d2,34,4c,ab,62,dd,bb,\
+  33,d3,fa,b7,e6,95,91,cc,b0,ba,d0,52,da,11,7a,ec,a0,9b,00,1a,86,e9,32,18,39,\
+  41,9c,bd,3f,37,7d,87,47,dc,ad,40,b4,de,16,e9,86,8d,ef,fe,5b,ec,15,c9,c5,04,\
+  29,da,47,a9,c5,39,ff,62,68,b3,11,33,70,68,67,36,b2,72,e3,3e,ba,e4,42,24,6f,\
+  1f,00,5c,5a,9d,48,16,e0,f8,1f,2e,bc,04,51,a9,e3,28,b3,1a,9c,48,f8,47,04,fc,\
+  b5,0d,39,6b,15,0c,fa,48,ad,bd,5b,a5,ae,59,4a,ba,3e,cc,81,10,cd,b3,24,79,da,\
+  90,29,e3,63,6c,7a,6b,07,fc,3c,a3,6c,75,cb,29,c8,b5,73,7d,20,ea,35,fa,8f,e4,\
+  c7,d5,3d,a2,14,9c,4c,da,19,e4,0d,1a,50,04,9d,e4,8c,28,13,ba,4a,03,5a,62,19,\
+  09,18,2e,33,3d,9d,43,a4,24,27,7e,38,54,18,a0,b4,8e,66,95,a3,20,03,76,82,c3,\
+  4d,78,19,ef,b8,ff,63,d0,43,a5,e8,fe,c1,70,26,54,cf,77,bc,c7,8f,88,10,e6,9b,\
+  e0,9d,92,be,70,ae,55,0b,80,e1,fb,9d,77,c3,7f,96,b0,62,ca,92,28,c6,93,f9,cb,\
+  10,44,cb,5d,31,39,6a,80,70,b5,a1,19,13,dd,7f,0a,c9,52,37,a9,92,fd,0a,3d,71,\
+  4e,f0,ed,a4,56,93,46,80,d4,15,60,dd,50,d1,49,c0,5f,fc,c9,45,3c,38,1a,27,b0,\
+  fa,9f,c3,26,46,20,c3,9a,d2,51,63,ca,3e,d8,82,03,0c,73,b3,54,01,45,ac,8f,51,\
+  4a,2f,8e,d1,48,95,46,02,a1,f9,76,a3,00,fb,56,68,24,a1,94,8c,e5,3d,46,29,45,\
+  57,4a,88,dc,63,88,0d,d5,60,de,e8,b7,cb,a4,f9,b1,40,01,0a,83,bc,b7,ca,1e,00,\
+  4e,a5,07,7c,5c,a4,13,1e,cb,35,7b,ba,70,67,e1,cb,53,ec,af,40,b4,8b,65,de,e3,\
+  c1,89,ea,19,08,e6,dc,1f,2f,8a,7a,8c,45,0e,e9,cb,40,4d,58,5a,48,ae,30,33,6f,\
+  a0,96,98,a6,e6,fe,cd,e2,25,87,16,3c,71,b5,33,b2,bd,0f,06,34,44,44,09,9f,62,\
+  86,08,50,d6,ff,61,a4,f0,2f,f6,b1,f9,d4,fa,b7,fc,e7,6b,87,4f,c4,18,85,64,5f,\
+  5d,2a,8a,0c,c8,f7,33,35,42,7a,2f,b3,1c,47,b9,ba,14,91,18,d1,36,a4,b2,dc,85,\
+  78,5b,59,79,5a,13,d1,09,da,20,b0,d0,1a,08,4f,41,9d,0d,2a,dc,69,15,42,e2,2d,\
+  c6,87,f9,eb,49,ce,ea,72,a0,c7,32,4d,96,b2,8a,45,78,59,81,dd,bd,44,f1,02,cb,\
+  d7,65,a4,e9,ae,7a,54,8e,a3,25,10,e0,50,e7,94,7b,d2,de,b2,49,7a,18,7b,8b,89,\
+  10,93,a8,7c,0e,a2,00,17,f9,b1,4d,c7,4c,65,cf,ef,76,8f,c9,ad,77,7c,14,00,00,\
+  00,6d,76,02,e2,b4,02,26,5e,22,b1,d1,6a,79,2f,e2,66,c8,0f,41,97
+"KeyExchangePermissions"=dword:0000003b
+
+[Software\\Wine\\Debug] 1398021288
+"RelayExclude"="ntdll.RtlEnterCriticalSection;ntdll.RtlLeaveCriticalSection;kernel32.48;kernel32.49;kernel32.94;kernel32.95;kernel32.96;kernel32.97;kernel32.98;kernel32.TlsGetValue;kernel32.TlsSetValue;kernel32.FlsGetValue;kernel32.FlsSetValue;kernel32.SetLastError"
+"RelayFromExclude"="winex11.drv;winemac.drv;user32;gdi32;advapi32;kernel32"
+
+[Software\\Wine\\DllOverrides] 1398021289
+"winemenubuilder.exe"="native"
+
+[Software\\Wine\\Fonts] 1416772622
+"Codepages"="1251,866"
+"LogPixels"=dword:00000060
+
+[Software\\Wine\\Fonts\\External Fonts] 1416772622
+"AkaashNormal"="Z:\\usr\\share\\fonts\\TTF\\AkaashNormal.ttf"
+"AkrutiMal1 Bold"="Z:\\usr\\share\\fonts\\TTF\\mal1-b.ttf"
+"AkrutiMal1 Normal"="Z:\\usr\\share\\fonts\\TTF\\mal1-n.ttf"
+"AkrutiMal2 Bold"="Z:\\usr\\share\\fonts\\TTF\\mal2-b.ttf"
+"AkrutiMal2 Normal"="Z:\\usr\\share\\fonts\\TTF\\mal2-n.ttf"
+"AkrutiTml1 Bold"="Z:\\usr\\share\\fonts\\TTF\\akruti1b.ttf"
+"AkrutiTml1 Normal"="Z:\\usr\\share\\fonts\\TTF\\akruti1.ttf"
+"AkrutiTml2 Bold"="Z:\\usr\\share\\fonts\\TTF\\akruti2b.ttf"
+"AkrutiTml2 Normal"="Z:\\usr\\share\\fonts\\TTF\\akruti2.ttf"
+"Andale Mono"="Z:\\usr\\share\\fonts\\TTF\\andalemo.ttf"
+"Anonymous Pro"="Z:\\usr\\share\\fonts\\TTF\\Anonymous Pro.ttf"
+"Anonymous Pro Bold"="Z:\\usr\\share\\fonts\\TTF\\Anonymous Pro B.ttf"
+"Anonymous Pro Bold Italic"="Z:\\usr\\share\\fonts\\TTF\\Anonymous Pro BI.ttf"
+"Anonymous Pro Italic"="Z:\\usr\\share\\fonts\\TTF\\Anonymous Pro I.ttf"
+"Anonymous Pro Minus"="Z:\\usr\\share\\fonts\\TTF\\Anonymous Pro Minus.ttf"
+"Anonymous Pro Minus Bold"="Z:\\usr\\share\\fonts\\TTF\\Anonymous Pro Minus B.ttf"
+"Anonymous Pro Minus Bold Italic"="Z:\\usr\\share\\fonts\\TTF\\Anonymous Pro Minus BI.ttf"
+"Anonymous Pro Minus Italic"="Z:\\usr\\share\\fonts\\TTF\\Anonymous Pro Minus I.ttf"
+"Arial"="Z:\\usr\\share\\fonts\\TTF\\arial.ttf"
+"Arial Black"="Z:\\usr\\share\\fonts\\TTF\\ariblk.ttf"
+"Arial \x41a\x443\x440\x441\x438\x432"="Z:\\usr\\share\\fonts\\TTF\\ariali.ttf"
+"Arial \x41f\x43e\x43b\x443\x436\x438\x440\x43d\x44b\x439"="Z:\\usr\\share\\fonts\\TTF\\arialbd.ttf"
+"Arial \x41f\x43e\x43b\x443\x436\x438\x440\x43d\x44b\x439 \x41a\x443\x440\x441\x438\x432"="Z:\\usr\\share\\fonts\\TTF\\arialbi.ttf"
+"Bitstream Vera Sans"="Z:\\usr\\share\\fonts\\TTF\\Vera.ttf"
+"Bitstream Vera Sans Bold"="Z:\\usr\\share\\fonts\\TTF\\VeraBd.ttf"
+"Bitstream Vera Sans Bold Oblique"="Z:\\usr\\share\\fonts\\TTF\\VeraBI.ttf"
+"Bitstream Vera Sans Mono"="Z:\\usr\\share\\fonts\\TTF\\VeraMono.ttf"
+"Bitstream Vera Sans Mono Bold"="Z:\\usr\\share\\fonts\\TTF\\VeraMoBd.ttf"
+"Bitstream Vera Sans Mono Bold Oblique"="Z:\\usr\\share\\fonts\\TTF\\VeraMoBI.ttf"
+"Bitstream Vera Sans Mono Oblique"="Z:\\usr\\share\\fonts\\TTF\\VeraMoIt.ttf"
+"Bitstream Vera Sans Oblique"="Z:\\usr\\share\\fonts\\TTF\\VeraIt.ttf"
+"Bitstream Vera Serif"="Z:\\usr\\share\\fonts\\TTF\\VeraSe.ttf"
+"Bitstream Vera Serif Bold"="Z:\\usr\\share\\fonts\\TTF\\VeraSeBd.ttf"
+"Cantarell Bold"="Z:\\usr\\share\\fonts\\cantarell\\Cantarell-Bold.otf"
+"Cantarell Regular"="Z:\\usr\\share\\fonts\\cantarell\\Cantarell-Regular.otf"
+"Comic Sans MS"="Z:\\usr\\share\\fonts\\TTF\\comic.ttf"
+"Comic Sans MS \x41f\x43e\x43b\x443\x436\x438\x440\x43d\x44b\x439"="Z:\\usr\\share\\fonts\\TTF\\comicbd.ttf"
+"Courier New"="Z:\\usr\\share\\fonts\\TTF\\cour.ttf"
+"Courier New \x41a\x443\x440\x441\x438\x432"="Z:\\usr\\share\\fonts\\TTF\\couri.ttf"
+"Courier New \x41f\x43e\x43b\x443\x436\x438\x440\x43d\x44b\x439"="Z:\\usr\\share\\fonts\\TTF\\courbd.ttf"
+"Courier New \x41f\x43e\x43b\x443\x436\x438\x440\x43d\x44b\x439 \x41a\x443\x440\x441\x438\x432"="Z:\\usr\\share\\fonts\\TTF\\courbi.ttf"
+"DejaVu Sans"="Z:\\usr\\share\\fonts\\TTF\\DejaVuSans.ttf"
+"DejaVu Sans Bold"="Z:\\usr\\share\\fonts\\TTF\\DejaVuSans-Bold.ttf"
+"DejaVu Sans Bold Oblique"="Z:\\usr\\share\\fonts\\TTF\\DejaVuSans-BoldOblique.ttf"
+"DejaVu Sans Condensed"="Z:\\usr\\share\\fonts\\TTF\\DejaVuSansCondensed.ttf"
+"DejaVu Sans Condensed Bold"="Z:\\usr\\share\\fonts\\TTF\\DejaVuSansCondensed-Bold.ttf"
+"DejaVu Sans Condensed Bold Oblique"="Z:\\usr\\share\\fonts\\TTF\\DejaVuSansCondensed-BoldOblique.ttf"
+"DejaVu Sans Condensed Oblique"="Z:\\usr\\share\\fonts\\TTF\\DejaVuSansCondensed-Oblique.ttf"
+"DejaVu Sans ExtraLight"="Z:\\usr\\share\\fonts\\TTF\\DejaVuSans-ExtraLight.ttf"
+"DejaVu Sans Mono"="Z:\\usr\\share\\fonts\\TTF\\DejaVuSansMono.ttf"
+"DejaVu Sans Mono Bold"="Z:\\usr\\share\\fonts\\TTF\\DejaVuSansMono-Bold.ttf"
+"DejaVu Sans Mono Bold Oblique"="Z:\\usr\\share\\fonts\\TTF\\DejaVuSansMono-BoldOblique.ttf"
+"DejaVu Sans Mono Oblique"="Z:\\usr\\share\\fonts\\TTF\\DejaVuSansMono-Oblique.ttf"
+"DejaVu Sans Oblique"="Z:\\usr\\share\\fonts\\TTF\\DejaVuSans-Oblique.ttf"
+"DejaVu Serif"="Z:\\usr\\share\\fonts\\TTF\\DejaVuSerif.ttf"
+"DejaVu Serif Bold"="Z:\\usr\\share\\fonts\\TTF\\DejaVuSerif-Bold.ttf"
+"DejaVu Serif Bold Italic"="Z:\\usr\\share\\fonts\\TTF\\DejaVuSerif-BoldItalic.ttf"
+"DejaVu Serif Condensed"="Z:\\usr\\share\\fonts\\TTF\\DejaVuSerifCondensed.ttf"
+"DejaVu Serif Condensed Bold"="Z:\\usr\\share\\fonts\\TTF\\DejaVuSerifCondensed-Bold.ttf"
+"DejaVu Serif Condensed Bold Italic"="Z:\\usr\\share\\fonts\\TTF\\DejaVuSerifCondensed-BoldItalic.ttf"
+"DejaVu Serif Condensed Italic"="Z:\\usr\\share\\fonts\\TTF\\DejaVuSerifCondensed-Italic.ttf"
+"DejaVu Serif Italic"="Z:\\usr\\share\\fonts\\TTF\\DejaVuSerif-Italic.ttf"
+"Gargi-1.2b"="Z:\\usr\\share\\fonts\\TTF\\Gargi-1.2b.ttf"
+"Georgia"="Z:\\usr\\share\\fonts\\TTF\\georgia.ttf"
+"Georgia \x41a\x443\x440\x441\x438\x432"="Z:\\usr\\share\\fonts\\TTF\\georgiai.ttf"
+"Georgia \x41f\x43e\x43b\x443\x436\x438\x440\x43d\x44b\x439"="Z:\\usr\\share\\fonts\\TTF\\georgiab.ttf"
+"Georgia \x41f\x43e\x43b\x443\x436\x438\x440\x43d\x44b\x439 \x41a\x443\x440\x441\x438\x432"="Z:\\usr\\share\\fonts\\TTF\\georgiaz.ttf"
+"Goha-Tibeb Zemen"="Z:\\usr\\share\\fonts\\TTF\\GohaTibebZemen.ttf"
+"GurbaniBoliLite"="Z:\\usr\\share\\fonts\\TTF\\gbolilite.ttf"
+"Impact"="Z:\\usr\\share\\fonts\\TTF\\impact.ttf"
+"Inconsolata"="Z:\\usr\\share\\fonts\\OTF\\Inconsolata.otf"
+"KanjiStrokeOrders"="Z:\\usr\\share\\fonts\\kanjistrokeorders\\KanjiStrokeOrders.ttf"
+"Liberation Mono"="Z:\\usr\\share\\fonts\\TTF\\LiberationMono-Regular.ttf"
+"Liberation Mono Bold"="Z:\\usr\\share\\fonts\\TTF\\LiberationMono-Bold.ttf"
+"Liberation Mono Bold Italic"="Z:\\usr\\share\\fonts\\TTF\\LiberationMono-BoldItalic.ttf"
+"Liberation Mono Italic"="Z:\\usr\\share\\fonts\\TTF\\LiberationMono-Italic.ttf"
+"Liberation Sans"="Z:\\usr\\share\\fonts\\TTF\\LiberationSans-Regular.ttf"
+"Liberation Sans Bold"="Z:\\usr\\share\\fonts\\TTF\\LiberationSans-Bold.ttf"
+"Liberation Sans Bold Italic"="Z:\\usr\\share\\fonts\\TTF\\LiberationSans-BoldItalic.ttf"
+"Liberation Sans Italic"="Z:\\usr\\share\\fonts\\TTF\\LiberationSans-Italic.ttf"
+"Liberation Serif"="Z:\\usr\\share\\fonts\\TTF\\LiberationSerif-Regular.ttf"
+"Liberation Serif Bold"="Z:\\usr\\share\\fonts\\TTF\\LiberationSerif-Bold.ttf"
+"Liberation Serif Bold Italic"="Z:\\usr\\share\\fonts\\TTF\\LiberationSerif-BoldItalic.ttf"
+"Liberation Serif Italic"="Z:\\usr\\share\\fonts\\TTF\\LiberationSerif-Italic.ttf"
+"Likhan"="Z:\\usr\\share\\fonts\\TTF\\LikhanNormal.ttf"
+"Linux Biolinum"="Z:\\usr\\share\\fonts\\TTF\\LinBiolinum_Rah.ttf"
+"Linux Biolinum Bold"="Z:\\usr\\share\\fonts\\TTF\\LinBiolinum_RBah.ttf"
+"Linux Biolinum Italic"="Z:\\usr\\share\\fonts\\TTF\\LinBiolinum_RIah.ttf"
+"Linux Biolinum Keyboard"="Z:\\usr\\share\\fonts\\TTF\\LinBiolinum_Kah.ttf"
+"Linux Biolinum Keyboard O"="Z:\\usr\\share\\fonts\\OTF\\LinBiolinum_K.otf"
+"Linux Biolinum O"="Z:\\usr\\share\\fonts\\OTF\\LinBiolinum_R.otf"
+"Linux Biolinum O Bold"="Z:\\usr\\share\\fonts\\OTF\\LinBiolinum_RB.otf"
+"Linux Biolinum O Italic"="Z:\\usr\\share\\fonts\\OTF\\LinBiolinum_RI.otf"
+"Linux Libertine"="Z:\\usr\\share\\fonts\\TTF\\LinLibertine_Rah.ttf"
+"Linux Libertine Bold"="Z:\\usr\\share\\fonts\\TTF\\LinLibertine_RBah.ttf"
+"Linux Libertine Bold Italic"="Z:\\usr\\share\\fonts\\TTF\\LinLibertine_RBIah.ttf"
+"Linux Libertine Display"="Z:\\usr\\share\\fonts\\TTF\\LinLibertine_DRah.ttf"
+"Linux Libertine Display O"="Z:\\usr\\share\\fonts\\OTF\\LinLibertine_DR.otf"
+"Linux Libertine Initials"="Z:\\usr\\share\\fonts\\TTF\\LinLibertine_I.ttf"
+"Linux Libertine Initials O"="Z:\\usr\\share\\fonts\\OTF\\LinLibertine_I.otf"
+"Linux Libertine Italic"="Z:\\usr\\share\\fonts\\TTF\\LinLibertine_RIah.ttf"
+"Linux Libertine Mono"="Z:\\usr\\share\\fonts\\TTF\\LinLibertine_Mah.ttf"
+"Linux Libertine Mono O"="Z:\\usr\\share\\fonts\\OTF\\LinLibertine_M.otf"
+"Linux Libertine O"="Z:\\usr\\share\\fonts\\OTF\\LinLibertine_R.otf"
+"Linux Libertine O Bold"="Z:\\usr\\share\\fonts\\OTF\\LinLibertine_RB.otf"
+"Linux Libertine O Bold Italic"="Z:\\usr\\share\\fonts\\OTF\\LinLibertine_RBI.otf"
+"Linux Libertine O Italic"="Z:\\usr\\share\\fonts\\OTF\\LinLibertine_RI.otf"
+"Linux Libertine O Semibold"="Z:\\usr\\share\\fonts\\OTF\\LinLibertine_RZ.otf"
+"Linux Libertine O Semibold Italic"="Z:\\usr\\share\\fonts\\OTF\\LinLibertine_RZI.otf"
+"Linux Libertine Semibold"="Z:\\usr\\share\\fonts\\TTF\\LinLibertine_RZah.ttf"
+"Linux Libertine Semibold Italic"="Z:\\usr\\share\\fonts\\TTF\\LinLibertine_RZIah.ttf"
+"malayalam"="Z:\\usr\\share\\fonts\\TTF\\malayalam.ttf"
+"MalOtf"="Z:\\usr\\share\\fonts\\TTF\\MalOtf.ttf"
+"Marlett"="Z:\\opt\\teamviewer9\\tv_bin\\wine\\bin\\..\\share\\wine\\fonts\\\\marlett.ttf"
+"Mukti"="Z:\\usr\\share\\fonts\\TTF\\MuktiNarrowBold.ttf"
+"orya"="Z:\\usr\\share\\fonts\\TTF\\oriya.ttf"
+"padmaa-bold-indictrans"="Z:\\usr\\share\\fonts\\TTF\\padmaa-Bold-0.5.ttf"
+"padmaa-normal-indictrans"="Z:\\usr\\share\\fonts\\TTF\\padmaa-Medium-0.5.ttf"
+"Pothana2000 "="Z:\\usr\\share\\fonts\\TTF\\Pothana2000.ttf"
+"Sagar"="Z:\\usr\\share\\fonts\\TTF\\SagarNormal.ttf"
+"Sampige"="Z:\\usr\\share\\fonts\\TTF\\Sampige.ttf"
+"Symbol"="Z:\\opt\\teamviewer9\\tv_bin\\wine\\bin\\..\\share\\wine\\fonts\\\\symbol.ttf"
+"Tahoma"="Z:\\opt\\teamviewer9\\tv_bin\\wine\\bin\\..\\share\\wine\\fonts\\\\tahoma.ttf"
+"Tahoma Bold"="Z:\\opt\\teamviewer9\\tv_bin\\wine\\bin\\..\\share\\wine\\fonts\\\\tahomabd.ttf"
+"TAMu_Kadambri Regular"="Z:\\usr\\share\\fonts\\TTF\\TAMu_Kadampari.ttf"
+"TAMu_Kalyani"="Z:\\usr\\share\\fonts\\TTF\\TAMu_Kalyani.ttf"
+"TAMu_Maduram"="Z:\\usr\\share\\fonts\\TTF\\TAMu_Maduram.ttf"
+"Times New Roman"="Z:\\usr\\share\\fonts\\TTF\\times.ttf"
+"Times New Roman \x41a\x443\x440\x441\x438\x432"="Z:\\usr\\share\\fonts\\TTF\\timesi.ttf"
+"Times New Roman \x41f\x43e\x43b\x443\x436\x438\x440\x43d\x44b\x439"="Z:\\usr\\share\\fonts\\TTF\\timesbd.ttf"
+"Times New Roman \x41f\x43e\x43b\x443\x436\x438\x440\x43d\x44b\x439 \x41a\x443\x440\x441\x438\x432"="Z:\\usr\\share\\fonts\\TTF\\timesbi.ttf"
+"Trebuchet MS"="Z:\\usr\\share\\fonts\\TTF\\trebuc.ttf"
+"Trebuchet MS \x41a\x443\x440\x441\x438\x432"="Z:\\usr\\share\\fonts\\TTF\\trebucit.ttf"
+"Trebuchet MS \x41f\x43e\x43b\x443\x436\x438\x440\x43d\x44b\x439"="Z:\\usr\\share\\fonts\\TTF\\trebucbd.ttf"
+"Trebuchet MS \x41f\x43e\x43b\x443\x436\x438\x440\x43d\x44b\x439 \x41a\x443\x440\x441\x438\x432"="Z:\\usr\\share\\fonts\\TTF\\trebucbi.ttf"
+"TSCu_Comic"="Z:\\usr\\share\\fonts\\TTF\\TSCu_Comic.ttf"
+"TSCu_Paranar"="Z:\\usr\\share\\fonts\\TTF\\TSCu_Paranar.ttf"
+"TSCu_Paranar Bold"="Z:\\usr\\share\\fonts\\TTF\\TSCu_paranarb.ttf"
+"TSCu_Paranar Italic"="Z:\\usr\\share\\fonts\\TTF\\TSCu_paranari.ttf"
+"TSCu_Times"="Z:\\usr\\share\\fonts\\TTF\\TSCu_Times.ttf"
+"Verdana"="Z:\\usr\\share\\fonts\\TTF\\verdana.ttf"
+"Verdana \x41a\x443\x440\x441\x438\x432"="Z:\\usr\\share\\fonts\\TTF\\verdanai.ttf"
+"Verdana \x41f\x43e\x43b\x443\x436\x438\x440\x43d\x44b\x439"="Z:\\usr\\share\\fonts\\TTF\\verdanab.ttf"
+"Verdana \x41f\x43e\x43b\x443\x436\x438\x440\x43d\x44b\x439 \x41a\x443\x440\x441\x438\x432"="Z:\\usr\\share\\fonts\\TTF\\verdanaz.ttf"
+"Webdings"="Z:\\usr\\share\\fonts\\TTF\\webdings.ttf"
+
+[Software\\Wine\\X11 Driver] 1398021289
+"UseXRandR"="N"
+"UseXVidMode"="N"

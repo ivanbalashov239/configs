@@ -1,0 +1,21 @@
+# KVIrc configuration file
+[По%20умолчанию]
+Gender=
+AltNickName1=newbie|2
+UserMode=
+AltNickName2=newbie|3
+QuitMessage=KVIrc%20$version(v)%20$version(n)%20http://www.kvirc.net/
+OnConnectCommand=
+AltNickName3=newbie|4
+NickName=newbie
+OtherInfo=
+PartMessage=Once%20you%20know%20what%20it%20is%20you%20want%20to%20be%20true,%20instinct%20is%20a%20very%20useful%20device%20for%20enabling%20you%20to%20know%20that%20it%20is
+Location=
+Avatar=
+Age=
+UserName=kvirc
+OnLoginCommand=
+Password=
+Languages=
+[KVIrc]
+DefaultIdentity=

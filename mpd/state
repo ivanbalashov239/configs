@@ -1,0 +1,24 @@
+sw_volume: 100
+audio_device_state:1:Pulse audio
+state: pause
+current: 4
+time: 175.798000
+random: 0
+repeat: 0
+single: 0
+consume: 0
+crossfade: 0
+mixrampdb: 0.000000
+mixrampdelay: -1.000000
+playlist_begin
+0:Lana Del Rey/Unreleased/Other song/Lana Del Rey - Motel 6 [Moy Re-Instrumentation].mp3
+1:The Kooks/The Kooks - Victoria (The Kinks).mp3
+2:Arctic Monkeys - Discography - 2005-2013/Albums (Japan Press)/2007 - Favourite Worst Nightmare (Japanese Edition) - (320 kbps)/09. If You Were There, Beware.mp3
+3:OFFSPRING2008[tfile.ru]/07 - Kristy, Are You Doing Okay .flac
+4:Moby/Other/Compilations/1996 - Rare The Collected B-Sides 1989–1993/Disc 2 - Go The Collected Remixes/Moby - 01 - Go (Woodtick mix).mp3
+5:The Kooks/The Kooks - Disappear.mp3
+6:Moby/Other/Compilations/1996 - Rare The Collected B-Sides 1989–1993/Disc 1 - Rare/Moby - 10 - Thousand.mp3
+7:Gym Class Heroes/Albums/2008 - The Quilt/06. Catch Me If You Can.mp3
+8:Greenday_Discography_[tfile.ru]/Dookie/Sassafras Roots.mp3
+9:Kasabian-Discography.2004-2011.MP3.320kbps/Singles & EPs/2004 - L.S.F. [Paradise14]/02. Lab Twat.mp3
+playlist_end

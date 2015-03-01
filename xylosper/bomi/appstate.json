@@ -1,0 +1,87 @@
+{
+    "ask_system_tray": false,
+    "auto_exit": false,
+    "bluray_device": "",
+    "dvd_device": "",
+    "history_visible": false,
+    "playinfo_visible": false,
+    "playlist_repeat": false,
+    "playlist_shuffled": false,
+    "playlist_visible": false,
+    "state": {
+        "audio_amplifier": 100,
+        "audio_channel_layout": "_2_0",
+        "audio_equalizer": {
+            "dbs": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        "audio_muted": false,
+        "audio_sync": 0,
+        "audio_tempo_scaler": true,
+        "audio_track": 1,
+        "audio_volume": 100,
+        "audio_volume_normalizer": false,
+        "device": "",
+        "edition": -1,
+        "last_played_date_time": 1425048349463,
+        "mrl": "file:///home/ivn/Загрузки/Brooklyn.Nine-Nine.S01.Season.1.1080p.5.1Ch.Web-DL.ReEnc-DeeJayAhmed/Brooklyn.Nine-Nine.S01E03.1080p.5.1Ch.Web-DL.ReEnc-DeeJayAhmed.mkv",
+        "play_speed": 100,
+        "resume_position": -1,
+        "sub_alignment": "Bottom",
+        "sub_display": "OnLetterbox",
+        "sub_position": 100,
+        "sub_sync": 0,
+        "sub_track": {
+            "bomi": {
+            },
+            "mpv": [
+            ],
+            "track": 0,
+            "valid": false
+        },
+        "video_aspect_ratio": "Source",
+        "video_chroma_upscaler": "Bilinear",
+        "video_color": {
+            "brightness": 0,
+            "contrast": -1,
+            "hue": 0,
+            "saturation": 0
+        },
+        "video_crop_ratio": "Source",
+        "video_deinterlacing": "Auto",
+        "video_dithering": "Fruit",
+        "video_effects": [
+        ],
+        "video_horizontal_alignment": "Center",
+        "video_hq_downscaling": false,
+        "video_hq_upscaling": false,
+        "video_interpolator": "Bilinear",
+        "video_offset": {
+            "x": 0,
+            "y": 0
+        },
+        "video_range": "Auto",
+        "video_space": "Auto",
+        "video_vertical_alignment": "Center"
+    },
+    "sub_find_lang_code": "",
+    "win_pos": {
+        "x": 0.41570298234936093,
+        "y": 0.011904761904761904
+    },
+    "win_size": {
+        "height": 1058,
+        "width": 1920
+    },
+    "win_stays_on_top": "None"
+}

@@ -1,0 +1,26 @@
+{
+ "profile": {
+  "config": "Core::JsonConfigBackend",
+  "configDir": "/home/ivn/.config/qutim",
+  "crypto": "Core::NoCryptoService",
+  "historyDir": "/home/ivn/.config/qutim/history",
+  "id": "ivn",
+  "name": "ivn",
+  "portable": false,
+  "shareDir": "/home/ivn/.local/share/qutim"
+ },
+ "statistics": {
+  "automatic": false,
+  "denied": false,
+  "full": "Manjaro Linux",
+  "height": "768",
+  "key": "c144ce98af46174d6d0808b0e4d4b860b72e8c7e",
+  "locale": "ru_RU",
+  "os": "Linux",
+  "qt": "4.8.4",
+  "short": "Manjaro Linux",
+  "version": "0.3.1.0",
+  "width": "1366",
+  "wordSize": "64"
+ }
+}

@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Terminal=true
+Name=Fresh
+Icon=/home/ivn/.config/plank/dock2/theme_index/theme-icons/plank_theme.svg
+Exec=/home/ivn/.config/plank/dock2/theme_index/Fresh.sh

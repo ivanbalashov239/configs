@@ -1,0 +1,63 @@
+Unsupported format:
+/home/ivn/Музыка/Boney M/TRACK02.WAV
+/home/ivn/Музыка/Boney M/He Was A Steppenwolf.wav
+/home/ivn/Музыка/Boney M/Voodoonight.wav
+/home/ivn/Музыка/Boney M/Painter Man.wav
+/home/ivn/Музыка/Boney M/Heart Of Gold.wav
+/home/ivn/Музыка/Boney M/Nightflight To Venus.wav
+/home/ivn/Музыка/Boney M/Brown Girl In The Ring.wav
+/home/ivn/Музыка/Boney M/King Of The Road.wav
+/home/ivn/Музыка/Boney M/Never Change Lovers In The Middle Of The Night.wav
+/home/ivn/Музыка/Boney M/Rivers Of Babylon.wav
+/home/ivn/Музыка/Музыка/03 Right Now.wma
+/home/ivn/Музыка/Музыка/06 Where'd You Go.wma
+
+Invalid MP3 formatted file:
+/home/ivn/Музыка/The Kooks/the_kooks_-_stormy_weather.mp3
+/home/ivn/Музыка/The Kooks/The Kooks - Love to love you (by Bob Pritchard, live.mp3
+/home/ivn/Музыка/The Kooks/The_Kooks_-_Eddie`s_Gun.mp3
+/home/ivn/Музыка/The Kooks/The Kooks - I Already Miss You.mp3
+/home/ivn/Музыка/The Kooks/The Kooks - Do You Love Her.mp3
+/home/ivn/Музыка/The Kooks/The Kooks - In My Opinion (She Moves In Her Own Way Single).mp3
+/home/ivn/Музыка/The Kooks/The_Kooks_-_Sofa_Song.mp3
+/home/ivn/Музыка/The Kooks/The Kooks - Do You Love Me Still (She Moves In Her Own Way Single).mp3
+/home/ivn/Музыка/The Kooks/The Kooks - Walk Away (Always Where I Need to Be Single).mp3
+/home/ivn/Музыка/The Kooks/The Kooks - Hatful Of Love.mp3
+/home/ivn/Музыка/The Kooks/The_Kooks_-_Seaside.mp3
+/home/ivn/Музыка/The Kooks/the_kooks_-_see_the_sun.mp3
+/home/ivn/Музыка/The Kooks/Rainbow.mp3
+/home/ivn/Музыка/The Kooks/The Kooks - Hiding Low (Naive Single).mp3
+/home/ivn/Музыка/The Kooks/The_Smiths_-_How_Soon_Is_Now.mp3
+/home/ivn/Музыка/The Kooks/The Kooks - Mrs Thompson (Always Where I Need To Be Single).mp3
+/home/ivn/Музыка/The Kooks/The Kooks - Bus Song.mp3
+/home/ivn/Музыка/The Kooks/The Kooks - By My Side.mp3
+/home/ivn/Музыка/The Kooks/The_Kooks_-_You_Don`t_Love_Me.mp3
+/home/ivn/Музыка/The Kooks/The Kooks - Something to say.mp3
+/home/ivn/Музыка/The Kooks/The Kooks - Sabbator.mp3
+/home/ivn/Музыка/The Kooks/The Kooks - Lesson No.3 (Demo).mp3
+/home/ivn/Музыка/The Kooks/The Kooks - Give In (She Moves In Her Own Way Single).mp3
+/home/ivn/Музыка/The Kooks/The Kooks - Suburbs.mp3
+/home/ivn/Музыка/The Kooks/The Kooks - Sailing.mp3
+/home/ivn/Музыка/The Kooks/The Kooks - Belly Love.mp3
+/home/ivn/Музыка/The Kooks/The Kooks - California.mp3
+/home/ivn/Музыка/The Kooks/The Kooks - Tick of Time.mp3
+/home/ivn/Музыка/Kasabian-Discography.2004-2011.MP3.320kbps/Albums/2006 - Empire [Paradise39]/06. Apnoea.mp3
+/home/ivn/Музыка/Kasabian-Discography.2004-2011.MP3.320kbps/Albums/2006 - Empire [Paradise39]/04. Me Plus One.mp3
+/home/ivn/Музыка/Kasabian-Discography.2004-2011.MP3.320kbps/Albums/2004 - Kasabian [Paradise17]/09. Pinch Roller.mp3
+/home/ivn/Музыка/Kasabian-Discography.2004-2011.MP3.320kbps/Singles & EPs/2005 - Cutt Off (CD2) [Paradise26]/03. Out Of Space (Live Lounge Version).mp3
+/home/ivn/Музыка/SAY ANYTHING - IN DEFENSE OF THE GENRE_[tfile.ru]/1 CD/Shiksa__Girlfriend_.mp3
+/home/ivn/Музыка/SAY ANYTHING - IN DEFENSE OF THE GENRE_[tfile.ru]/1 CD/That_Is_Why.mp3
+/home/ivn/Музыка/SAY ANYTHING - IN DEFENSE OF THE GENRE_[tfile.ru]/1 CD/Surgically_Removing_The_Tracking_Device.mp3
+/home/ivn/Музыка/SAY ANYTHING - IN DEFENSE OF THE GENRE_[tfile.ru]/1 CD/Baby_Girl__I_m_A_Blur.mp3
+/home/ivn/Музыка/SAY ANYTHING - IN DEFENSE OF THE GENRE_[tfile.ru]/2 CD/About_Falling.mp3
+/home/ivn/Музыка/SAY ANYTHING - IN DEFENSE OF THE GENRE_[tfile.ru]/2 CD/Goodbye_Young_Tutor__You_ve_Now_Outgrown_Me.mp3
+/home/ivn/Музыка/SAY ANYTHING - IN DEFENSE OF THE GENRE_[tfile.ru]/2 CD/Spores.mp3
+/home/ivn/Музыка/SAY ANYTHING - IN DEFENSE OF THE GENRE_[tfile.ru]/2 CD/I_Used_To_Have_A_Heart.mp3
+/home/ivn/Музыка/SAY ANYTHING - IN DEFENSE OF THE GENRE_[tfile.ru]/2 CD/Have_At_Thee_.mp3
+/home/ivn/Музыка/SAY ANYTHING - IN DEFENSE OF THE GENRE_[tfile.ru]/2 CD/In_Defense_Of_The_Genre.mp3
+/home/ivn/Музыка/SAY ANYTHING - IN DEFENSE OF THE GENRE_[tfile.ru]/2 CD/The_Word_You_Wield.mp3
+
+Error uploading file:
+The All-American Rejects (When The World Comes Down) 2008 Flac/CD1 (Album)/(12) [].flac
+The All-American Rejects (When The World Comes Down) 2008 Flac/CD1 (Album)/12-The All-American Rejects-[Silence].flac
+

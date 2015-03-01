@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="enable_timeout" mtime="1423836772" type="bool" value="false"/>
+	<entry name="overview_window_box" mtime="1423836071" type="list" ltype="string">
+		<li type="string">
+			<stringvalue>283</stringvalue>
+		</li>
+		<li type="string">
+			<stringvalue>84</stringvalue>
+		</li>
+		<li type="string">
+			<stringvalue>800</stringvalue>
+		</li>
+		<li type="string">
+			<stringvalue>600</stringvalue>
+		</li>
+	</entry>
+	<entry name="overview_window_maximized" mtime="1423836071" type="bool" value="false"/>
+	<entry name="workspace_tracking" mtime="1389340832" type="list" ltype="string">
+	</entry>
+	<entry name="day_start_minutes" mtime="1389299873" type="int" value="480"/>
+	<entry name="notify_on_idle" mtime="1423836000" type="bool" value="true"/>
+	<entry name="notify_interval" mtime="1423836321" type="int" value="3"/>
+	<entry name="stop_on_shutdown" mtime="1389340825" type="bool" value="false"/>
+	<entry name="standalone_window_box" mtime="1423836780" type="list" ltype="string">
+		<li type="string">
+			<stringvalue>0</stringvalue>
+		</li>
+		<li type="string">
+			<stringvalue>22</stringvalue>
+		</li>
+		<li type="string">
+			<stringvalue>1920</stringvalue>
+		</li>
+		<li type="string">
+			<stringvalue>1058</stringvalue>
+		</li>
+	</entry>
+	<entry name="standalone_window_maximized" mtime="1423836780" type="bool" value="false"/>
+	<entry name="activities_source" mtime="1423836765" type="string">
+		<stringvalue></stringvalue>
+	</entry>
+</gconf>

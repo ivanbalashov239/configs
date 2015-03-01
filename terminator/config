@@ -1,0 +1,15 @@
+[global_config]
+  geometry_hinting = False
+  borderless = True
+[keybindings]
+[profiles]
+  [[default]]
+[layouts]
+  [[default]]
+    [[[child1]]]
+      type = Terminal
+      parent = window0
+    [[[window0]]]
+      type = Window
+      parent = ""
+[plugins]

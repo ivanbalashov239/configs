@@ -1,0 +1,19 @@
+{"$$indexCreated":{"fieldName":"key","unique":true,"sparse":false}}
+{"key":"language","value":"ru","_id":"3s9nphhfyRnnUBY9"}
+{"key":"version","value":"0.3.7-1","_id":"f5gpp2UfJwCMRM5C"}
+{"key":"releaseName","value":"The car wont start","_id":"a4Lh5VcdNIfqpWHX"}
+{"key":"arch","value":"x64","_id":"JOt2IkBUwgRlIzAS"}
+{"key":"os","value":"linux","_id":"vrWhkBXfzGWOxeGI"}
+{"key":"disclaimerAccepted","value":1,"_id":"QypPzsvNS2t4KoJ9"}
+{"key":"ipAddress","value":"192.168.0.47","_id":"18IzIlSpgP4JRGLn"}
+{"key":"subtitle_language","value":"en","_id":"2G54jCccjRZe9GI9"}
+{"key":"language","value":"en","_id":"3s9nphhfyRnnUBY9"}
+{"key":"ipAddress","value":"192.168.0.47","_id":"18IzIlSpgP4JRGLn"}
+{"key":"language","value":"ru","_id":"3s9nphhfyRnnUBY9"}
+{"key":"ipAddress","value":"192.168.0.47","_id":"18IzIlSpgP4JRGLn"}
+{"key":"theme","value":"Official_-_Flat_UI_theme","_id":"X9Irp9rGq1smd63P"}
+{"key":"theme","value":"Sebastiaans_-_Black_&_Red_theme","_id":"X9Irp9rGq1smd63P"}
+{"key":"theme","value":"Ghostbears_-_Zayt_theme","_id":"X9Irp9rGq1smd63P"}
+{"key":"theme","value":"Ghostbears_-_Chocolate_theme","_id":"X9Irp9rGq1smd63P"}
+{"key":"theme","value":"Official_-_Black_&_Yellow_theme","_id":"X9Irp9rGq1smd63P"}
+{"key":"theme","value":"Official_-_Dark_theme","_id":"X9Irp9rGq1smd63P"}

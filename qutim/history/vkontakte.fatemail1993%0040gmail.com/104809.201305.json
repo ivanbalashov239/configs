@@ -1,0 +1,25 @@
+[
+ {
+  "mid": 74377,
+  "subject": " ... ",
+  "datetime": "2013-05-11T21:02:14",
+  "in": true,
+  "text": "",
+  "html": ""
+ },
+ {
+  "mid": 74866,
+  "subject": " ... ",
+  "datetime": "2013-05-15T16:43:47",
+  "in": true,
+  "text": "http://samoobrazovanie.zp.ua/fizika/f6t02.php",
+  "html": "http://samoobrazovanie.zp.ua/fizika/f6t02.php"
+ },
+ {
+  "service": true,
+  "datetime": "2013-05-24T18:03:07",
+  "in": false,
+  "text": "File sent: fon.jpg (17139 bytes)\nDownload url: http://yadi.sk/d/8CebBYEe58EtK",
+  "html": "File sent: fon.jpg (17139 bytes)<br/>Download url: http://yadi.sk/d/8CebBYEe58EtK <span class='urlpreview' id='urlpreview1'></span> "
+ }
+]

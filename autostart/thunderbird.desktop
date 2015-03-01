@@ -1,0 +1,22 @@
+[Desktop Entry]
+Categories=Network;Email;
+Comment[ru]=Mail & News Reader
+Comment=Mail & News Reader
+Exec=thunderbird %u
+GenericName[ru]=Mail Client & News Reader
+GenericName=Mail Client & News Reader
+Icon=thunderbird
+MimeType=message/rfc822;
+Name[ru]=Thunderbird
+Name=Thunderbird
+Path=
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+TryExec=thunderbird
+Type=Application
+Version=1.0
+X-DBUS-ServiceName=
+X-DBUS-StartupType=
+X-KDE-SubstituteUID=false
+X-KDE-Username=

@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="rekonq_py" mtime="1398188399" type="bool" value="false"/>
+	<entry name="last_fm_py" mtime="1398188399" type="bool" value="false"/>
+	<entry name="krdc_menus_py" mtime="1398188399" type="bool" value="false"/>
+	<entry name="kopete_py" mtime="1398188399" type="bool" value="false"/>
+	<entry name="konsole_py" mtime="1398188399" type="bool" value="false"/>
+	<entry name="konqueror_py" mtime="1398188399" type="bool" value="false"/>
+	<entry name="kate_py" mtime="1398188399" type="bool" value="false"/>
+	<entry name="firefox_py" mtime="1398188399" type="bool" value="false"/>
+	<entry name="dolphin_py" mtime="1398188399" type="bool" value="false"/>
+	<entry name="clementine_py" mtime="1398188399" type="bool" value="false"/>
+	<entry name="chromium_py" mtime="1398188399" type="bool" value="false"/>
+	<entry name="chromium_browser_py" mtime="1398188399" type="bool" value="false"/>
+	<entry name="chrome_py" mtime="1398188399" type="bool" value="false"/>
+	<entry name="amarok_py" mtime="1398188399" type="bool" value="false"/>
+	<entry name="akonadi_py" mtime="1398188399" type="bool" value="false"/>
+</gconf>

@@ -1,0 +1,480 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Manjaro Linux | Manjaro Linux</title>
+	<atom:link href="http://manjaro.org/feed/" rel="self" type="application/rss+xml" />
+	<link>http://manjaro.org</link>
+	<description>Enjoy the simplicity</description>
+	<lastBuildDate>Tue, 01 Oct 2013 19:18:26 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.6.1</generator>
+		<item>
+		<title>Fourth update-pack for Manjaro 0.8.7</title>
+		<link>http://manjaro.org/2013/10/01/fourth-update-pack-for-manjaro-0-8-7/</link>
+		<comments>http://manjaro.org/2013/10/01/fourth-update-pack-for-manjaro-0-8-7/#comments</comments>
+		<pubDate>Tue, 01 Oct 2013 16:16:47 +0000</pubDate>
+		<dc:creator>philm</dc:creator>
+				<category><![CDATA[general]]></category>
+		<category><![CDATA[news]]></category>
+
+		<guid isPermaLink="false">http://manjaro.org/?p=3399</guid>
+		<description><![CDATA[Almost two weeks passed since the last update in our stable branch. This time it took us a little longer to prepare the update-pack for you. Also we are happy to see some Community Editions based on our latest stable release online. Thanks flies out to our Community Maintainers of those editions. This update will [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://manjaro.org/wp-content/uploads/2013/08/system_software_update.png" rel="lightbox[3399]" title="Fourth update-pack for Manjaro 0.8.7"><img src="http://manjaro.org/wp-content/uploads/2013/08/system_software_update.png" alt="system_software_update" width="128" height="128" class="alignleft size-full wp-image-3157" /></a>Almost two weeks passed since the last update in our stable branch. This time it took us a little longer to prepare the update-pack for you. Also we are happy to see some Community Editions based on our latest stable release online. Thanks flies out to our Community Maintainers of those editions. </p>
+<p>This update will automatically correct the issue with our MATE edition missing the Mate-Repository. Also we updated <a href="http://www.mozilla.org/en-US/firefox/24.0/releasenotes/">Firefox</a> and <a href="http://www.mozilla.org/en-US/thunderbird/24.0/releasenotes/">Thunderbird</a> to the latest 24-series. As always regular upstream updates by Archlinux (2013-10-01 17:35 CEST).</p>
+<p>Guillaume worked hard to update our graphical package manager Pamac. Now we use more parts directly from alpm so dependency management is much better now as before. Therefore we modified pyalpm. The UI got a redesign in some parts.</p>
+<p><a href="http://manjaro.org/wp-content/uploads/2013/10/pamac-0.8.png" rel="lightbox[3399]" title="Fourth update-pack for Manjaro 0.8.7"><img src="http://manjaro.org/wp-content/uploads/2013/10/pamac-0.8-300x192.png" alt="pamac-0.8" width="300" height="192" class="alignleft size-medium wp-image-3402" /></a><strong>Features of Pamac 0.8</strong></p>
+<ul>
+<li>stable backend for updates or transactions</li>
+<li>redesigned transaction progress window with details expander</li>
+<li>post-install script output is visble in this expander</li>
+<li>you can install local packages from pamac-manager (you can also do it from cli with pamac-install cmd or from your file manager)</li>
+</ul>
+<p>We have now over <strong><a href="http://sourceforge.net/projects/manjarolinux/files/release/0.8.7/stats/timeline?dates=2013-08-25+to+2013-10-01">55.200</a></strong> Downloads in total for Manjaro 0.8.7 and already over <strong><a href="http://sourceforge.net/projects/manjarolinux/files/release/0.8.7.1/stats/timeline?dates=2013-09-12+to+2013-10-01">40,100</a></strong> for 0.8.7.1. This is of the charts and shows us how popular we already are. We hope you enjoy Manjaro as we developers and supporters do.</p>
+<hr />
+<p><strong>Current supported kernels</strong></p>
+<ul>
+<li>Linux34 <strong>3.4.63</strong> &#8211; our default kernel series for Manjaro 0.8.7</li>
+<li>Linux38 <strong>3.8.13.10</strong> &#8211; stable extended support kernel maintained by Canonical</li>
+<li>Linux310 <strong>3.10.13</strong> &#8211; it gets better with each update &#8230;</li>
+<li>Linux311 <strong>3.11.2</strong> &#8211; current stable release by Linus. AMD users should check out the new power support</li>
+</ul>
+<p><strong>Key-Updates:</strong></p>
+<ul>
+<li>Kernels 3.4.63, 3.8.13.10, 3.10.13, 3.11.2</li>
+<li>Pamac 0.8.1</li>
+<li>Octopi 0.3-dev</li>
+<li>Firefox 24.0</li>
+<li>Thunderbird 24.0</li>
+</ul>
+<p><strong>Changes in Detail:</strong></p>
+<ul>
+<li>stable community i686:  246 new and 258 removed package(s)</li>
+<li>stable community x86_64:  244 new and 255 removed package(s)</li>
+<li>stable core i686:  34 new and 33 removed package(s)</li>
+<li>stable core x86_64:  34 new and 33 removed package(s)</li>
+<li>stable extra i686:  374 new and 369 removed package(s)</li>
+<li>stable extra x86_64:  370 new and 365 removed package(s)</li>
+<li>stable multilib x86_64:  16 new and 17 removed package(s)</li>
+</ul>
+<p><strong>Update instructions:</strong></p>
+<p>Update your system as usual with pamac, octopi or pacman:</p>
+<pre class="wp-code-highlight prettyprint">sudo pacman -Syu</pre>
+<p>If you update with pamac you have to close the updater after pamac 0.8.1 got installed.<br />
+We changed the polkit engine. Simply restart <strong>pamac-manager</strong> or <strong>pamac-updater</strong>.</p>
+<p>Notice: You might have to wait until your mirror has synced.<br />
+Please check: <a href="http://repo.manjaro.org">http://repo.manjaro.org</a></p>
+<hr />
+<p><i><strong>Tip:</strong> KDE 4.11 includes a reworked OpenGL 2 compositor. OpenGL 3.1 got introduced. By default OpenGL 2 with the fallback to OpenGL 1 is used. If the hardware doesn’t support OpenGL 3.1 it automatically falls back to OpenGL 2 or OpenGL 1. When running kwin_gles KDE defaults to OpenGL ES 3.0 if present otherwise OpenGL ES 2.0 is used. Catalyst Legacy seems to have issues with this change. Here is a workaround to get it working:</i></p>
+<pre class="wp-code-highlight prettyprint">#!/bin/bash
+export $(dbus-launch)
+export KWIN_DIRECT_GL=1
+export KWIN_COMPOSE=O2
+kwin --replace &amp;</pre>
+<p><i>Save it as a script and place it into your <strong>~/.config/autostart</strong> dir. It is also possible to disable compositing till upstream fixes the bug.</i></p>
+]]></content:encoded>
+			<wfw:commentRss>http://manjaro.org/2013/10/01/fourth-update-pack-for-manjaro-0-8-7/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+		<item>
+		<title>Manjaro 0.8.8pre1 now online!</title>
+		<link>http://manjaro.org/2013/09/30/manjaro-0-8-8pre1-now-online/</link>
+		<comments>http://manjaro.org/2013/09/30/manjaro-0-8-8pre1-now-online/#comments</comments>
+		<pubDate>Mon, 30 Sep 2013 18:44:05 +0000</pubDate>
+		<dc:creator>philm</dc:creator>
+				<category><![CDATA[general]]></category>
+		<category><![CDATA[mhwd]]></category>
+		<category><![CDATA[news]]></category>
+		<category><![CDATA[videos]]></category>
+
+		<guid isPermaLink="false">http://manjaro.org/?p=3395</guid>
+		<description><![CDATA[I&#8217;m happy to announce our first public preview of Manjaro 0.8.8 featuring Pamac 0.8 and Thus, our new graphical simplified installer. Other features are: Linux 3.10 LTS XFCE 4.10 Thus 0.8 Latest drivers Updated hardware detection tool Please test this release and give us some feedback! Download Manjaro 0.8.8pre1 (XFCE i686)]]></description>
+				<content:encoded><![CDATA[<p>I&#8217;m happy to announce our first public preview of Manjaro 0.8.8 featuring Pamac 0.8 and Thus, our new graphical simplified installer. Other features are:</p>
+<ul>
+<li>Linux 3.10 LTS</li>
+<li>XFCE 4.10</li>
+<li>Thus 0.8</li>
+<li>Latest drivers</li>
+<li>Updated hardware detection tool</li>
+</ul>
+<p>Please test this release and give us some feedback!</p>
+<p><a href="https://sourceforge.net/projects/manjarotest/files/0.8.8/pre1/">Download Manjaro 0.8.8pre1 (XFCE i686)</a></p>
+<hr />
+]]></content:encoded>
+			<wfw:commentRss>http://manjaro.org/2013/09/30/manjaro-0-8-8pre1-now-online/feed/</wfw:commentRss>
+		<slash:comments>10</slash:comments>
+		</item>
+		<item>
+		<title>Manjaro Turkey releases a E17 Respin</title>
+		<link>http://manjaro.org/2013/09/29/manjaro-turkey-releases-a-e17-respin/</link>
+		<comments>http://manjaro.org/2013/09/29/manjaro-turkey-releases-a-e17-respin/#comments</comments>
+		<pubDate>Sun, 29 Sep 2013 22:40:27 +0000</pubDate>
+		<dc:creator>Manjaro Team</dc:creator>
+				<category><![CDATA[general]]></category>
+		<category><![CDATA[news]]></category>
+
+		<guid isPermaLink="false">http://manjaro.org/?p=3387</guid>
+		<description><![CDATA[On behalf of the Manjaro Turkey Community we are happy to announce our E17 Respin of Manjaro Linux &#8216;Ascella&#8217;. We thank the Manjaro developers putting up this nice platform to easily create our own custom spin of Manjaro. This respin is based on the 3.10 kernel series and ships E17 0.17.4, Firefox 23.0.1, Pamac 0.7.6 [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://manjaro.org/wp-content/uploads/2013/09/e17-0.8.7.1.png" rel="lightbox[3387]" title="Manjaro Turkey releases a E17 Respin"><img src="http://manjaro.org/wp-content/uploads/2013/09/e17-0.8.7.1-300x219.png" alt="e17-0.8.7.1" width="300" height="219" class="alignleft size-medium wp-image-3388" /></a>On behalf of the <strong>Manjaro Turkey Community</strong> we are happy to announce our E17 Respin of Manjaro Linux &#8216;Ascella&#8217;. We thank the Manjaro developers putting up this nice platform to easily create our own custom spin of Manjaro.<br />
+<nl><br />
+This respin is based on the <strong>3.10 kernel</strong> series and ships <strong>E17 0.17.4</strong>,  <strong>Firefox 23.0.1</strong>, <strong>Pamac 0.7.6</strong> and <strong>VLC 2.0.8a</strong> as media player.<br />
+<nl><br />
+With this release the turkish community adds a nice styled install media in addition to all official released editions by Manjaro developers. This respin is based on the stable branch, can be used for daily bases and easily installed by graphical or text installers.<br />
+<nl></p>
+<p>Sadly we missed to add any polkit agent to these install medias. Please use followed cmd to fix it in a terminal:</p>
+<pre class="wp-code-highlight prettyprint">sudo pacman -Sy lxpolkit</pre>
+<p><nl><br />
+Please also read the <a href="http://downloads.sourceforge.net/manjarolinux/manjaro-0.8.7.1-documentation.pdf">63 pages Beginners Guide</a> to help you thru the installation process.<br />
+<nl><br />
+All the best<br />
+<em><br />
+Tulliana &#038; Cumali- <a href="http://www.manjaro-tr.org/">Manjaro Turkey</a></em></p>
+<hr />
+<strong>Live Media features:</strong></p>
+<ul>
+<li>Kernel: 3.10.12</li>
+<li>Xorg: 1.14.2</li>
+<li>Webbrowser: Firefox 23.0.1</li>
+<li>Media Player: VLC 2.0.8a</li>
+<li>Pacman 4.1.2</li>
+<li>Package Manager: Pamac 0.7.6</li>
+<li>Desktop: MATE 1.6.1</li>
+<li>Live-Installer 0.8.7.1</li>
+<li>Pulseaudio support</li>
+<li>Latest free and proprietary drivers</li>
+<li>Update-Packs 1, 2 &#038; 3 included</li>
+</ul>
+<hr />
+<p><strong>Links</strong><br />
+- <a href="http://sourceforge.net/projects/manjarolinux/files/community/e17/2013.09/">Download Manjaro KDE Respin (32bit/64bit)</a><br />
+- <a href="http://forum.manjaro.org/index.php?topic=7189.0">Manjaro Forums post</a><br />
+- <a href="http://forum.manjaro.org/index.php?topic=6622.0">Notice about Pamac Polkit Agent</a><br />
+- <a href="http://www.manjaro-tr.org/">Manjaro Turkey</a><br />
+- <a href="http://forum.manjaro.org/index.php?topic=760.0">How to create USB installation-medias</a></p>
+]]></content:encoded>
+			<wfw:commentRss>http://manjaro.org/2013/09/29/manjaro-turkey-releases-a-e17-respin/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Manjaro Turkey releases a MATE Respin</title>
+		<link>http://manjaro.org/2013/09/29/manjaro-turkey-releases-a-mate-respin/</link>
+		<comments>http://manjaro.org/2013/09/29/manjaro-turkey-releases-a-mate-respin/#comments</comments>
+		<pubDate>Sun, 29 Sep 2013 21:15:30 +0000</pubDate>
+		<dc:creator>Manjaro Team</dc:creator>
+				<category><![CDATA[general]]></category>
+		<category><![CDATA[news]]></category>
+
+		<guid isPermaLink="false">http://manjaro.org/?p=3382</guid>
+		<description><![CDATA[On behalf of the Manjaro Turkey Community we are happy to announce our MATE Respin of Manjaro Linux &#8216;Ascella&#8217;. We thank the Manjaro developers putting up this nice platform to easily create our own custom spin of Manjaro. This respin is based on the 3.10 kernel series and ships MATE 1.6.1, Firefox 23.0.1, Pamac 0.7.6 [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://manjaro.org/wp-content/uploads/2013/09/mate-0.8.7.1.png" rel="lightbox[3382]" title="Manjaro Turkey releases a MATE Respin"><img src="http://manjaro.org/wp-content/uploads/2013/09/mate-0.8.7.1-300x227.png" alt="mate-0.8.7.1" width="300" height="227" class="alignleft size-medium wp-image-3383" /></a>On behalf of the <strong>Manjaro Turkey Community</strong> we are happy to announce our MATE Respin of Manjaro Linux &#8216;Ascella&#8217;. We thank the Manjaro developers putting up this nice platform to easily create our own custom spin of Manjaro.<br />
+<nl><br />
+This respin is based on the <strong>3.10 kernel</strong> series and ships <strong>MATE 1.6.1</strong>,  <strong>Firefox 23.0.1</strong>, <strong>Pamac 0.7.6</strong> and <strong>VLC 2.0.8a</strong> as media player.<br />
+<nl><br />
+With this release the turkish community adds a nice styled install media in addition to all official released editions by Manjaro developers. This respin is based on the stable branch, can be used for daily bases and easily installed by graphical or text installers.<br />
+<nl></p>
+<p>Please read the <a href="http://downloads.sourceforge.net/manjarolinux/manjaro-0.8.7.1-documentation.pdf">63 pages Beginners Guide</a> to help you thru the installation process.<br />
+<nl><br />
+All the best<br />
+<em><br />
+Tulliana &#038; Cumali- <a href="http://www.manjaro-tr.org/">Manjaro Turkey</a></em></p>
+<hr />
+<strong>Live Media features:</strong></p>
+<ul>
+<li>Kernel: 3.10.12</li>
+<li>Xorg: 1.14.2</li>
+<li>Webbrowser: Firefox 23.0.1</li>
+<li>Media Player: VLC 2.0.8a</li>
+<li>Pacman 4.1.2</li>
+<li>Package Manager: Pamac 0.7.6</li>
+<li>Desktop: MATE 1.6.1</li>
+<li>Live-Installer 0.8.7.1</li>
+<li>Pulseaudio support</li>
+<li>Latest free and proprietary drivers</li>
+<li>Update-Packs 1, 2 &#038; 3 included</li>
+</ul>
+<hr />
+<p><strong>Links</strong><br />
+- <a href="http://sourceforge.net/projects/manjarolinux/files/community/MATE/2013.09/">Download Manjaro KDE Respin (32bit/64bit)</a><br />
+- <a href="http://forum.manjaro.org/index.php?topic=7190.0">Manjaro Forums post</a><br />
+- <a href="http://forum.manjaro.org/index.php?topic=7062.0">Notice about pacman.conf</a><br />
+- <a href="http://www.manjaro-tr.org/">Manjaro Turkey</a><br />
+- <a href="http://forum.manjaro.org/index.php?topic=760.0">How to create USB installation-medias</a></p>
+]]></content:encoded>
+			<wfw:commentRss>http://manjaro.org/2013/09/29/manjaro-turkey-releases-a-mate-respin/feed/</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+		</item>
+		<item>
+		<title>Manjaro 0.8.7 ::: The Future of User Friendly Linux!</title>
+		<link>http://manjaro.org/2013/09/27/manjaro-0-8-7-the-future-of-user-friendly-linux/</link>
+		<comments>http://manjaro.org/2013/09/27/manjaro-0-8-7-the-future-of-user-friendly-linux/#comments</comments>
+		<pubDate>Fri, 27 Sep 2013 23:15:26 +0000</pubDate>
+		<dc:creator>Manjaro Team</dc:creator>
+				<category><![CDATA[videos]]></category>
+
+		<guid isPermaLink="false">http://manjaro.org/?p=3376</guid>
+		<description><![CDATA[Manjaro is a user-friendly Linux distribution based on the independently developed Arch operating system. Developed in Austria, France, and Germany, Manjaro provides all the benefits of the Arch operating system combined with a focus on user-friendliness and accessibility. Available in both 32 and 64 bit versions, Manjaro is suitable for newcomers as well as experienced [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Manjaro is a user-friendly Linux distribution based on the independently developed Arch operating system. Developed in Austria, France, and Germany, Manjaro provides all the benefits of the Arch operating system combined with a focus on user-friendliness and accessibility. Available in both 32 and 64 bit versions, Manjaro is suitable for newcomers as well as experienced Linux users.</p>
+<p>Sparty</p>
+]]></content:encoded>
+			<wfw:commentRss>http://manjaro.org/2013/09/27/manjaro-0-8-7-the-future-of-user-friendly-linux/feed/</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+		</item>
+		<item>
+		<title>Frostcast &#8211; Interview with Philip Müller</title>
+		<link>http://manjaro.org/2013/09/21/frostcast-interview-with-philip-muller/</link>
+		<comments>http://manjaro.org/2013/09/21/frostcast-interview-with-philip-muller/#comments</comments>
+		<pubDate>Sat, 21 Sep 2013 13:17:51 +0000</pubDate>
+		<dc:creator>Manjaro Team</dc:creator>
+				<category><![CDATA[general]]></category>
+
+		<guid isPermaLink="false">http://manjaro.org/?p=3364</guid>
+		<description><![CDATA[We interview Phil from Manjaro linux. We have a great talk about his build system and how flexible Manjaro really is. Some topics from the interview a short introduction of Phil how Manjaro get its packages how to switch between branches cool feature, the multible kernels what are the custom tools created by Manjaro some [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://manjaro.org/wp-content/uploads/2013/09/bpost.png" rel="lightbox[3364]" title="Frostcast - Interview with Philip Müller"><img src="http://manjaro.org/wp-content/uploads/2013/09/bpost.png" alt="bpost" width="150" height="214" class="alignleft size-full wp-image-3365" /></a>We interview Phil from Manjaro linux. We have a great talk about his build system and how flexible Manjaro really is.</p>
+<p>Some topics from the interview</p>
+<ul>
+<li>a short introduction of Phil</li>
+<li>how Manjaro get its packages</li>
+<li>how to switch between branches</li>
+<li>cool feature, the multible kernels</li>
+<li>what are the custom tools created by Manjaro</li>
+<li>some thoughts about the future of Manjaro</li>
+<li>how is life as a Manjaro developer</li>
+<li>about the installers and Manjaro editons</li>
+<li>who is translating pacman</li>
+<li>are there security issues within Manjaro</li>
+<li>how the Manjaro community support 3rd party projects</li>
+<li>how current are the updates of Manjaro</li>
+<li>how to get involved with Manjaro</li>
+</ul>
+]]></content:encoded>
+			<wfw:commentRss>http://manjaro.org/2013/09/21/frostcast-interview-with-philip-muller/feed/</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+		</item>
+		<item>
+		<title>Manjaro Turkey releases an updated KDE Respin</title>
+		<link>http://manjaro.org/2013/09/21/manjaro-turkey-releases-an-updated-kde-respin/</link>
+		<comments>http://manjaro.org/2013/09/21/manjaro-turkey-releases-an-updated-kde-respin/#comments</comments>
+		<pubDate>Sat, 21 Sep 2013 12:10:08 +0000</pubDate>
+		<dc:creator>Manjaro Team</dc:creator>
+				<category><![CDATA[general]]></category>
+		<category><![CDATA[news]]></category>
+
+		<guid isPermaLink="false">http://manjaro.org/?p=3359</guid>
+		<description><![CDATA[On behalf of the Manjaro Turkey Community I&#8217;m happy to announce our KDE Respin of Manjaro Linux &#8216;Ascella&#8217;. We thank the Manjaro developers putting up this nice platform to easily create our own custom spin of Manjaro. This respin is based on the 3.11 kernel series and ships KDE 4.11, Amarok 2.8.0, Firefox 23.0.1, Octopi [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://manjaro.org/wp-content/uploads/2013/09/manjaro-kde-0.8.7.1.png" rel="lightbox[3359]" title="Manjaro Turkey releases an updated KDE Respin"><img src="http://manjaro.org/wp-content/uploads/2013/09/manjaro-kde-0.8.7.1-300x221.png" alt="manjaro-kde-0.8.7.1" width="300" height="221" class="alignleft size-medium wp-image-3360" /></a>On behalf of the <strong>Manjaro Turkey Community</strong> I&#8217;m happy to announce our KDE Respin of Manjaro Linux &#8216;Ascella&#8217;. We thank the Manjaro developers putting up this nice platform to easily create our own custom spin of Manjaro.<br />
+<nl><br />
+This respin is based on the <strong>3.11 kernel</strong> series and ships <strong>KDE 4.11</strong>, <strong>Amarok 2.8.0</strong>, <strong>Firefox 23.0.1</strong>, <strong>Octopi 0.2.0</strong> and <strong>VLC 2.0.8a</strong> as media player.<br />
+<nl><br />
+With this release the turkish community adds a nice styled install media in addition to all official released editions by Manjaro developers. This respin is based on the stable branch, can be used for daily bases and easily installed by graphical or text installers.<br />
+<nl><br />
+In addition to the great Manjaro styles we ship our own Themes:</p>
+<ul>
+<li>KDM Login Screen: manjaro-chrome-green-kdm (by tulliana)</li>
+<li>KSPLASH KDE Splash Screen: manjaro-chrome-green (by tulliana)</li>
+<li>WALLPAPER: Manjaro Dark Blue (by EmiReis)</li>
+</ul>
+<p>Please read the <a href="http://downloads.sourceforge.net/manjarolinux/manjaro-0.8.7.1-documentation.pdf">63 pages Beginners Guide</a> to help you thru the installation process.<br />
+<nl><br />
+All the best<br />
+<em><br />
+Tulliana &#8211; <a href="http://www.manjaro-tr.org/">Manjaro Turkey</a></em></p>
+<hr />
+<strong>Live Media features:</strong></p>
+<ul>
+<li>Kernel: 3.11.0</li>
+<li>Xorg: 1.14.2</li>
+<li>Webbrowser: Firefox 23.0.1</li>
+<li>Media Player: VLC 2.0.8a</li>
+<li>Amarok : 2.8.0</li>
+<li>Pacman 4.1.2</li>
+<li>Package Manager: Octopi 0.2.0.316.a574c1b</li>
+<li>Desktop: KDE 4.11.0</li>
+<li>Yakuake 2.9.9</li>
+<li>Konversation 1.4</li>
+<li>Live-Installer 0.8.7.1</li>
+<li>Pulseaudio support</li>
+<li>Latest free and proprietary drivers</li>
+<li>Update-Pack 1&#038;2 included</li>
+</ul>
+<hr />
+<p><strong>Links</strong><br />
+- <a href="http://sourceforge.net/projects/manjarolinux/files/community/KDE/2013.09/">Download Manjaro KDE Respin (32bit/64bit)</a><br />
+- <a href="http://forum.manjaro.org/index.php?topic=6928.0">Manjaro Forums post</a><br />
+- <a href="http://www.manjaro-tr.org/">Manjaro Turkey</a><br />
+- <a href="http://forum.manjaro.org/index.php?topic=760.0">How to create USB installation-medias</a></p>
+]]></content:encoded>
+			<wfw:commentRss>http://manjaro.org/2013/09/21/manjaro-turkey-releases-an-updated-kde-respin/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Manjaro France releases a LXDE Respin</title>
+		<link>http://manjaro.org/2013/09/21/manjaro-france-releases-a-lxde-respin/</link>
+		<comments>http://manjaro.org/2013/09/21/manjaro-france-releases-a-lxde-respin/#comments</comments>
+		<pubDate>Sat, 21 Sep 2013 11:17:04 +0000</pubDate>
+		<dc:creator>Manjaro Team</dc:creator>
+				<category><![CDATA[general]]></category>
+		<category><![CDATA[news]]></category>
+
+		<guid isPermaLink="false">http://manjaro.org/?p=3353</guid>
+		<description><![CDATA[On behalf of the Manjaro France Community I&#8217;m happy to announce our LXDE Respin of Manjaro Linux &#8216;Ascella&#8217;. We thank the Manjaro developers putting up this nice platform to easily create our own custom spin of Manjaro. This respin is based on the 3.10 kernel series and ships LXDE 0.5.5, Gimp 2.8.6, Midori 0.5.5, Pamac [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://manjaro.org/wp-content/uploads/2013/09/manjaro-lxde-0.8.7.1.png" rel="lightbox[3353]" title="Manjaro France releases a LXDE Respin"><img src="http://manjaro.org/wp-content/uploads/2013/09/manjaro-lxde-0.8.7.1-300x221.png" alt="manjaro-lxde-0.8.7.1" width="300" height="221" class="alignleft size-medium wp-image-3354" /></a>On behalf of the <strong>Manjaro France Community</strong> I&#8217;m happy to announce our LXDE Respin of Manjaro Linux &#8216;Ascella&#8217;. We thank the Manjaro developers putting up this nice platform to easily create our own custom spin of Manjaro.<br />
+<nl><br />
+This respin is based on the <strong>3.10 kernel</strong> series and ships <strong>LXDE 0.5.5</strong>, <strong>Gimp 2.8.6</strong>, <strong>Midori 0.5.5</strong>, <strong>Pamac 0.7.5.2</strong> and <strong>VLC 2.0.8a</strong> as media player.<br />
+<nl><br />
+With this release the french community adds a nice styled install media in addition to all official released editions by Manjaro developers. This respin is based on the stable branch, can be used for daily bases and easily installed by graphical or text installers.<br />
+<nl><br />
+In addition to the great Manjaro system tools we ship or own tools:</p>
+<ul>
+<li><strong>ISOtoUSB</strong>: a nice graphical script to copy any Manjaro install media properly to your USB-Stick</li>
+<li><strong>InstBrowser</strong>: install your favorite webbrowser with this graphical tool</li>
+</ul>
+<p>Please read this <a href="http://downloads.sourceforge.net/manjarolinux/manjaro-0.8.7.1-documentation.pdf">63 pages Beginners Guide</a> to help you thru the installation process.<br />
+<nl><br />
+All the best<br />
+<em><br />
+Esclapion &#8211; <a href="http://manjaro-fr-blog.legtux.org/">Manjaro France</a></em></p>
+<hr />
+<strong>Live Media features:</strong></p>
+<ul>
+<li>Kernel: 3.10.11</li>
+<li>Xorg: 1.14.2</li>
+<li>Webbrowser: Midori 0.5.5</li>
+<li>Email Client: none</li>
+<li>Media Player: VLC 2.0.8a</li>
+<li>Package Manager: Pamac 0.7.5.2</li>
+<li>Minimalistic LXDE 0.5.5 Desktop</li>
+<li>LXDE Display Manager 0.4.1</li>
+<li>Manjaro Settings Manager 0.1.2</li>
+<li>Live-Installer 0.8.7.1</li>
+<li>pulseaudio support</li>
+<li>Latest free and proprietary drivers (only x86_64)</li>
+<li>Update-Pack 1&#038;2 included</li>
+</ul>
+<hr />
+<p><strong>Links</strong><br />
+- <a href="http://sourceforge.net/projects/manjarolinux/files/community/LXDE/2013.09/">Download Manjaro LXDE Respin (32bit/64bit)</a><br />
+- <a href="http://forum.manjaro.org/index.php?topic=6887.0">Manjaro Forums post</a><br />
+- <a href="http://manjaro-fr-blog.legtux.org/">Manjaro France</a><br />
+- <a href="http://forum.manjaro.org/index.php?topic=760.0">How to create USB installation-medias</a></p>
+]]></content:encoded>
+			<wfw:commentRss>http://manjaro.org/2013/09/21/manjaro-france-releases-a-lxde-respin/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+		<item>
+		<title>Third update-pack for Manjaro 0.8.7</title>
+		<link>http://manjaro.org/2013/09/19/third-update-pack-for-manjaro-0-8-7/</link>
+		<comments>http://manjaro.org/2013/09/19/third-update-pack-for-manjaro-0-8-7/#comments</comments>
+		<pubDate>Thu, 19 Sep 2013 06:06:18 +0000</pubDate>
+		<dc:creator>philm</dc:creator>
+				<category><![CDATA[general]]></category>
+		<category><![CDATA[news]]></category>
+
+		<guid isPermaLink="false">http://manjaro.org/?p=3342</guid>
+		<description><![CDATA[Seems Manjaro is in good shape. We have now over 54,500 Downloads in total for Manjaro 0.8.7 and already over 11,400 for 0.8.7.1. So over 65.000 Downloads!!! With this update pack we introduce KDE 4.11.1. Steam got a new client update. A new alienarena release is also there. Octopi got few new features and updates [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://manjaro.org/wp-content/uploads/2013/08/system_software_update.png" rel="lightbox[3342]" title="Third update-pack for Manjaro 0.8.7"><img src="http://manjaro.org/wp-content/uploads/2013/08/system_software_update.png" alt="system_software_update" width="128" height="128" class="alignleft size-full wp-image-3157" /></a>Seems Manjaro is in good shape. We have now over <strong>54,500</strong> Downloads in total for Manjaro 0.8.7 and already over <strong>11,400</strong> for 0.8.7.1. So over <strong>65.000</strong> Downloads!!! With this update pack we introduce <a href="http://kde.org/announcements/announce-4.11.1.php">KDE 4.11.1</a>. Steam got a new client update. A new alienarena release is also there. Octopi got few new features and updates and I compiled a new tox client. As always regular upstream updates by Archlinux (2013-09-15 11:25 CEST).</p>
+<p><strong>Current supported kernels</strong></p>
+<ul>
+<li>Linux34 <strong>3.4.62</strong> &#8211; our default kernel series for Manjaro 0.8.7</li>
+<li>Linux38 <strong>3.8.13.9</strong> &#8211; stable extended support kernel maintained by Canonical</li>
+<li>Linux310 <strong>3.10.11</strong> &#8211; it gets better with each update &#8230;</li>
+<li>Linux311 <strong>3.11.1</strong> &#8211; current stable release by Linus. AMD users should check out the new power support</li>
+</ul>
+<p><i><strong>Tip:</strong> KDE 4.11 includes a reworked OpenGL 2 compositor. OpenGL 3.1 got introduced. By default OpenGL 2 with the fallback to OpenGL 1 is used. If the hardware doesn’t support OpenGL 3.1 it automatically falls back to OpenGL 2 or OpenGL 1. When running kwin_gles KDE defaults to OpenGL ES 3.0 if present otherwise OpenGL ES 2.0 is used. Catalyst Legacy seems to have issues with this change. Here is a workaround to get it working:</i></p>
+<pre class="wp-code-highlight prettyprint">#!/bin/bash
+export $(dbus-launch)
+export KWIN_DIRECT_GL=1
+export KWIN_COMPOSE=O2
+kwin --replace &amp;</pre>
+<p><i>Save it as a script and place it into your <strong>~/.config/autostart</strong> dir. It is also possible to disable compositing till upstream fixes the bug.</i></p>
+<p><strong>Key-Updates:</strong></p>
+<ul>
+<li>Kernels 3.4.62, 3.8.13.9, 3.10.12, 3.11.1</li>
+<li>KDE 4.11.1</li>
+<li>Steam 1.0.0.42</li>
+<li>xorg-server-1.14.3</li>
+</ul>
+<p><strong>Changes in Detail:</strong></p>
+<ul>
+<li>stable community i686:  116 new and 117 removed package(s)</li>
+<li>stable community x86_64:  114 new and 115 removed package(s)</li>
+<li>stable core i686:  12 new and 12 removed package(s)</li>
+<li>stable core x86_64:  12 new and 12 removed package(s)</li>
+<li>stable extra i686:  426 new and 439 removed package(s)</li>
+<li>stable extra x86_64:  426 new and 439 removed package(s)</li>
+<li>stable multilib x86_64:  4 new and 4 removed package(s)</li>
+</ul>
+<p><strong>Update instructions:</strong></p>
+<p>Update your system as usual with pamac, octopi or pacman:</p>
+<pre class="wp-code-highlight prettyprint">sudo pacman -Syu</pre>
+<p>Notice: You might have to wait until your mirror has synced.<br />
+Please check: <a href="http://repo.manjaro.org">http://repo.manjaro.org</a></p>
+]]></content:encoded>
+			<wfw:commentRss>http://manjaro.org/2013/09/19/third-update-pack-for-manjaro-0-8-7/feed/</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+		</item>
+		<item>
+		<title>Manjaro 0.8.7.1 &#8211; Back to the future &#8211; released</title>
+		<link>http://manjaro.org/2013/09/12/manjaro-0-8-7-1-back-to-the-future-released/</link>
+		<comments>http://manjaro.org/2013/09/12/manjaro-0-8-7-1-back-to-the-future-released/#comments</comments>
+		<pubDate>Thu, 12 Sep 2013 18:23:28 +0000</pubDate>
+		<dc:creator>philm</dc:creator>
+				<category><![CDATA[general]]></category>
+		<category><![CDATA[news]]></category>
+
+		<guid isPermaLink="false">http://manjaro.org/?p=3328</guid>
+		<description><![CDATA[On behalf of the Manjaro development team I&#8217;m happy to announce our updated stable release of Manjaro Linux &#8216;Ascella&#8217;. The last two weeks we tweaked and enhanced our current stable release to make it even better. The live-installer got simplified to make it even smoother to install Manjaro. Now we support optional plymouth to be [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://manjaro.org/wp-content/uploads/2013/08/manjaro-xfce-0.8.7.png" rel="lightbox[3328]" title="Manjaro 0.8.7.1 - Back to the future - released"><img src="http://manjaro.org/wp-content/uploads/2013/08/manjaro-xfce-0.8.7-300x221.png" alt="manjaro-xfce-0.8.7" width="300" height="221" class="alignleft size-medium wp-image-3187" /></a>On behalf of the Manjaro development team I&#8217;m happy to announce our updated stable release of Manjaro Linux &#8216;Ascella&#8217;. The last two weeks we tweaked and enhanced our current stable release to make it even better.<br />
+<nl><br />
+The <strong>live-installer got simplified</strong> to make it even smoother to install Manjaro. Now we support <strong>optional plymouth</strong> to be installed. <strong>Linux310-series</strong> is now used, which gives you more hardware support than our last stable release. This release <strong>includes both update-packs</strong> we released the past two weeks.<br />
+<nl><br />
+Grammar issues and little changes make the welcome screen an even better introduction to Manjaro Linux. Important information and links to our forum, wiki and documentation plus buttons to start our graphical and text installers give you an amazing entry to this distro.<br />
+<nl><br />
+With help of our <a href="http://downloads.sourceforge.net/manjarolinux/manjaro-0.8.7.1-documentation.pdf">63 pages Beginners Guide</a> it is easy for you get started and to be guided thru the installation process. One document you should read first!<br />
+<nl><br />
+Users running Manjaro 0.8.7 don&#8217;t need to reinstall. A simple upgrade procedure with our package managers will give you the same features as in this maintenance release.<br />
+<nl><br />
+All the best<br />
+<em><br />
+Philip Müller</em></p>
+<hr />
+<strong>Live Media features:</strong><br />
+<a href="http://manjaro.org/wp-content/uploads/2013/05/Manjaro-0.8.7-Openbox.png" rel="lightbox[3328]" title="Manjaro 0.8.7.1 - Back to the future - released"><img src="http://manjaro.org/wp-content/uploads/2013/05/Manjaro-0.8.7-Openbox-300x221.png" alt="Manjaro-0.8.7-Openbox" width="300" height="221" class="alignright size-medium wp-image-3226" /></a></p>
+<ul>
+<li>Kernel: 3.10.11 LTS</li>
+<li>Xorg: 1.14.2</li>
+<li>Webbrowser: Firefox 22.0.1</li>
+<li>Email Client: Thunderbird 17.0.8 (XFCE only)</li>
+<li>Media Player: VLC 2.0.8a, <Parole 0.5.4 (Openbox64 only)>
+<li>Package Manager: Pamac 0.7.5.2 (XFCE), Octopi 0.2.0a (Openbox)</li>
+<li>Whisker Menu 1.1.1 (XFCE only)</li>
+<li>Mint Display Manager 1.3.1 (XFCE only)</li>
+<li>Slim Display Manager 1.3.5 (Openbox only)</li>
+<li>Manjaro Settings Manager 0.1.2</li>
+<li>Live-Installer 0.8.7.1</li>
+<li>Minimalistic XFCE 4.10 Desktop (XFCE only)</li>
+<li>Minimalistic Openbox 3.5.0 Desktop (Openbox only)</li>
+<li>PA-mixer replaced pn-mixer and volumeicon</li>
+<li>Better pulseaudio support</li>
+<li>Latest free and proprietary drivers</li>
+</ul>
+<hr />
+<p><strong>Links</strong><br />
+- <a href="http://manjaro.org/get-manjaro/">Download 32 and 64-bit Manjaro 0.8.7.1 (Net, Openbox, XFCE)</a><br />
+- <a href="http://forum.manjaro.org/">Manjaro Support Forum</a><br />
+- <a href="http://wiki.manjaro.org/index.php/Main_Page">Manjaro Wiki</a><br />
+- <a href="http://forum.manjaro.org/index.php?topic=760.0">How to create USB installation-medias</a></p>
+]]></content:encoded>
+			<wfw:commentRss>http://manjaro.org/2013/09/12/manjaro-0-8-7-1-back-to-the-future-released/feed/</wfw:commentRss>
+		<slash:comments>17</slash:comments>
+		</item>
+	</channel>
+</rss>

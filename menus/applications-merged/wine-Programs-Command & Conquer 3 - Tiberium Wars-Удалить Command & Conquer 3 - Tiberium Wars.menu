@@ -1,0 +1,20 @@
+<!DOCTYPE Menu PUBLIC "-//freedesktop//DTD Menu 1.0//EN"
+"http://www.freedesktop.org/standards/menu-spec/menu-1.0.dtd">
+<Menu>
+  <Name>Applications</Name>
+  <Menu>
+    <Name>wine-wine</Name>
+    <Directory>wine-wine.directory</Directory>
+  <Menu>
+    <Name>wine-Programs</Name>
+    <Directory>wine-Programs.directory</Directory>
+  <Menu>
+    <Name>wine-Programs-Command &amp; Conquer 3 - Tiberium Wars</Name>
+    <Directory>wine-Programs-Command &amp; Conquer 3 - Tiberium Wars.directory</Directory>
+    <Include>
+      <Filename>wine-Programs-Command &amp; Conquer 3 - Tiberium Wars-Удалить Command &amp; Conquer 3 - Tiberium Wars.desktop</Filename>
+    </Include>
+  </Menu>
+  </Menu>
+  </Menu>
+</Menu>

@@ -1,0 +1,147 @@
+---
+accounts:
+- alias: 79214190374
+  audioCodecs: 0/3/8/9/110/111/112/
+  autoAnswer: false
+  credential:
+  - Account.password: WjbvfsVo
+    Account.realm: '*'
+    Account.username: 79214190374
+  displayName: 
+  dtmfType: sipinfo
+  enable: true
+  hostname: multifon.ru
+  id: Account:1380261677
+  interface: default
+  keepAlive: false
+  mailbox: 
+  port: 5060
+  publishAddr: 192.168.0.105
+  publishPort: 5060
+  registrationexpire: 60
+  ringtoneEnabled: true
+  ringtonePath: /usr/share/sflphone/ringtones/konga.ul
+  sameasLocal: true
+  serviceRoute: sbc.megafon.ru
+  srtp:
+    enable: false
+    keyExchange: 
+    rtpFallback: false
+  stunEnabled: true
+  stunServer: 
+  tls:
+    calist: 
+    certificate: 
+    ciphers: 
+    enable: false
+    method: TLSv1
+    password: 
+    privateKey: 
+    requireCertif: true
+    server: 
+    timeout: 2
+    tlsPort: 5061
+    verifyClient: true
+    verifyServer: true
+  type: SIP
+  username: 79214190374
+  zrtp:
+    displaySas: true
+    displaySasOnce: false
+    helloHashEnabled: true
+    notSuppWarning: true
+- alias: IP2IP
+  audioCodecs: 0/3/8/9/110/111/112/
+  autoAnswer: false
+  credential: []
+  displayName: 
+  dtmfType: overrtp
+  enable: true
+  hostname: 
+  id: IP2IP
+  interface: default
+  keepAlive: false
+  mailbox: 
+  port: 5060
+  publishAddr: 
+  publishPort: 5060
+  registrationexpire: 60
+  ringtoneEnabled: true
+  ringtonePath: /usr/share/sflphone/ringtones/konga.ul
+  sameasLocal: true
+  serviceRoute: 
+  srtp:
+    enable: false
+    keyExchange: sdes
+    rtpFallback: false
+  stunEnabled: false
+  stunServer: stun.sflphone.org
+  tls:
+    calist: 
+    certificate: 
+    ciphers: 
+    enable: false
+    method: TLSv1
+    password: 
+    privateKey: 
+    requireCertif: true
+    server: 
+    timeout: 2
+    tlsPort: 5061
+    verifyClient: true
+    verifyServer: true
+  type: SIP
+  username: 
+  zrtp:
+    displaySas: true
+    displaySasOnce: false
+    helloHashEnabled: true
+    notSuppWarning: true
+preferences:
+  historyLimit: 30
+  historyMaxCalls: 20
+  md5Hash: false
+  order: Account:1380261677/
+  portNum: 5060
+  registrationexpire: 180
+  searchBarDisplay: true
+  zeroConfenable: false
+  zoneToneChoice: North America
+voipPreferences:
+  playDtmf: true
+  playTones: true
+  pulseLength: 250
+  symmetric: true
+  zidFile: zidFile
+hooks:
+  iax2Enabled: false
+  numberAddPrefix: 
+  numberEnabled: false
+  sipEnabled: false
+  urlCommand: x-www-browser
+  urlSipField: X-sflphone-url
+audio:
+  alsa:
+    cardIn: 0
+    cardOut: 0
+    cardRing: 0
+    plugin: default
+    smplRate: 44100
+  alwaysRecording: false
+  audioApi: pulseaudio
+  echoCancel: false
+  noiseReduce: false
+  pulse:
+    devicePlayback: 
+    deviceRecord: 
+    deviceRingtone: 
+  recordPath: 
+  volumeMic: 100
+  volumeSpkr: 100
+shortcuts:
+  hangUp: 
+  pickUp: 
+  popupWindow: 
+  toggleHold: 
+  togglePickupHangup: 
+...

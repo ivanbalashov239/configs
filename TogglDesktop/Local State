@@ -1,0 +1,64 @@
+{
+   "browser": {
+      "last_known_google_url": "http://www.google.ru/",
+      "last_prompted_google_url": "http://www.google.ru/",
+      "last_redirect_origin": ""
+   },
+   "local_state": {
+      "multiple_profile_prefs_version": 3
+   },
+   "ntp": {
+      "intro_display_count": 11,
+      "promo_locale": "en-US",
+      "promo_version": 2,
+      "webstore_enabled": false
+   },
+   "profile": {
+      "info_cache": {
+         "Default": {
+            "avatar_icon": "chrome://theme/IDR_PROFILE_AVATAR_0",
+            "background_apps": true,
+            "name": "First user",
+            "user_name": ""
+         }
+      },
+      "last_used": "Default"
+   },
+   "shutdown": {
+      "num_processes": 0,
+      "num_processes_slow": 0,
+      "type": 0
+   },
+   "uninstall_metrics": {
+      "installation_date2": "1370777049",
+      "launch_count": "1",
+      "page_load_count": "13",
+      "uptime_sec": "1030"
+   },
+   "user_experience_metrics": {
+      "client_id": "0599AE71-ADA7-94C4-BD1E-9FD581459637",
+      "client_id_timestamp": "1370777049",
+      "initial_logs": [ 1, "QlpoMTFBWSZTWSzupwMAAPPfgAAQUAv/5z////C////wQAMc67t2N1VKYRTImTCabRMAJNptKbSaYnkY0miZPUeiDSJqbJHpMynqnp6aEIaeoANqBp6mg9QANBRDTEBoBoAABoAAA0AkUETIAjTR6EanoT1Hog2o2pibU9Q0bUcSQmhQGAwGMbBDcfRht/cEI82cDepMUcD8WWmBQ8OE5ckYtyFasSq9JhY5zS4ZYCkQDR46j6hkgQDMiapAB6Cw5C3zNt666wZuMortlUankFjSp/PTkYSDkYBpPTNZimzqw88X/aKAl10Qii7f5Lf67zZGrXLjFK/padcyTPznHQcZTnrVZHO3hjP3NTRJmkVu/cDSMJpd1oxQCienPpyDCJA8agwIGOY0jou25FOxPXAPVsE20sZI0dn86e/a0htC+gltFrpNjUXATabezZCW0IIPbjAICHdge/KiEEVI+EjMB8wNphFQjNGoubTTgpQQn9lKxZPYK5tBaPSK9l3XLLhbzJQylgu4GqVhC3QInIvGeay6/wsXlXpJLloRf9dlD1Z5cPLDmnHahe/K9UT+zTKeXLYmm3WvP6VW5JUXwxxspsPi4DqwW1mp9Lb4y3TLwVNBeCZx3h4OYpo94JB7nAEt+C7D7ho1eBAykvHszyyoPVZu64YhnCHHkPrfx0sgamBB80sUL9t1y5iIxNc7GDjwOcxEu9uh6g7EoLd5KOcyAl+KTGY5JRDPb2fK2V0pSuVHHbLRNBTbKqaqTv9Uzt0mt0DOQCBRFhdXgja+gegiMCFIksgmrLO+I2TnrrXDNmwXWdaDWTVtLmrgsUe6ZfEMdwCgmXDqmXt2Y+5Uzw2X5GJGIBwOFLND4wZTJGYRgZyIxEiBxUthl2i/rqEdvTZQGC0XCtAVwhG/EG00jLGgGNtjB3Z+yNlJyTJMKINJt+UfhoyKkZqqRpOW0JcwaZmcrsaiARVqdfHr90QFLMUspAaaqGoRU2vTk2YPtfZM218W67exEtJ0XSU7hhJ9GqoKpjEToecytuOWpLDSnVCwU2t/lu7auK1z894meHXjkkXg0YKSueLFjoDTyVm2soFqtV8YUAcGcYYz51zgBg3fKXg4icAEG+Nn5MzBso/CszSJdBm6aWt22GE9vI7Q8NMK/8XckU4UJAs7qcDA", "4ea10d1b4725454a10670de075542494" ],
+      "num_keywords": 6,
+      "ongoing_logs": [ 1, "QlpoMTFBWSZTWUVsfAEAAXxdgAAQUAP/5z8AP+ffoEAB/YLQIaJDQAaAAAAAJFMhE1PU2gg0xAAAMaaDQAyaAyNNDE0YIpE0p4NTUybUaAaNAZPU3AsMoIYiAT+BLHjHLWSCe0CJXTfmzjTYbt2+3VSMMcXa2MoERl0NNNsbY23F3fCMLtlIrEjrWexISHHTAIieVsCWfeiEcEwqxCNMF2mYqMbTcsVBIekFiyKwkKvOlbTqkvXaxIgoc3sjfXWgmaCnLGJK0O6052HysXhWEjbJCYkNIHcuEJBnriRk6ZWq9UcPBiFTociAT8RJDKPFUhJwB8SBMOMRcaDIgE3zvPmrLOmo0xBQBDrtYLIAIeQAhLpuEhfSX6Wy0EtBOYpdKYnZO4BIMhOkQiSyE+teEwTGdtESqm0K6+VOZbWQhW01NSipQBM+m/AUoCXvbZLaFYNhS714UVNoidclEgtBIi/eQWCJg7gEsEyRMcoywyuUoCSKiZaReiUzRMbETHHqJiQqUC1SWVyJhiCWiVNm4v627G+YCVBLATOYg/xdyRThQkEVsfAE", "f6f83cb5d108937ffd56c4fc6ce1fe48" ],
+      "session_id": 0,
+      "stability": {
+         "breakpad_registration_fail": 0,
+         "breakpad_registration_ok": 0,
+         "crash_count": 0,
+         "debugger_not_present": 0,
+         "debugger_present": 0,
+         "exited_cleanly": true,
+         "incomplete_session_end_count": 0,
+         "last_timestamp_sec": "1370778079",
+         "launch_count": 0,
+         "launch_time_sec": "1370777049",
+         "page_load_count": 0,
+         "renderer_crash_count": 0,
+         "renderer_hang_count": 0,
+         "session_end_completed": true,
+         "stats_buildtime": "1353428221",
+         "stats_version": "4.94.0.0-64-devel"
+      }
+   }
+}

@@ -1,0 +1,20 @@
+[Desktop Entry]
+Comment[ru]=
+Comment=
+Exec=pytyle3
+GenericName[ru]=
+GenericName=
+Hidden=true
+Icon=system-run
+MimeType=
+Name[ru]=pytyle3
+Name=pytyle3
+Path=
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application
+X-DBUS-ServiceName=
+X-DBUS-StartupType=
+X-KDE-SubstituteUID=false
+X-KDE-Username=

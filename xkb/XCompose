@@ -1,0 +1,58 @@
+include "/usr/share/X11/locale/ru_RU.UTF-8/Compose"
+
+<Multi_key> <Cyrillic_ie>  <Cyrillic_ie>  	: "э"   U044D # ACUTE ACCENT
+<Multi_key> <Cyrillic_IE>  <Cyrillic_ie>  	: "Э"   U044D # ACUTE ACCENT
+<Multi_key> <Cyrillic_ie>  <Cyrillic_IE>  	: "Э"   U044D # ACUTE ACCENT
+<Multi_key> <Cyrillic_IE>  <Cyrillic_IE>  	: "Э"   U042D # ACUTE ACCENT
+<Multi_key> <colon> <Cyrillic_ie> 	 	: "ё"   U0451 # ACUTE ACCENT
+<Multi_key> <Cyrillic_ie> <colon>  	 	: "ё"   U0451 # ACUTE ACCENT
+<Multi_key> <Cyrillic_IE> <colon> 		: "Ё"   U0401 # ACUTE ACCENT
+<Multi_key> <colon> <Cyrillic_IE> 		: "Ё"   U0401 # ACUTE ACCENT
+
+<Multi_key> <semicolon> <Cyrillic_ie> 	 	: "Ё"   U0451 # ACUTE ACCENT
+<Multi_key> <Cyrillic_ie> <semicolon>  	 	: "Ё"   U0451 # ACUTE ACCENT
+<Multi_key> <Cyrillic_IE> <semicolon> 		: "Ё"   U0401 # ACUTE ACCENT
+<Multi_key> <semicolon> <Cyrillic_IE> 		: "Ё"   U0401 # ACUTE ACCENT
+
+<Multi_key> <Cyrillic_tse> <Cyrillic_tse> 	: "ч"   U0447 # ACUTE ACCENT
+<Multi_key> <Cyrillic_tse> <Cyrillic_TSE> 	: "Ч"   U0447 # ACUTE ACCENT
+<Multi_key> <Cyrillic_TSE> <Cyrillic_tse> 	: "Ч"   U0447 # ACUTE ACCENT
+<Multi_key> <Cyrillic_TSE> <Cyrillic_TSE> 	: "Ч"   U0447 # ACUTE ACCENT
+
+<Multi_key> <Cyrillic_ha> <Cyrillic_ha> 	: "ш"   U0448 # ACUTE ACCENT
+<Multi_key> <Cyrillic_ha> <Cyrillic_HA> 	: "Ш"   U0428 # ACUTE ACCENT
+<Multi_key> <Cyrillic_HA> <Cyrillic_ha> 	: "Ш"   U0428 # ACUTE ACCENT
+<Multi_key> <Cyrillic_HA> <Cyrillic_HA> 	: "Ш"   U0428 # ACUTE ACCENT
+<Multi_key> <Cyrillic_ha> <apostrophe> 		: "щ"   U0449 # ACUTE ACCENT
+<Multi_key> <apostrophe> <Cyrillic_ha> 		: "щ"   U0449 # ACUTE ACCENT
+<Multi_key> <Cyrillic_HA> <quotedbl> 		: "Щ"   U0429 # ACUTE ACCENT
+<Multi_key> <quotedbl> <Cyrillic_HA> 		: "Щ"   U0429 # ACUTE ACCENT
+<Multi_key> <apostrophe> <Cyrillic_HA> 		: "Щ"   U0429 # ACUTE ACCENT
+<Multi_key> <Cyrillic_HA> <apostrophe> 		: "Щ"   U0429 # ACUTE ACCENT
+
+<Multi_key> <Cyrillic_softsign> <Cyrillic_softsign> 	: "ъ"   U044A # ACUTE ACCENT
+<Multi_key> <Cyrillic_softsign> <Cyrillic_SOFTSIGN> 	: "Ъ"   U042A # ACUTE ACCENT
+<Multi_key> <Cyrillic_SOFTSIGN> <Cyrillic_softsign> 	: "Ъ"   U042A # ACUTE ACCENT
+<Multi_key> <Cyrillic_SOFTSIGN> <Cyrillic_SOFTSIGN> 	: "Ъ"   U042A # ACUTE ACCENT
+
+
+#<Cyrillic_SHORTI> <Cyrillic_U> 			: "Ю"   U042E # ACUTE ACCENT
+#<Cyrillic_shorti> <Cyrillic_u>		 	: "ю"   U044E # ACUTE ACCENT
+<Multi_key> <Cyrillic_shorti> <Cyrillic_u> 	: "ю"   U044E # ACUTE ACCENT
+<Multi_key> <Cyrillic_u> <Cyrillic_shorti>	: "ю"   U044E # ACUTE ACCENT
+<Multi_key> <Cyrillic_SHORTI> <Cyrillic_U> 	: "Ю"   U042E # ACUTE ACCENT
+<Multi_key> <Cyrillic_SHORTI> <Cyrillic_u> 	: "Ю"   U042E # ACUTE ACCENT
+<Multi_key> <Cyrillic_shorti> <Cyrillic_U> 	: "Ю"   U042E # ACUTE ACCENT
+<Multi_key> <Cyrillic_U> <Cyrillic_SHORTI>	: "Ю"   U042E # ACUTE ACCENT
+<Multi_key> <Cyrillic_U> <Cyrillic_shorti>	: "Ю"   U042E # ACUTE ACCENT
+<Multi_key> <Cyrillic_u> <Cyrillic_SHORTI>	: "Ю"   U042E # ACUTE ACCENT
+#<Multi_key> <minus> <minus> 			: "ю"   U044E  ACUTE ACCENT
+#<Multi_key> <underscore> <underscore> 		: "Ю"   U042E # ACUTE ACCENT
+
+#<Multi_key> <Cyrillic_ie> <Cyrillic_ie> 	: ""   acute # ACUTE ACCENT
+#<Multi_key> <Cyrillic_ie> <Cyrillic_ie> 	: "э"   acute # ACUTE ACCENT
+#<Multi_key> <Cyrillic_ie> <Cyrillic_ie> 	: "э"   acute # ACUTE ACCENT
+#<Multi_key> <Cyrillic_ie> <Cyrillic_ie> 	: "э"   acute # ACUTE ACCENT
+#<Multi_key> <Cyrillic_ie> <Cyrillic_ie> 	: "э"   acute # ACUTE ACCENT
+#<Multi_key> <Cyrillic_ie> <Cyrillic_ie> 	: "э"   acute # ACUTE ACCENT
+

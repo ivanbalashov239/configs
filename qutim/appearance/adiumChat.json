@@ -1,0 +1,27 @@
+{
+   "style": {
+    "Alpha-Classic": {
+     "backgroundColor": "@Variant(AAAAQwAA//8AAAAAAAAAAA==)",
+     "backgroundPath": "",
+     "backgroundType": 0,
+     "customBackground": false,
+     "customStyle": [],
+     "fontFamily": "Verdana",
+     "fontSize": 8,
+     "variant": "big_blue"
+    },
+    "melwa": {
+     "backgroundColor": "@Variant(AAAAQwAB//8gICAgICAAAA==)",
+     "backgroundPath": "/home/ivn/Изображения/qutim.png",
+     "backgroundType": 4,
+     "customBackground": true,
+     "customStyle": [],
+     "fontFamily": "Arial",
+     "fontSize": 11,
+     "variant": "white"
+    },
+    "name": "melwa",
+    "showHeader": true,
+    "showUserIcons": true
+   }
+  }

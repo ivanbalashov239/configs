@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="monitor_y_offset" mtime="1378636774" schema="/schemas/apps/avant-window-navigator/panel/monitor_y_offset"/>
+	<entry name="monitor_width" mtime="1378636774" schema="/schemas/apps/avant-window-navigator/panel/monitor_width" type="int" value="1366"/>
+	<entry name="dialog_offset" mtime="1378636774" schema="/schemas/apps/avant-window-navigator/panel/dialog_offset"/>
+	<entry name="offset" mtime="1378636863" schema="/schemas/apps/avant-window-navigator/panel/offset" type="int" value="10"/>
+	<entry name="panel_mode" mtime="1378637010" schema="/schemas/apps/avant-window-navigator/panel/panel_mode" type="bool" value="false"/>
+	<entry name="orient" mtime="1378636965" schema="/schemas/apps/avant-window-navigator/panel/orient" type="int" value="1"/>
+	<entry name="clickthrough" mtime="1378637025" schema="/schemas/apps/avant-window-navigator/panel/clickthrough" type="int" value="0"/>
+	<entry name="monitor_num" mtime="1378636774" schema="/schemas/apps/avant-window-navigator/panel/monitor_num"/>
+	<entry name="autohide" mtime="1378637119" schema="/schemas/apps/avant-window-navigator/panel/autohide" type="int" value="1"/>
+	<entry name="ua_active_list" mtime="1378636774" schema="/schemas/apps/avant-window-navigator/panel/ua_active_list" type="list" ltype="string">
+	</entry>
+	<entry name="size" mtime="1378636896" schema="/schemas/apps/avant-window-navigator/panel/size" type="int" value="48"/>
+	<entry name="style" mtime="1378637006" schema="/schemas/apps/avant-window-navigator/panel/style" type="int" value="2"/>
+	<entry name="monitor_force" mtime="1378636774" schema="/schemas/apps/avant-window-navigator/panel/monitor_force"/>
+	<entry name="monitor_align" mtime="1378636774" schema="/schemas/apps/avant-window-navigator/panel/monitor_align"/>
+	<entry name="monitor_height" mtime="1378636774" schema="/schemas/apps/avant-window-navigator/panel/monitor_height" type="int" value="768"/>
+	<entry name="expand" mtime="1378636873" schema="/schemas/apps/avant-window-navigator/panel/expand" type="bool" value="false"/>
+	<entry name="applet_list" mtime="1378636773" schema="/schemas/apps/avant-window-navigator/panel/applet_list"/>
+	<entry name="ua_list" mtime="1378636773" schema="/schemas/apps/avant-window-navigator/panel/ua_list"/>
+	<entry name="monitor_x_offset" mtime="1378636773" schema="/schemas/apps/avant-window-navigator/panel/monitor_x_offset"/>
+</gconf>

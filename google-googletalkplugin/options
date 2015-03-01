@@ -1,0 +1,5 @@
+audio-flags=15
+audio-input=Встроенное аудио Аналоговый стерео
+audio-output=Встроенное аудио Аналоговый стерео
+known-audio-flags=63
+video-capture=1.3M HD WebCam

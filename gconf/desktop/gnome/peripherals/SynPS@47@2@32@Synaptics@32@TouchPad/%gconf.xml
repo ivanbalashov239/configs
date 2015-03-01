@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="vertical_scrolling" mtime="1411064331" type="bool" value="false"/>
+	<entry name="horizontal_scrolling" mtime="1411064332" type="bool" value="false"/>
+	<entry name="device_type" mtime="1411064286" type="string">
+		<stringvalue>touchpad</stringvalue>
+	</entry>
+</gconf>

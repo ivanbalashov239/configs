@@ -1,0 +1,20 @@
+<unity_prefs version_major="1" version_minor="1">
+	<pref name="AFXVolume" type="float">1</pref>
+	<pref name="AccessedBattleButton" type="int">1</pref>
+	<pref name="AutoRepairEnabled" type="int">1</pref>
+	<pref name="FirstViewHelp_Depot" type="int">1</pref>
+	<pref name="FirstViewHelp_Inventory" type="int">1</pref>
+	<pref name="FirstViewHelp_TechTree" type="int">1</pref>
+	<pref name="MouseInvertY" type="int">0</pref>
+	<pref name="MouseSpeedBuild" type="float">0.5</pref>
+	<pref name="MouseSpeedFight" type="float">0.5</pref>
+	<pref name="MusicVolume" type="float">0.125893</pref>
+	<pref name="Screenmanager Is Fullscreen mode" type="int">1</pref>
+	<pref name="Screenmanager Resolution Height" type="int">1080</pref>
+	<pref name="Screenmanager Resolution Width" type="int">1920</pref>
+	<pref name="ToggleZoom" type="int">0</pref>
+	<pref name="UnityGraphicsQuality" type="int">0</pref>
+	<pref name="password" type="string">UHI5MFNUVWlZU3VaMXl6Zi8raXRjKzJDcnFGLzMzQk8rcWpxRitTQjdUUW44c0IrRXpFSDRBPT0=</pref>
+	<pref name="rememberme" type="int">1</pref>
+	<pref name="username" type="string">cmh3Mkg3VUtONXNITCtFVDlKQ1lvREV4bTkyR2JzREI=</pref>
+</unity_prefs>

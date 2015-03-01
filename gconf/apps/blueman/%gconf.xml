@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="window_posy" mtime="1381088011" type="int" value="263"/>
+	<entry name="window_posx" mtime="1381088011" type="int" value="690"/>
+	<entry name="window_width" mtime="1381088011" type="int" value="500"/>
+	<entry name="window_height" mtime="1381088011" type="int" value="350"/>
+	<entry name="services_last_item" mtime="1372080253" type="int" value="0"/>
+	<entry name="AppletPlugin" mtime="1372079866" type="list" ltype="string">
+		<li type="string">
+			<stringvalue>ExitItem</stringvalue>
+		</li>
+		<li type="string">
+			<stringvalue>!DhcpClient</stringvalue>
+		</li>
+		<li type="string">
+			<stringvalue>NMPANSupport</stringvalue>
+		</li>
+		<li type="string">
+			<stringvalue>!PPPSupport</stringvalue>
+		</li>
+		<li type="string">
+			<stringvalue>NMDUNSupport</stringvalue>
+		</li>
+		<li type="string">
+			<stringvalue>!NetUsage</stringvalue>
+		</li>
+	</entry>
+</gconf>

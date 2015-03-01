@@ -1,0 +1,10 @@
+[Added Associations]
+video/x-matroska=bomi.desktop;
+application/pdf=kde4-okular.desktop;
+image/vnd.djvu=kde4-okular.desktop;
+text/plain=gvim.desktop;
+
+[Default Applications]
+application/pdf=kde4-okular.desktop
+image/vnd.djvu=kde4-okular.desktop
+text/plain=gvim.desktop

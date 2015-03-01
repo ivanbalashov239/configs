@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Favorites>
+	<Hubs>
+		<Group Name="Авто-подключение группы (сконвертированный)" Private="0" Connect="1"/>
+		<Hub Name="Skynet  " Connect="1" Description="   " Nick="ivn" Password="" Server="dc.sknt.ru" UserDescription="" Encoding="UTF-8" ClientId="" ExternalIP="" OverrideId="0" UseInternetIp="0" DisableChat="0" Mode="0" SearchInterval="60" Group="Авто-подключение группы (сконвертированный)"/>
+	</Hubs>
+	<Users/>
+	<UserCommands/>
+	<FavoriteDirs/>
+</Favorites>

@@ -1,0 +1,50 @@
+{
+   "chat": {
+    "behavior": {
+     "widget": {
+      "autoResize": true,
+      "keys": {
+       "session": {
+        "geometry": "@ByteArray(AdnQywABAAAAAAAAAAAAGwAAAXYAAAL/AAAAAgAAADIAAAF0AAAC+wAAAAAAAA==)",
+        "hSplitter": "@ByteArray(AAAA/wAAAAAAAAACAAADIAAAAQABAAAAAwEAAAAB)",
+        "vSplitter": "@ByteArray(AAAA/wAAAAAAAAACAAACYwAAABwBAAAAAwEAAAAC)"
+       }
+      },
+      "sendKey": 0,
+      "widgetFlags": 123
+     }
+    },
+    "groupUntil": 900,
+    "history": {
+     "maxDisplayMessages": 5,
+     "storeServiceMessages": true
+    },
+    "notificationsInActiveChat": false
+   },
+   "contactList": {
+    "ContactFont": "Sans Serif,11,-1,5,75,0,0,0,0,0",
+    "HeaderFont": "Sans Serif,9,-1,0,75,0,0,0,0,0",
+    "StatusFont": "Sans Serif,7,-1,0,50,0,0,0,0,0",
+    "extendedStatuses": {
+     "client": true
+    },
+    "liteMode": true,
+    "showAvatars": true,
+    "showContactListOnStartup": true,
+    "showExtendedInfoIcons": true,
+    "showStatusText": true,
+    "statusIconSize": 32
+   },
+   "emoticons": {
+    "theme": "KMess"
+   },
+   "toolBars": {
+    "ActionToolBar": {
+     "buttonStyle": 0,
+     "iconSize": 22
+    },
+    "contactListBar": {
+     "iconSize": 22
+    }
+   }
+  }

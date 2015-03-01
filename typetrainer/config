@@ -1,0 +1,18 @@
+# Last opened file with words
+FILE = '/home/ivn/\xd0\x94\xd0\xbe\xd0\xba\xd1\x83\xd0\xbc\xd0\xb5\xd0\xbd\xd1\x82\xd1\x8b/ru phonetic dvorak.txt'
+
+# Map which stores last tutor used for file
+FILE2TUTOR = {'/home/ivn/\xd0\x94\xd0\xbe\xd0\xba\xd1\x83\xd0\xbc\xd0\xb5\xd0\xbd\xd1\x82\xd1\x8b/ru phonetic dvorak.txt': 'en.advanced'}
+
+# Font used in text entries
+# FONT = 'sans 16'
+
+# Keyboard model and zones layout. One of (n130, n130_sdfv, n130_dvp)
+KEYBOARD = 'n130_sdfv'
+
+# Last opened file list
+RECENT_FILES = ['/home/ivn/\xd0\x94\xd0\xbe\xd0\xba\xd1\x83\xd0\xbc\xd0\xb5\xd0\xbd\xd1\x82\xd1\x8b/ru phonetic dvorak.txt']
+
+# Tutor generator. One of (en.basic, en.advanced, ru.basic)
+TUTOR = 'en.advanced'
+

@@ -1,0 +1,48 @@
+WINE REGISTRY Version 2
+;; All keys relative to \\User\\.Default
+
+#arch=win32
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Shell Folders] 1369224553
+"AppData"="C:\\users\\ivn\\Application Data"
+"Cache"="C:\\users\\ivn\\Local Settings\\Temporary Internet Files"
+"Cookies"="C:\\users\\ivn\\Cookies"
+"Desktop"="C:\\users\\ivn\\\x420\x430\x431\x43e\x447\x438\x439 \x441\x442\x43e\x43b"
+"Favorites"="C:\\users\\ivn\\Favorites"
+"Fonts"="C:\\windows\\Fonts"
+"History"="C:\\users\\ivn\\Local Settings\\History"
+"Local AppData"="C:\\users\\ivn\\Local Settings\\Application Data"
+"My Music"="C:\\users\\ivn\\\x41c\x43e\x44f \x43c\x443\x437\x44b\x43a\x430"
+"My Pictures"="C:\\users\\ivn\\\x41c\x43e\x438 \x440\x438\x441\x443\x43d\x43a\x438"
+"My Videos"="C:\\users\\ivn\\\x41c\x43e\x438 \x444\x438\x43b\x44c\x43c\x44b"
+"NetHood"="C:\\users\\ivn\\NetHood"
+"Personal"="C:\\users\\ivn\\\x41c\x43e\x438 \x434\x43e\x43a\x443\x43c\x435\x43d\x442\x44b"
+"PrintHood"="C:\\users\\ivn\\PrintHood"
+"Programs"="C:\\users\\ivn\\Start Menu\\Programs"
+"Recent"="C:\\users\\ivn\\Recent"
+"SendTo"="C:\\users\\ivn\\SendTo"
+"Start Menu"="C:\\users\\ivn\\Start Menu"
+"StartUp"="C:\\users\\ivn\\Start Menu\\Programs\\StartUp"
+"Templates"="C:\\users\\ivn\\Templates"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\User Shell Folders] 1369224553
+"AppData"=str(2):"%USERPROFILE%\\Application Data"
+"Cache"=str(2):"%USERPROFILE%\\Local Settings\\Temporary Internet Files"
+"Cookies"=str(2):"%USERPROFILE%\\Cookies"
+"Desktop"=str(2):"%USERPROFILE%\\\x420\x430\x431\x43e\x447\x438\x439 \x441\x442\x43e\x43b"
+"Favorites"=str(2):"%USERPROFILE%\\Favorites"
+"Fonts"=str(2):"C:\\windows\\Fonts"
+"History"=str(2):"%USERPROFILE%\\Local Settings\\History"
+"Local AppData"=str(2):"%USERPROFILE%\\Local Settings\\Application Data"
+"My Music"=str(2):"%USERPROFILE%\\\x41c\x43e\x44f \x43c\x443\x437\x44b\x43a\x430"
+"My Pictures"=str(2):"%USERPROFILE%\\\x41c\x43e\x438 \x440\x438\x441\x443\x43d\x43a\x438"
+"My Videos"=str(2):"%USERPROFILE%\\\x41c\x43e\x438 \x444\x438\x43b\x44c\x43c\x44b"
+"NetHood"=str(2):"%USERPROFILE%\\NetHood"
+"Personal"=str(2):"%USERPROFILE%\\\x41c\x43e\x438 \x434\x43e\x43a\x443\x43c\x435\x43d\x442\x44b"
+"PrintHood"=str(2):"%USERPROFILE%\\PrintHood"
+"Programs"=str(2):"%USERPROFILE%\\Start Menu\\Programs"
+"Recent"=str(2):"%USERPROFILE%\\Recent"
+"SendTo"=str(2):"%USERPROFILE%\\SendTo"
+"Start Menu"=str(2):"%USERPROFILE%\\Start Menu"
+"StartUp"=str(2):"%USERPROFILE%\\Start Menu\\Programs\\StartUp"
+"Templates"=str(2):"%USERPROFILE%\\Templates"

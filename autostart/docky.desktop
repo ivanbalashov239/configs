@@ -1,0 +1,12 @@
+[Desktop Entry]
+Categories=Utility;
+Comment=The finest dock no money can buy.
+Encoding=UTF-8
+Exec=docky
+Hidden=true
+Icon=docky
+Name=Docky
+NoDisplay=false
+Terminal=false
+Type=Application
+Version=1.0

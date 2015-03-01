@@ -1,0 +1,303 @@
+﻿<!doctype html>
+<!--[if IEMobile 7 ]>    <html class="no-js iem7" manifest="/cache.manifest"> <![endif]-->
+<!--[if (gt IEMobile 7)|!(IEMobile)]><!--> <html class="no-js" manifest="/cache.manifest"> <!--<![endif]-->
+<head>
+  
+  
+  <meta charset="utf-8">
+  <title>Toggl</title>
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320"/>
+  <meta name="viewport" content="initial-scale=1.0, maximum-scale=1.0">
+  <link rel="shortcut icon" href="/img/l/favicon.ico">
+
+
+  <meta http-equiv="cleartype" content="on">
+  <link href="css/m.css" media="screen, print" rel="stylesheet" type="text/css" />
+</head>
+<body>
+	<noscript>
+		<div id="no-script">
+			<h2>Please enable Javascript to use Toggl Offline Timer</h2>
+		</div>
+	</noscript>
+  <div id="container">
+    <div id="main" role="main" class="ui-body-c" style="display:none">
+
+      <div id="login">
+        <div class="d_r_content ui-content">
+          <h1 class="logo">Toggl</h1>
+          <form id="login-form" class="login" action="/login" method="POST">
+            <fieldset>
+              <div>
+                <input type="email" id="email" name="login[email]" placeholder="E-mail address" required autofocus="autofocus">
+                <input type="password" id="password" name="login[password]" placeholder="Password" required>
+                <input type="submit" class="login-button" value="Login" >
+              </div>
+            </fieldset>
+          </form>
+          <a href="#" rel="google" class="google-login ui-link">Google login</a>
+          <a href="#" class="forgot-password-button">Forgot password?</a>
+        </div>
+        <a href="#" class="signup-button">Create a new account</a>
+        <div class="version">ver. 4.94.0</div>
+      </div>
+
+      <div id="signup">
+       <header>
+          <a href="#" class="button blue left signup-back-button">Back</a>
+          <h1>Create a new account</h1>
+        </header>
+        <div class="d_r_content">
+          <form id="signup-form" onsubmit="return false">
+            <fieldset>
+              <div>
+                <input type="email" name="signup[email]" id="signup_email" placeholder="Email address" class="regular" required>
+              </div>
+              <div>
+                <input type="password" name="signup[password]" id="signup_password" placeholder="Password" class="regular" required/>
+              </div>
+              <input type="submit" class="submit-signup-button button green" value="Sign up">
+            </fieldset>
+          </form>
+        </div>
+      </div>
+
+      <div id="forgot_password">
+        <header>
+          <a href="#" class="button blue left lost-password-back-button">Back</a>
+          <h1>Reset your password</h1>
+        </header>
+        <div class="d_r_content">
+          <form id="lost-password-form" onsubmit="return false">
+            <fieldset>
+              <div>
+                <input type="email" name="lost-password[email]" id="lost_password_email" class="regular" placeholder="Email address">
+              </div>
+              <input type="submit" class="submit-lost-password-button button green" value="Submit">
+            </fieldset>
+          </form>
+        </div>
+      </div>
+
+      <div id="localstorage_requirement">
+        <div class="d_r_content">
+          Local storage is not available but Toggl needs local storage to run. When using Safari, please switch "Private Browsing" off to enable local storage.
+        </div>
+      </div>
+
+      <div id="feedback">
+        <header>
+          <a href="#" class="button blue left feedback-back-button">Back</a>
+          <h1>Send Feedback</h1>
+        </header>
+        <div class="d_r_content ui-content">
+          <form id="feedback-form" onsubmit="return false">
+            <fieldset>
+              <div>
+                <label for="feedback-contents">Report bugs or request additional features using the text box below.</label><br/>
+                <textarea class="feedback-textarea regular" id="feedback-contents" autofocus="autofocus"></textarea>
+              </div>
+            </fieldset>
+            <input type="submit" id="submit-feedback-button" value="Submit" class="button green">
+          </form>
+        </div>
+      </div>
+
+      <div id="add_project">
+        <header>
+          <a href="#" class="button blue left add-project-back-button">Back</a>
+          <h1>Add project</h1>
+          <a href="#" class="button blue right new-project-add-client-button">Add client</a>
+        </header>
+        <div class="d_r_content container">
+            <div class="single-input">
+              <input type="text" id="new-project-name" class="regular" placeholder="Project name...">
+            </div>
+
+            <ul class="main-list">
+              <li class="content">
+                <h2>Client</h2>
+                <span class="input">
+                  <select class="" id="new-project-client">
+                    <option>(select clientselect clientselect clientselect client)</option>
+                  </select>
+                </span>
+              </li>
+              <li class="content template-select">
+                <h2>Template</h2>
+                <span class="input">
+                  <select class="" id="new-project-template">
+                    <option>(select template)</option>
+                    <option>(select template select template)</option>
+                  </select>
+                </span>
+              </li>
+              <li class="content">
+                <h2>Workspace</h2>
+                <span class="input">
+                  <select class="" id="new-project-workspace">
+                    <option>Apprise</option>
+                  </select>
+                </span>
+              </li>
+              <li class="content">
+                <h2>Share with team</h2>
+                <span class="input"><input type="checkbox" id="share-with-team" value="1" class="ibutton"></span>
+              </li>
+              <li class="content">
+                <a href="#" class="button green add-project-button">Save</a>
+              </li>
+            </ul>
+        </div>
+      </div>
+
+      <div id="select_project">
+        <header>
+          <a href="#" class="button green left projects-back-button">Done</a>
+          <h1>Select project</h1>
+          <a href="#" class="button blue right projects-add-button">Add</a>
+        </header>
+        <div class="d_r_content container">
+          <div class="single-input">
+            <input type="text" class="regular find" placeholder="Find a project...">
+            <span class="input-loupe"></span>
+            <span class="input-delete"></span>
+          </div>
+          <div id="project-list-holder"></div>
+        </div>
+        <div class="empty-projects-list hidden">
+					<input type="button" id="create-first-project" class="project-create-row" value="Create your first project">
+        </div>
+      </div>
+      <div id="assign_tags">
+        <header>
+          <a href="#" class="button green left tags-back-button">Done</a>
+          <h1>Assign tags</h1>
+          <a href="#" class="button blue right tags-add-button">Add</a>
+        </header>
+        <div class="d_r_content container">
+          <div class="single-input">
+            <input type="text" class="regular find ui-input-text ui-body-c ui-corner-all ui-shadow-inset" placeholder="Find a tag...">
+            <span class="input-loupe"></span>
+            <span class="input-delete"></span>
+          </div>
+          <div id="tags-list-holder"></div>
+          <div class="empty-tags-list hidden">
+         		<input type="button" id="create-first-tag" class="tag-create-first" value="Create your first tag">
+         	</div>
+        </div>
+      </div>
+      <div id="edit">
+        <div id="edit_cover"></div>
+        <header>
+          <a href="#" class="button blue left edit-back">Back</a>
+          <h1 class="edit-h1">Edit</h1>
+          <a href="#" class="button blue right">Add</a>
+        </header>
+        <div class="d_r_content ui-content">
+          <div id="datebox"></div>
+          <div class="task">
+            <input type="text" class="regular wide time-entry-description" placeholder="What are you working on?">
+            <input type="text" class="time narrow regular entry-duration" value="00:00">
+            <input type="submit" class="button time-entry-start-button" value="Start">
+          </div>
+
+          <ul class="main-list edit-list">
+            <li>
+              <a href="#" class="content time-entry-select-project">
+                <h2 class="optional time-entry-project-value">Project (optional)</h2>               
+              </a>
+            </li>
+            <li class="start-stop">
+              <a href="#" class="content time-entry-start-time-button">
+                <h2>Started</h2>  
+                <span class="input"><input type="text" class="time-entry-start-time"></span>
+              </a>
+            </li>
+            <li class="start-stop">
+              <a href="#" class="content time-entry-stop-time-button">
+                <h2>Ended</h2>  
+                <span class="input"><input type="text" class="time-entry-stop-time"></span>
+              </a>
+            </li>
+            <li>
+              <a href="#" class="content time-entry-date-button">
+                <h2>Date</h2> 
+                <span class="input wide">
+                  <input type="text" value="12/12/2012" class="time-entry-date-value" disabled="disabled">
+                </span>
+              </a>
+            </li>
+            <li class="tags">
+              <a href="#" class="content time-entry-tags-button">
+                <h2 class="optional">Tags (optional)</h2>
+                <span class="input wide time-entry-tags-value"></span>
+              </a>
+            </li>
+            <li>
+              <a href="#" class="content" id="billable-flag">
+                <h2>Billable</h2>
+                <span class="input"><input type="checkbox" value="1" class="ibutton"></span>
+              </a>
+            </li>
+          </ul>
+
+          <div class="actions">
+            <a href="#" class="button blue left time-entry-delete-button">Delete</a>
+            <span class="right">Last saved <span class="last_saved">just now</span></span>
+          </div>
+
+        </div>
+      </div>
+      <div id="time_entries">
+        <header>
+          <a href="https://www.toggl.com/report/show" id="logo">Toggl</a>
+          <ul class="info-icons">
+            <li class="rec"></li>
+            <li class="spinner"></li>
+          </ul>
+          <div class="dropdown right">
+            <a href="#" class="button blue user dropdown-toggle">
+              <img width="32" height="32" src="" alt="">
+              <span></span>
+            </a>
+            <ul class="dropdown-menu" role="menu" aria-labelledby="dLabel">
+              <li><a href="#" class="refresh-button">Refresh</a></li>
+              <li><a href="#" class="feedback-button">Feedback</a></li>
+              <li><a href="#" class="logout-button">Log Out</a></li>
+            </ul>
+          </div>
+        </header>
+        <div class="container ui-content d_r_content">
+          <div class="task">
+              <a href="#" class="wide">
+                <h2></h2>
+                <p></p>
+              </a>
+              <input type="text" class="regular wide description" placeholder="What are you working on?">
+              <input type="text" class="time narrow start-duration" value="" placeholder="0 min">
+              <input type="submit" class="button" value="Start">
+          </div>
+          <div id="time-entries-list">
+          </div>
+          <div class="history-placeholder hidden">
+            <div></div>
+            <h2>Start tracking your activities...</h2>
+            <p>...and your history will appear here.</p>
+          </div>
+        </div>
+        <div id="edit_cover_dropdown"></div>
+      </div>
+    </div>
+    <div id="top-notice" class="note">
+      <p>Offline. <span></span></p>
+    </div>
+  </div>
+  
+  <script src="js/config.js" type="text/javascript"></script>  <script src="js/m.js" type="text/javascript"></script>
+  <script src="oauth2/oauth2.js" type="text/javascript"></script>
+  <script src="js/google_login.js" type="text/javascript"></script>
+
+</body>
+</html>

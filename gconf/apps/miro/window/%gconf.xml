@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="y" mtime="1369579078" type="int" value="78"/>
+	<entry name="x" mtime="1369579078" type="int" value="212"/>
+	<entry name="height" mtime="1369579078" type="int" value="600"/>
+	<entry name="width" mtime="1369579078" type="int" value="1024"/>
+	<entry name="maximized" mtime="1369579078" type="bool" value="false"/>
+</gconf>

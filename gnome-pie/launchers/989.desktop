@@ -1,0 +1,7 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Name=Сеанс
+Exec=/usr/bin/gnome-pie -o 989
+Encoding=UTF-8
+Type=Application
+Icon=gnome-logout

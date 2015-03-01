@@ -1,0 +1,7 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Name=Основное меню
+Exec=/usr/bin/gnome-pie -o 676
+Encoding=UTF-8
+Type=Application
+Icon=gnome-main-menu

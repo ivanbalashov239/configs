@@ -1,0 +1,24 @@
+{
+   "app": {
+      "container": "tab",
+      "launch": {
+         "local_path": "index.html"
+      }
+   },
+   "background_page": "background.html",
+   "content_scripts": [ {
+      "js": [ "oauth2/oauth2_inject.js" ],
+      "matches": [ "http://www.google.com/robots.txt*" ],
+      "run_at": "document_start"
+   } ],
+   "description": "Toggl Offline Timer",
+   "homepage_url": "https://www.toggl.com",
+   "icons": {
+      "128": "toggl_icon128.ico",
+      "16": "toggl_icon16.ico"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDP0WeTWXZC/dUjztUbAFFtYNVms4frqaPmmZLHGqL8+pGmeBAe6M3eCg9U8PWLaFAQyUvZAc1/PkBpxNJcCxvliHfnY/Bo8qM03+EUrf9lu25Dhj3mw3/ltc84biHYdvPORrVw/26BT9u2ifZgSc9y9B6ohg5N2SY9yz075G7lZwIDAQAB",
+   "name": "Toggl Offline Timer",
+   "permissions": [ "https://m.toggl.com/", "https://stream.toggl.com/", "https://www.toggl.com/", "https://accounts.google.com/o/oauth2/token", "idle", "unlimitedStorage", "notifications", "background", "tabs" ],
+   "version": "4.94.0"
+}

@@ -1,0 +1,4654 @@
+[
+ {
+  "mid": 74337,
+  "subject": " ... ",
+  "datetime": "2013-05-11T19:42:54",
+  "in": true,
+  "text": "пойдешь в дирежабли?",
+  "html": "пойдешь в дирежабли?"
+ },
+ {
+  "datetime": "2013-05-11T19:43:23",
+  "in": false,
+  "text": "не",
+  "html": "не"
+ },
+ {
+  "mid": 74341,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-11T19:43:38",
+  "in": true,
+  "text": "хули",
+  "html": "хули"
+ },
+ {
+  "datetime": "2013-05-11T19:43:57",
+  "in": false,
+  "text": "а я какашка\n",
+  "html": "а я какашка<br/>"
+ },
+ {
+  "datetime": "2013-05-11T19:44:05",
+  "in": false,
+  "text": "ну это так к слову\n",
+  "html": "ну это так к слову<br/>"
+ },
+ {
+  "mid": 74345,
+  "subject": " ... ",
+  "datetime": "2013-05-11T19:44:09",
+  "in": true,
+  "text": "Го",
+  "html": "Го"
+ },
+ {
+  "mid": 74346,
+  "subject": " ... ",
+  "datetime": "2013-05-11T19:44:10",
+  "in": true,
+  "text": "ска",
+  "html": "ска"
+ },
+ {
+  "datetime": "2013-05-11T19:44:23",
+  "in": false,
+  "text": "может позже\n\n",
+  "html": "может позже<br/><br/>"
+ },
+ {
+  "datetime": "2013-05-11T19:44:31",
+  "in": false,
+  "text": "щас не хочу",
+  "html": "щас не хочу"
+ },
+ {
+  "mid": 74349,
+  "subject": " ... ",
+  "datetime": "2013-05-11T19:44:32",
+  "in": true,
+  "text": "ну епт",
+  "html": "ну епт"
+ },
+ {
+  "mid": 74350,
+  "subject": " ... ",
+  "datetime": "2013-05-11T19:44:36",
+  "in": true,
+  "text": "Давай",
+  "html": "Давай"
+ },
+ {
+  "mid": 74351,
+  "subject": " ... ",
+  "datetime": "2013-05-11T19:44:38",
+  "in": true,
+  "text": "3м будешь",
+  "html": "3м будешь"
+ },
+ {
+  "datetime": "2013-05-11T19:44:40",
+  "in": false,
+  "text": "рано",
+  "html": "рано"
+ },
+ {
+  "mid": 74353,
+  "subject": " ... ",
+  "datetime": "2013-05-11T19:44:42",
+  "in": true,
+  "text": "Нужна КАМАНДА!",
+  "html": "Нужна КАМАНДА!"
+ },
+ {
+  "datetime": "2013-05-11T19:44:53",
+  "in": false,
+  "text": "3?",
+  "html": "3?"
+ },
+ {
+  "mid": 74355,
+  "subject": " ... ",
+  "datetime": "2013-05-11T19:44:56",
+  "in": true,
+  "text": "Д",
+  "html": "Д"
+ },
+ {
+  "datetime": "2013-05-11T19:45:24",
+  "in": false,
+  "text": "я подойду через некоторое время",
+  "html": "я подойду через некоторое время"
+ },
+ {
+  "mid": 74379,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-11T21:18:06",
+  "in": true,
+  "text": "Gogo",
+  "html": "Gogo"
+ },
+ {
+  "datetime": "2013-05-11T21:24:12",
+  "in": false,
+  "text": "ага of почти\n",
+  "html": "ага of почти<br/>"
+ },
+ {
+  "mid": 74680,
+  "subject": " ... ",
+  "datetime": "2013-05-14T23:01:03",
+  "in": true,
+  "text": "qt охуенен",
+  "html": "qt охуенен"
+ },
+ {
+  "datetime": "2013-05-14T23:01:47",
+  "in": false,
+  "text": "да знаю\nрешил освоить?\n",
+  "html": "да знаю<br/>решил освоить?<br/>"
+ },
+ {
+  "mid": 74682,
+  "subject": " ... ",
+  "firstFocus": true,
+  "focus": true,
+  "datetime": "2013-05-14T23:02:16",
+  "in": true,
+  "text": "http://screencloud.net/v/uuDe",
+  "html": "http://screencloud.net/v/uuDe <span class='urlpreview' id='urlpreview4'></span> "
+ },
+ {
+  "datetime": "2013-05-14T23:03:07",
+  "in": false,
+  "text": "ахаха\nтеперь говори что ты написал блокнот))",
+  "html": "ахаха<br/>теперь говори что ты написал блокнот))"
+ },
+ {
+  "mid": 74684,
+  "subject": " ... ",
+  "firstFocus": true,
+  "focus": true,
+  "datetime": "2013-05-14T23:03:24",
+  "in": true,
+  "text": "Охуительный блокнот строк так в 50",
+  "html": "Охуительный блокнот строк так в 50"
+ },
+ {
+  "mid": 74685,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-14T23:03:30",
+  "in": true,
+  "text": "А нет",
+  "html": "А нет"
+ },
+ {
+  "mid": 74686,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-14T23:03:35",
+  "in": true,
+  "text": "Строк в 100 - 120",
+  "html": "Строк в 100 - 120"
+ },
+ {
+  "datetime": "2013-05-14T23:03:50",
+  "in": false,
+  "text": "ага",
+  "html": "ага"
+ },
+ {
+  "datetime": "2013-05-14T23:04:16",
+  "in": false,
+  "text": "все конечно классно но его написал не ты, хотя в этом то и фишка\n",
+  "html": "все конечно классно но его написал не ты, хотя в этом то и фишка<br/>"
+ },
+ {
+  "mid": 74689,
+  "subject": " ... ",
+  "firstFocus": true,
+  "focus": true,
+  "datetime": "2013-05-14T23:05:07",
+  "in": true,
+  "text": "так можно говорить про любое приложение ктоторое не использует свой фраемворк",
+  "html": "так можно говорить про любое приложение ктоторое не использует свой фраемворк"
+ },
+ {
+  "datetime": "2013-05-14T23:06:24",
+  "in": false,
+  "text": "хм\nну ты хитрец",
+  "html": "хм<br/>ну ты хитрец"
+ },
+ {
+  "mid": 74691,
+  "subject": " ... ",
+  "firstFocus": true,
+  "focus": true,
+  "datetime": "2013-05-14T23:06:55",
+  "in": true,
+  "text": "У мене есть еще охуительные блокноты на javaFx2",
+  "html": "У мене есть еще охуительные блокноты на javaFx2"
+ },
+ {
+  "mid": 74692,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-14T23:06:58",
+  "in": true,
+  "text": "И на свинге",
+  "html": "И на свинге"
+ },
+ {
+  "mid": 74693,
+  "subject": " ... ",
+  "datetime": "2013-05-14T23:07:12",
+  "in": true,
+  "text": "А когда-то еще и на директиксе",
+  "html": "А когда-то еще и на директиксе"
+ },
+ {
+  "datetime": "2013-05-14T23:07:51",
+  "in": false,
+  "text": "я смотрю ты фанат блокнотов\nиди запили коммит в kate\n",
+  "html": "я смотрю ты фанат блокнотов<br/>иди запили коммит в kate<br/>"
+ },
+ {
+  "mid": 74695,
+  "subject": " ... ",
+  "firstFocus": true,
+  "focus": true,
+  "datetime": "2013-05-14T23:08:15",
+  "in": true,
+  "text": "kate кал",
+  "html": "kate кал"
+ },
+ {
+  "datetime": "2013-05-14T23:09:28",
+  "in": false,
+  "text": "есть немного но лучше гедит и подобных",
+  "html": "есть немного но лучше гедит и подобных"
+ },
+ {
+  "mid": 74697,
+  "subject": " ... ",
+  "firstFocus": true,
+  "focus": true,
+  "datetime": "2013-05-14T23:10:04",
+  "in": true,
+  "text": "Вим круче",
+  "html": "Вим круче"
+ },
+ {
+  "mid": 74698,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-14T23:10:05",
+  "in": true,
+  "text": "Епт",
+  "html": "Епт"
+ },
+ {
+  "datetime": "2013-05-14T23:11:27",
+  "in": false,
+  "text": "гвим отстой\n",
+  "html": "гвим отстой<br/>"
+ },
+ {
+  "datetime": "2013-05-14T23:11:47",
+  "in": false,
+  "text": "он очень  странно глючит\n",
+  "html": "он очень &nbsp;странно глючит<br/>"
+ },
+ {
+  "mid": 74701,
+  "subject": " ... ",
+  "firstFocus": true,
+  "focus": true,
+  "datetime": "2013-05-14T23:12:37",
+  "in": true,
+  "text": "http://screencloud.net/v/wtzR",
+  "html": "http://screencloud.net/v/wtzR <span class='urlpreview' id='urlpreview5'></span> "
+ },
+ {
+  "mid": 74702,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-14T23:13:56",
+  "in": true,
+  "text": "Еще емакс",
+  "html": "Еще емакс"
+ },
+ {
+  "datetime": "2013-05-14T23:15:54",
+  "in": false,
+  "text": "зачем ты мне простой вим показываешь?\nТипа намек что гвим не нужен??\nЕмакс норм\n",
+  "html": "зачем ты мне простой вим показываешь?<br/>Типа намек что гвим не нужен??<br/>Емакс норм<br/>"
+ },
+ {
+  "mid": 74706,
+  "subject": " ... ",
+  "datetime": "2013-05-14T23:16:13",
+  "in": true,
+  "text": "гвим от консольного ничем не отличается",
+  "html": "гвим от консольного ничем не отличается"
+ },
+ {
+  "datetime": "2013-05-14T23:16:20",
+  "in": false,
+  "text": "но вим круче)\n",
+  "html": "но вим круче)<br/>"
+ },
+ {
+  "mid": 74708,
+  "subject": " ... ",
+  "firstFocus": true,
+  "focus": true,
+  "datetime": "2013-05-14T23:16:29",
+  "in": true,
+  "text": "один хуй",
+  "html": "один хуй"
+ },
+ {
+  "mid": 74709,
+  "subject": " ... ",
+  "datetime": "2013-05-14T23:16:33",
+  "in": true,
+  "text": "емакс круче",
+  "html": "емакс круче"
+ },
+ {
+  "mid": 74714,
+  "subject": " ... ",
+  "firstFocus": true,
+  "focus": true,
+  "datetime": "2013-05-14T23:20:09",
+  "in": true,
+  "text": "короч qt охуенен",
+  "html": "короч qt охуенен"
+ },
+ {
+  "mid": 74715,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-14T23:20:10",
+  "in": true,
+  "text": "Красивый",
+  "html": "Красивый"
+ },
+ {
+  "mid": 74716,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-14T23:20:14",
+  "in": true,
+  "text": "Под систему",
+  "html": "Под систему"
+ },
+ {
+  "mid": 74717,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-14T23:20:24",
+  "in": true,
+  "text": "быстрый",
+  "html": "быстрый"
+ },
+ {
+  "mid": 74718,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-14T23:20:30",
+  "in": true,
+  "text": "кросплатформенный",
+  "html": "кросплатформенный"
+ },
+ {
+  "mid": 74719,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-14T23:20:33",
+  "in": true,
+  "text": "Чего еще надо то",
+  "html": "Чего еще надо то"
+ },
+ {
+  "datetime": "2013-05-14T23:21:27",
+  "in": false,
+  "text": "да\n",
+  "html": "да<br/>"
+ },
+ {
+  "datetime": "2013-05-14T23:21:30",
+  "in": false,
+  "text": "но\n",
+  "html": "но<br/>"
+ },
+ {
+  "datetime": "2013-05-14T23:21:55",
+  "in": false,
+  "text": "он для js юзает не v8 вроде",
+  "html": "он для js юзает не v8 вроде"
+ },
+ {
+  "mid": 74733,
+  "subject": " ... ",
+  "firstFocus": true,
+  "focus": true,
+  "datetime": "2013-05-14T23:23:40",
+  "in": true,
+  "text": "А при чем тут v8",
+  "html": "А при чем тут v8"
+ },
+ {
+  "datetime": "2013-05-14T23:24:43",
+  "in": false,
+  "text": "он для js круче вроде щас\n",
+  "html": "он для js круче вроде щас<br/>"
+ },
+ {
+  "mid": 74738,
+  "subject": " ... ",
+  "datetime": "2013-05-14T23:24:44",
+  "in": true,
+  "text": "Там вроде ядро вебкита",
+  "html": "Там вроде ядро вебкита"
+ },
+ {
+  "mid": 74739,
+  "subject": " ... ",
+  "datetime": "2013-05-14T23:25:00",
+  "in": true,
+  "text": "JavaScriptCore",
+  "html": "JavaScriptCore"
+ },
+ {
+  "datetime": "2013-05-14T23:25:02",
+  "in": false,
+  "text": "а интерфейс то на js+qml пилят\n",
+  "html": "а интерфейс то на js+qml пилят<br/>"
+ },
+ {
+  "datetime": "2013-05-14T23:25:23",
+  "in": false,
+  "text": "вот вот а оно медленнее чем v8\n",
+  "html": "вот вот а оно медленнее чем v8<br/>"
+ },
+ {
+  "mid": 74747,
+  "subject": " ... ",
+  "firstFocus": true,
+  "focus": true,
+  "datetime": "2013-05-14T23:26:54",
+  "in": true,
+  "text": "jlby xthn l;fdfcrhbg rfk",
+  "html": "jlby xthn l;fdfcrhbg rfk"
+ },
+ {
+  "mid": 74748,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-14T23:27:00",
+  "in": true,
+  "text": "Джаваскрипт",
+  "html": "Джаваскрипт"
+ },
+ {
+  "mid": 74749,
+  "subject": " ... ",
+  "datetime": "2013-05-14T23:27:07",
+  "in": true,
+  "text": "как скрипач",
+  "html": "как скрипач"
+ },
+ {
+  "mid": 74750,
+  "subject": " ... ",
+  "datetime": "2013-05-14T23:27:09",
+  "in": true,
+  "text": "Не нужен",
+  "html": "Не нужен"
+ },
+ {
+  "mid": 74869,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-15T22:26:28",
+  "in": true,
+  "text": "№м будешь",
+  "html": "№м будешь"
+ },
+ {
+  "mid": 74870,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-15T22:26:32",
+  "in": true,
+  "text": "3",
+  "html": "3"
+ },
+ {
+  "mid": 74906,
+  "subject": " ... ",
+  "datetime": "2013-05-17T00:18:31",
+  "in": true,
+  "text": "http://crypta.yandex.ru/",
+  "html": "http://crypta.yandex.ru/ <span class='urlpreview' id='urlpreview2'></span> "
+ },
+ {
+  "datetime": "2013-05-17T00:21:23",
+  "in": false,
+  "text": "как оно работает?\n",
+  "html": "как оно работает?<br/>"
+ },
+ {
+  "mid": 74908,
+  "subject": " ... ",
+  "firstFocus": true,
+  "focus": true,
+  "datetime": "2013-05-17T00:22:55",
+  "in": true,
+  "text": "история",
+  "html": "история"
+ },
+ {
+  "datetime": "2013-05-17T00:23:12",
+  "in": false,
+  "text": "она им доступна?",
+  "html": "она им доступна?"
+ },
+ {
+  "firstFocus": true,
+  "focus": true,
+  "datetime": "2013-05-17T00:23:51",
+  "in": false,
+  "text": "Увы, мы ничего не можем о вас сказать.\nВозможно, вы слишком редко бываете\nв интернете или удалили историю\nпосещенных страниц.\nА может быть, вы робот?\n",
+  "html": "Увы, мы ничего не можем о вас сказать.<br/>Возможно, вы слишком редко бываете<br/>в интернете или удалили историю<br/>посещенных страниц.<br/>А может быть, вы робот?<br/>"
+ },
+ {
+  "mid": 74911,
+  "subject": " ... ",
+  "firstFocus": true,
+  "focus": true,
+  "datetime": "2013-05-17T00:24:09",
+  "in": true,
+  "text": "Значит ты почистил историю",
+  "html": "Значит ты почистил историю"
+ },
+ {
+  "mid": 74912,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-17T00:24:13",
+  "in": true,
+  "text": "Очевидно же блять",
+  "html": "Очевидно же блять"
+ },
+ {
+  "datetime": "2013-05-17T00:24:26",
+  "in": false,
+  "text": "не инкогнито открыл\n",
+  "html": "не инкогнито открыл<br/>"
+ },
+ {
+  "datetime": "2013-05-17T00:24:35",
+  "in": false,
+  "text": "ну и кто ты?\n",
+  "html": "ну и кто ты?<br/>"
+ },
+ {
+  "mid": 74915,
+  "subject": " ... ",
+  "firstFocus": true,
+  "focus": true,
+  "datetime": "2013-05-17T00:26:35",
+  "in": true,
+  "text": "Если под линуксом то http://screencloud.net/v/AJfe",
+  "html": "Если под линуксом то http://screencloud.net/v/AJfe <span class='urlpreview' id='urlpreview3'></span> "
+ },
+ {
+  "datetime": "2013-05-17T00:29:08",
+  "in": false,
+  "text": "ты больше студент чем я",
+  "html": "ты больше студент чем я"
+ },
+ {
+  "datetime": "2013-05-17T00:29:23",
+  "in": false,
+  "text": "и мама",
+  "html": "и мама"
+ },
+ {
+  "datetime": "2013-05-17T00:30:02",
+  "in": false,
+  "text": "а я больше руководитель)\n",
+  "html": "а я больше руководитель)<br/>"
+ },
+ {
+  "mid": 74919,
+  "subject": " ... ",
+  "firstFocus": true,
+  "focus": true,
+  "datetime": "2013-05-17T00:30:48",
+  "in": true,
+  "text": "То мать то ты плоая!",
+  "html": "То мать то ты плоая!"
+ },
+ {
+  "datetime": "2013-05-17T00:32:51",
+  "in": false,
+  "text": "а какая графа учитывает порнографию?\n",
+  "html": "а какая графа учитывает порнографию?<br/>"
+ },
+ {
+  "mid": 74924,
+  "subject": "... ",
+  "firstFocus": true,
+  "focus": true,
+  "datetime": "2013-05-17T00:47:19",
+  "in": true,
+  "text": "Кто смотрит порнографию не в анонимной вкладке?",
+  "html": "Кто смотрит порнографию не в анонимной вкладке?"
+ },
+ {
+  "mid": 74923,
+  "subject": "...",
+  "focus": true,
+  "datetime": "2013-05-17T00:47:19",
+  "in": true,
+  "text": "Холостяк, лол",
+  "html": "Холостяк, лол"
+ },
+ {
+  "datetime": "2013-05-17T00:48:21",
+  "in": false,
+  "text": "ты больше холостяк чем я))",
+  "html": "ты больше холостяк чем я))"
+ },
+ {
+  "mid": 75154,
+  "subject": " ... ",
+  "datetime": "2013-05-18T22:24:10",
+  "in": true,
+  "text": "Чмотри \nhttps://plus.google.com/photos/108306892219837528173/albums/5827769839070924177",
+  "html": "Чмотри <br/>https://plus.google.com/photos/108306892219837528173/albums/5827769839070924177 <span class='urlpreview' id='urlpreview1'></span> "
+ },
+ {
+  "mid": 75155,
+  "subject": " ... ",
+  "datetime": "2013-05-18T22:24:25",
+  "in": true,
+  "text": "Обновилось жи\nСмотри как красиво скролится",
+  "html": "Обновилось жи<br/>Смотри как красиво скролится"
+ },
+ {
+  "mid": 75156,
+  "subject": " ... ",
+  "datetime": "2013-05-18T22:25:13",
+  "in": true,
+  "text": "И хэнгсаут выезжает круто",
+  "html": "И хэнгсаут выезжает круто"
+ },
+ {
+  "datetime": "2013-05-18T22:26:37",
+  "in": false,
+  "text": "да но это уже не xmpp\n",
+  "html": "да но это уже не xmpp<br/>"
+ },
+ {
+  "datetime": "2013-05-18T22:27:01",
+  "in": false,
+  "text": "а гугл+ оч круто обновился я сразу заметил",
+  "html": "а гугл+ оч круто обновился я сразу заметил"
+ },
+ {
+  "datetime": "2013-05-18T22:27:05",
+  "in": false,
+  "text": "давно пора\n",
+  "html": "давно пора<br/>"
+ },
+ {
+  "mid": 75160,
+  "subject": " ... ",
+  "firstFocus": true,
+  "focus": true,
+  "datetime": "2013-05-18T22:27:11",
+  "in": true,
+  "text": "Все так красиво",
+  "html": "Все так красиво"
+ },
+ {
+  "mid": 75161,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-18T22:27:14",
+  "in": true,
+  "text": "Плавно",
+  "html": "Плавно"
+ },
+ {
+  "mid": 75162,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-18T22:27:18",
+  "in": true,
+  "text": "Вункционально",
+  "html": "Вункционально"
+ },
+ {
+  "mid": 75163,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-18T22:27:25",
+  "in": true,
+  "text": "Почему он не популярен",
+  "html": "Почему он не популярен"
+ },
+ {
+  "datetime": "2013-05-18T22:27:44",
+  "in": false,
+  "text": "потому что давно есть фэйсбук\n",
+  "html": "потому что давно есть фэйсбук<br/>"
+ },
+ {
+  "datetime": "2013-05-18T22:28:05",
+  "in": false,
+  "text": "а это еще один закрытый социальный интернет\n",
+  "html": "а это еще один закрытый социальный интернет<br/>"
+ },
+ {
+  "mid": 75166,
+  "subject": "... ",
+  "datetime": "2013-05-18T22:30:22",
+  "in": true,
+  "text": "но блять гугл+ куда круче факебука",
+  "html": "но блять гугл+ куда круче факебука"
+ },
+ {
+  "datetime": "2013-05-18T22:30:47",
+  "in": false,
+  "text": "к сожелению всем насрать",
+  "html": "к сожелению всем насрать"
+ },
+ {
+  "mid": 75168,
+  "subject": " ... ",
+  "firstFocus": true,
+  "focus": true,
+  "datetime": "2013-05-18T22:34:47",
+  "in": true,
+  "text": "Меседжер",
+  "html": "Меседжер"
+ },
+ {
+  "mid": 75169,
+  "subject": " ... ",
+  "datetime": "2013-05-18T22:34:53",
+  "in": true,
+  "text": "qutim",
+  "html": "qutim"
+ },
+ {
+  "datetime": "2013-05-18T22:35:00",
+  "in": false,
+  "text": "да его и юзаю\n",
+  "html": "да его и юзаю<br/>"
+ },
+ {
+  "mid": 75171,
+  "subject": " ... ",
+  "datetime": "2013-05-18T22:35:00",
+  "in": true,
+  "text": "много лучше копыта",
+  "html": "много лучше копыта"
+ },
+ {
+  "datetime": "2013-05-18T22:35:09",
+  "in": false,
+  "text": ":)\n",
+  "html": ":)<br/>"
+ },
+ {
+  "mid": 75173,
+  "subject": " ... ",
+  "datetime": "2013-05-18T22:35:21",
+  "in": true,
+  "text": "$x=z+y$",
+  "html": "$x=z+y$"
+ },
+ {
+  "datetime": "2013-05-18T22:35:23",
+  "in": false,
+  "text": "отоббразился как смайл?\n",
+  "html": "отоббразился как смайл?<br/>"
+ },
+ {
+  "mid": 75175,
+  "subject": " ... ",
+  "datetime": "2013-05-18T22:35:39",
+  "in": true,
+  "text": "[math]x=z+y[/math]",
+  "html": "[math]x=z+y[/math]"
+ },
+ {
+  "datetime": "2013-05-18T22:35:53",
+  "in": false,
+  "text": "не работает",
+  "html": "не работает"
+ },
+ {
+  "mid": 75177,
+  "subject": " ... ",
+  "datetime": "2013-05-18T22:35:53",
+  "in": true,
+  "text": "Да, отобразился",
+  "html": "Да, отобразился"
+ },
+ {
+  "datetime": "2013-05-18T22:36:06",
+  "in": false,
+  "text": "круто)\n",
+  "html": "круто)<br/>"
+ },
+ {
+  "mid": 75179,
+  "subject": " ... ",
+  "datetime": "2013-05-18T22:36:07",
+  "in": true,
+  "text": "&lt;math&gt;z=x+y&lt;/math&gt;",
+  "html": "&amp;lt;math&amp;gt;z=x+y&amp;lt;/math&amp;gt;"
+ },
+ {
+  "mid": 75180,
+  "subject": " ... ",
+  "firstFocus": true,
+  "focus": true,
+  "datetime": "2013-05-18T22:38:06",
+  "in": true,
+  "text": "[tex] \\alpha+\\beta+\\gamma=180^\\circ [/tex]",
+  "html": "[tex] \\alpha+\\beta+\\gamma=180^\\circ [/tex]"
+ },
+ {
+  "mid": 75181,
+  "subject": " ... ",
+  "datetime": "2013-05-18T22:39:07",
+  "in": true,
+  "text": "[tex]\\mathop{\\mathrm{corr}}(X,Y)=\\frac{\\displaystyle\\sum_{i=1}^n(x_i-\\overline x)(y_i-\\overline y)}{\\displaystyle\\biggl[\\sum_{i=1}^n(x_i-\\overline x)^2\\sum_{i=1}^n(y_i-\\overline y)^2\\biggr]^{1/2}}[/tex]",
+  "html": "[tex]\\mathop{\\mathrm{corr}}(X,Y)=\\frac{\\displaystyle\\sum_{i=1}^n(x_i-\\overline x)(y_i-\\overline y)}{\\displaystyle\\biggl[\\sum_{i=1}^n(x_i-\\overline x)^2\\sum_{i=1}^n(y_i-\\overline y)^2\\biggr]^{1/2}}[/tex]"
+ },
+ {
+  "mid": 75182,
+  "subject": " ... ",
+  "datetime": "2013-05-18T22:39:18",
+  "in": true,
+  "text": "Хули не работает то",
+  "html": "Хули не работает то"
+ },
+ {
+  "datetime": "2013-05-18T22:39:23",
+  "in": false,
+  "text": "Chromium Wheel Smooth Scroller какие ты настройки выставил?",
+  "html": "Chromium Wheel Smooth Scroller какие ты настройки выставил?"
+ },
+ {
+  "datetime": "2013-05-18T22:39:30",
+  "in": false,
+  "text": "контакт может?",
+  "html": "контакт может?"
+ },
+ {
+  "mid": 75185,
+  "subject": " ... ",
+  "firstFocus": true,
+  "focus": true,
+  "datetime": "2013-05-18T22:39:52",
+  "in": true,
+  "text": "Не умаю",
+  "html": "Не умаю"
+ },
+ {
+  "mid": 75186,
+  "subject": " ... ",
+  "firstFocus": true,
+  "focus": true,
+  "datetime": "2013-05-18T22:40:01",
+  "in": true,
+  "text": "qutIm  должен",
+  "html": "qutIm &nbsp;должен"
+ },
+ {
+  "datetime": "2013-05-18T22:40:24",
+  "in": false,
+  "text": "ну может он в протокол контакта не может) хотя странно\n",
+  "html": "ну может он в протокол контакта не может) хотя странно<br/>"
+ },
+ {
+  "mid": 75188,
+  "subject": " ... ",
+  "firstFocus": true,
+  "focus": true,
+  "datetime": "2013-05-18T22:44:04",
+  "in": true,
+  "text": "$$\\alpha$$",
+  "html": "<img src=\"http://latex.codecogs.com/png.latex?%5Calpha\"alt=\"$$\\alpha$$\" title=\"$$\\alpha$$\">"
+ },
+ {
+  "mid": 75189,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-18T22:44:10",
+  "in": true,
+  "text": "ООО",
+  "html": "ООО"
+ },
+ {
+  "mid": 75190,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-18T22:44:22",
+  "in": true,
+  "text": "$$\\mathop{\\mathrm{corr}}(X,Y)=\\frac{\\displaystyle\\sum_{i=1}^n(x_i-\\overline x)(y_i-\\overline y)}{\\displaystyle\\biggl[\\sum_{i=1}^n(x_i-\\overline x)^2\\sum_{i=1}^n(y_i-\\overline y)^2\\biggr]^{1/2}}$$",
+  "html": "<img src=\"http://latex.codecogs.com/png.latex?%5Cmathop%7B%5Cmathrm%7Bcorr%7D%7D%28X%2CY%29%3D%5Cfrac%7B%5Cdisplaystyle%5Csum_%7Bi%3D1%7D%5En%28x_i-%5Coverline%20x%29%28y_i-%5Coverline%20y%29%7D%7B%5Cdisplaystyle%5Cbiggl%5B%5Csum_%7Bi%3D1%7D%5En%28x_i-%5Coverline%20x%29%5E2%5Csum_%7Bi%3D1%7D%5En%28y_i-%5Coverline%20y%29%5E2%5Cbiggr%5D%5E%7B1%2F2%7D%7D\"alt=\"$$\\mathop{\\mathrm{corr}}(X,Y)=\\frac{\\displaystyle\\sum_{i=1}^n(x_i-\\overline x)(y_i-\\overline y)}{\\displaystyle\\biggl[\\sum_{i=1}^n(x_i-\\overline x)^2\\sum_{i=1}^n(y_i-\\overline y)^2\\biggr]^{1/2}}$$\" title=\"$$\\mathop{\\mathrm{corr}}(X,Y)=\\frac{\\displaystyle\\sum_{i=1}^n(x_i-\\overline x)(y_i-\\overline y)}{\\displaystyle\\biggl[\\sum_{i=1}^n(x_i-\\overline x)^2\\sum_{i=1}^n(y_i-\\overline y)^2\\biggr]^{1/2}}$$\">"
+ },
+ {
+  "mid": 75191,
+  "subject": " ... ",
+  "datetime": "2013-05-18T22:44:31",
+  "in": true,
+  "text": "КАКОВО А",
+  "html": "КАКОВО А"
+ },
+ {
+  "datetime": "2013-05-18T22:44:35",
+  "in": false,
+  "text": "ооо\n",
+  "html": "ооо<br/>"
+ },
+ {
+  "mid": 75193,
+  "subject": " ... ",
+  "firstFocus": true,
+  "focus": true,
+  "datetime": "2013-05-18T22:44:51",
+  "in": true,
+  "text": "$$x+y=z$$",
+  "html": "<img src=\"http://latex.codecogs.com/png.latex?x%2By%3Dz\"alt=\"$$x+y=z$$\" title=\"$$x+y=z$$\">"
+ },
+ {
+  "mid": 75194,
+  "subject": " ... ",
+  "datetime": "2013-05-18T22:44:58",
+  "in": true,
+  "text": "ЗАебись",
+  "html": "ЗАебись"
+ },
+ {
+  "datetime": "2013-05-18T22:45:19",
+  "in": false,
+  "text": "$$xuy$$\n",
+  "html": "<img src=\"http://latex.codecogs.com/png.latex?xuy\"alt=\"$$xuy$$\" title=\"$$xuy$$\"><br/>"
+ },
+ {
+  "mid": 75196,
+  "subject": " ... ",
+  "datetime": "2013-05-18T22:52:44",
+  "in": true,
+  "text": "Весьма удобно да",
+  "html": "Весьма удобно да"
+ },
+ {
+  "datetime": "2013-05-18T23:46:56",
+  "in": false,
+  "text": "ты настроил touchegg или бросил?",
+  "html": "ты настроил touchegg или бросил?"
+ },
+ {
+  "mid": 75281,
+  "subject": " ... ",
+  "firstFocus": true,
+  "focus": true,
+  "datetime": "2013-05-18T23:52:06",
+  "in": true,
+  "text": "Забил",
+  "html": "Забил"
+ },
+ {
+  "datetime": "2013-05-18T23:54:49",
+  "in": false,
+  "text": "сегодня разберусь 100%",
+  "html": "сегодня разберусь 100%"
+ },
+ {
+  "datetime": "2013-05-18T23:54:51",
+  "in": false,
+  "text": "!!!!!",
+  "html": "!!!!!"
+ },
+ {
+  "mid": 75296,
+  "subject": " ... ",
+  "datetime": "2013-05-19T00:07:11",
+  "in": true,
+  "text": "Очень врядли",
+  "html": "Очень врядли"
+ },
+ {
+  "datetime": "2013-05-19T00:07:33",
+  "in": false,
+  "text": "ну может и не его но как нибудь",
+  "html": "ну может и не его но как нибудь"
+ },
+ {
+  "mid": 75329,
+  "subject": " ... ",
+  "datetime": "2013-05-19T00:32:17",
+  "in": true,
+  "text": "О заебись",
+  "html": "О заебись"
+ },
+ {
+  "datetime": "2013-05-19T00:32:23",
+  "in": false,
+  "text": "что?",
+  "html": "что?"
+ },
+ {
+  "mid": 75331,
+  "subject": " ... ",
+  "datetime": "2013-05-19T00:32:24",
+  "in": true,
+  "text": "Таки я сделал это",
+  "html": "Таки я сделал это"
+ },
+ {
+  "datetime": "2013-05-19T00:32:30",
+  "in": false,
+  "text": "Что?",
+  "html": "Что?"
+ },
+ {
+  "mid": 75333,
+  "subject": " ... ",
+  "datetime": "2013-05-19T00:32:53",
+  "in": true,
+  "text": "Ой фэил",
+  "html": "Ой фэил"
+ },
+ {
+  "datetime": "2013-05-19T00:33:03",
+  "in": false,
+  "text": "Да о чем ты?!",
+  "html": "Да о чем ты?!"
+ },
+ {
+  "mid": 75335,
+  "subject": " ... ",
+  "firstFocus": true,
+  "focus": true,
+  "datetime": "2013-05-19T00:33:13",
+  "in": true,
+  "text": "http://screencloud.net/v/zo8j",
+  "html": "http://screencloud.net/v/zo8j <span class='urlpreview' id='urlpreview2'></span> "
+ },
+ {
+  "mid": 75336,
+  "subject": " ... ",
+  "datetime": "2013-05-19T00:33:17",
+  "in": true,
+  "text": "Цвет",
+  "html": "Цвет"
+ },
+ {
+  "mid": 75337,
+  "subject": " ... ",
+  "firstFocus": true,
+  "focus": true,
+  "datetime": "2013-05-19T00:33:20",
+  "in": true,
+  "text": "Белый",
+  "html": "Белый"
+ },
+ {
+  "mid": 75338,
+  "subject": " ... ",
+  "firstFocus": true,
+  "focus": true,
+  "datetime": "2013-05-19T00:33:35",
+  "in": true,
+  "text": "Только вон див торчит у входящих лол",
+  "html": "Только вон див торчит у входящих лол"
+ },
+ {
+  "datetime": "2013-05-19T00:33:43",
+  "in": false,
+  "text": "ахаха",
+  "html": "ахаха"
+ },
+ {
+  "datetime": "2013-05-19T00:33:56",
+  "in": false,
+  "text": "ужасный стиль",
+  "html": "ужасный стиль"
+ },
+ {
+  "mid": 75341,
+  "subject": " ... ",
+  "datetime": "2013-05-19T00:34:11",
+  "in": true,
+  "text": "Охуительный стиль",
+  "html": "Охуительный стиль"
+ },
+ {
+  "datetime": "2013-05-19T00:34:16",
+  "in": false,
+  "text": "прикрути от адиума если ничего из стандартных не нравится",
+  "html": "прикрути от адиума если ничего из стандартных не нравится"
+ },
+ {
+  "service": true,
+  "datetime": "2013-05-19T00:34:33",
+  "in": false,
+  "text": "File sent: снимок4.png (239823 bytes)\nDownload url: http://yadi.sk/d/Wt7oMLry4xW1W",
+  "html": "File sent: снимок4.png (239823 bytes)<br/>Download url: http://yadi.sk/d/Wt7oMLry4xW1W <span class='urlpreview' id='urlpreview3'></span> "
+ },
+ {
+  "mid": 75344,
+  "subject": " ... ",
+  "firstFocus": true,
+  "focus": true,
+  "datetime": "2013-05-19T00:34:47",
+  "in": true,
+  "text": "Это стандартная только цвет вместо черного белый",
+  "html": "Это стандартная только цвет вместо черного белый"
+ },
+ {
+  "mid": 75345,
+  "subject": " ... ",
+  "datetime": "2013-05-19T00:35:01",
+  "in": true,
+  "text": "Говно",
+  "html": "Говно"
+ },
+ {
+  "datetime": "2013-05-19T00:35:10",
+  "in": false,
+  "text": "вместо белого черный",
+  "html": "вместо белого черный"
+ },
+ {
+  "datetime": "2013-05-19T00:35:14",
+  "in": false,
+  "text": "да я знаю",
+  "html": "да я знаю"
+ },
+ {
+  "mid": 75348,
+  "subject": " ... ",
+  "firstFocus": true,
+  "focus": true,
+  "datetime": "2013-05-19T00:35:20",
+  "in": true,
+  "text": "Не выход ставить говнотему если не можешь прикрутить цвет шрифта",
+  "html": "Не выход ставить говнотему если не можешь прикрутить цвет шрифта"
+ },
+ {
+  "datetime": "2013-05-19T00:35:42",
+  "in": false,
+  "text": "у меня это не было проблемой пока",
+  "html": "у меня это не было проблемой пока"
+ },
+ {
+  "mid": 75350,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-19T00:39:37",
+  "in": true,
+  "text": "Попизди мне тут\nСлишком не в тему белый фоннн",
+  "html": "Попизди мне тут<br/>Слишком не в тему белый фоннн"
+ },
+ {
+  "mid": 75351,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-19T00:39:41",
+  "in": true,
+  "text": "Контрастно",
+  "html": "Контрастно"
+ },
+ {
+  "datetime": "2013-05-19T00:40:05",
+  "in": false,
+  "text": "да я думал об этом и стал искать темы для адиума",
+  "html": "да я думал об этом и стал искать темы для адиума"
+ },
+ {
+  "datetime": "2013-05-19T00:40:18",
+  "in": false,
+  "text": "скачал их но пока не стал ставить как то привык",
+  "html": "скачал их но пока не стал ставить как то привык"
+ },
+ {
+  "mid": 75354,
+  "subject": " ... ",
+  "firstFocus": true,
+  "focus": true,
+  "datetime": "2013-05-19T00:40:24",
+  "in": true,
+  "text": "Плохой выход",
+  "html": "Плохой выход"
+ },
+ {
+  "datetime": "2013-05-19T00:40:47",
+  "in": false,
+  "text": "я немного подумаю как я отношусь к этоу теме потом те попробую",
+  "html": "я немного подумаю как я отношусь к этоу теме потом те попробую"
+ },
+ {
+  "mid": 75356,
+  "subject": " ... ",
+  "firstFocus": true,
+  "focus": true,
+  "datetime": "2013-05-19T00:41:22",
+  "in": true,
+  "text": "Просто ты не можешь поменять цвета",
+  "html": "Просто ты не можешь поменять цвета"
+ },
+ {
+  "datetime": "2013-05-19T00:41:37",
+  "in": false,
+  "text": "а на какой менять то?",
+  "html": "а на какой менять то?"
+ },
+ {
+  "mid": 75357,
+  "subject": " ... ",
+  "datetime": "2013-05-19T00:41:37",
+  "in": true,
+  "text": "Я сейчас запилю для этой же темы менее контрастное говно",
+  "html": "Я сейчас запилю для этой же темы менее контрастное говно"
+ },
+ {
+  "mid": 75359,
+  "subject": " ... ",
+  "datetime": "2013-05-19T00:41:46",
+  "in": true,
+  "text": "Серый блять",
+  "html": "Серый блять"
+ },
+ {
+  "mid": 75360,
+  "subject": " ... ",
+  "datetime": "2013-05-19T00:41:50",
+  "in": true,
+  "text": "И белый текст",
+  "html": "И белый текст"
+ },
+ {
+  "datetime": "2013-05-19T00:41:51",
+  "in": false,
+  "text": "Здесь весь стиль перерисовывать надо",
+  "html": "Здесь весь стиль перерисовывать надо"
+ },
+ {
+  "mid": 75362,
+  "subject": " ... ",
+  "datetime": "2013-05-19T00:41:55",
+  "in": true,
+  "text": "И смотрелось бы круто",
+  "html": "И смотрелось бы круто"
+ },
+ {
+  "datetime": "2013-05-19T00:42:00",
+  "in": false,
+  "text": "не",
+  "html": "не"
+ },
+ {
+  "datetime": "2013-05-19T00:42:10",
+  "in": false,
+  "text": "серый не круто",
+  "html": "серый не круто"
+ },
+ {
+  "datetime": "2013-05-19T00:42:19",
+  "in": false,
+  "text": "надо темную тему",
+  "html": "надо темную тему"
+ },
+ {
+  "mid": 75366,
+  "subject": " ... ",
+  "firstFocus": true,
+  "focus": true,
+  "datetime": "2013-05-19T00:42:27",
+  "in": true,
+  "text": "А серый блять не темный",
+  "html": "А серый блять не темный"
+ },
+ {
+  "mid": 75367,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-19T00:42:33",
+  "in": true,
+  "text": "У тебя вообще белое все",
+  "html": "У тебя вообще белое все"
+ },
+ {
+  "mid": 75368,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-19T00:42:34",
+  "in": true,
+  "text": "http://screencloud.net/v/rFYF",
+  "html": "http://screencloud.net/v/rFYF <span class='urlpreview' id='urlpreview4'></span> "
+ },
+ {
+  "datetime": "2013-05-19T00:45:19",
+  "in": false,
+  "text": "серый это светлый",
+  "html": "серый это светлый"
+ },
+ {
+  "datetime": "2013-05-19T00:45:48",
+  "in": false,
+  "text": "ну если и менять то что у меня на другой цвет то не на серый",
+  "html": "ну если и менять то что у меня на другой цвет то не на серый"
+ },
+ {
+  "mid": 75371,
+  "subject": " ... ",
+  "datetime": "2013-05-19T00:45:49",
+  "in": true,
+  "text": "Ты что дегенерат?",
+  "html": "Ты что дегенерат?"
+ },
+ {
+  "datetime": "2013-05-19T00:45:58",
+  "in": false,
+  "text": "все иди в зад",
+  "html": "все иди в зад"
+ },
+ {
+  "mid": 75373,
+  "subject": " ... ",
+  "datetime": "2013-05-19T00:45:59",
+  "in": true,
+  "text": "http://screencloud.net/v/B7eJ",
+  "html": "http://screencloud.net/v/B7eJ <span class='urlpreview' id='urlpreview5'></span> "
+ },
+ {
+  "datetime": "2013-05-19T00:46:02",
+  "in": false,
+  "text": "потом покажу",
+  "html": "потом покажу"
+ },
+ {
+  "mid": 75375,
+  "subject": " ... ",
+  "firstFocus": true,
+  "focus": true,
+  "datetime": "2013-05-19T00:46:04",
+  "in": true,
+  "text": "Какой это цвет?",
+  "html": "Какой это цвет?"
+ },
+ {
+  "datetime": "2013-05-19T00:46:21",
+  "in": false,
+  "text": "темно серый!!",
+  "html": "темно серый!!"
+ },
+ {
+  "datetime": "2013-05-19T00:46:39",
+  "in": false,
+  "text": ":)",
+  "html": ":)"
+ },
+ {
+  "mid": 75383,
+  "subject": " ... ",
+  "datetime": "2013-05-19T01:15:40",
+  "in": true,
+  "text": "Короче что-то на подобии http://screencloud.net/v/dkhO",
+  "html": "Короче что-то на подобии http://screencloud.net/v/dkhO <span class='urlpreview' id='urlpreview1'></span> "
+ },
+ {
+  "mid": 75384,
+  "subject": " ... ",
+  "datetime": "2013-05-19T01:16:09",
+  "in": true,
+  "text": "test $$x=y+z$$",
+  "html": "test <img src=\"http://latex.codecogs.com/png.latex?x%3Dy%2Bz\"alt=\"$$x=y+z$$\" title=\"$$x=y+z$$\">"
+ },
+ {
+  "mid": 75385,
+  "subject": " ... ",
+  "history": true,
+  "datetime": "2013-05-19T01:18:21",
+  "in": false,
+  "text": "Более менее но если уж и менять то и иконку добавить и тд)",
+  "html": "Более менее но если уж и менять то и иконку добавить и тд)"
+ },
+ {
+  "mid": 75386,
+  "subject": " ... ",
+  "datetime": "2013-05-19T01:18:41",
+  "in": true,
+  "text": "Какую иконку",
+  "html": "Какую иконку"
+ },
+ {
+  "mid": 75387,
+  "subject": " ... ",
+  "history": true,
+  "datetime": "2013-05-19T01:18:58",
+  "in": false,
+  "text": "Собеседника юзерпик",
+  "html": "Собеседника юзерпик"
+ },
+ {
+  "mid": 75388,
+  "subject": " ... ",
+  "datetime": "2013-05-19T01:19:14",
+  "in": true,
+  "text": "ну это уже совсем тему менть",
+  "html": "ну это уже совсем тему менть"
+ },
+ {
+  "mid": 75389,
+  "subject": " ... ",
+  "history": true,
+  "datetime": "2013-05-19T01:19:41",
+  "in": false,
+  "text": "Ага потому я и сказал что лучше от адиума нормальнуюприкрутить",
+  "html": "Ага потому я и сказал что лучше от адиума нормальнуюприкрутить"
+ },
+ {
+  "mid": 75390,
+  "subject": " ... ",
+  "history": true,
+  "datetime": "2013-05-19T01:19:49",
+  "in": false,
+  "text": "Смех",
+  "html": "Смех"
+ },
+ {
+  "mid": 75391,
+  "subject": " ... ",
+  "history": true,
+  "datetime": "2013-05-19T01:20:07",
+  "in": false,
+  "text": "Химичил с тачпадом сломалась сеть",
+  "html": "Химичил с тачпадом сломалась сеть"
+ },
+ {
+  "mid": 75392,
+  "subject": " ... ",
+  "datetime": "2013-05-19T01:21:46",
+  "in": true,
+  "text": "У адиума же другой формат",
+  "html": "У адиума же другой формат"
+ },
+ {
+  "mid": 75393,
+  "subject": " ... ",
+  "history": true,
+  "datetime": "2013-05-19T01:22:20",
+  "in": false,
+  "text": "Кутим его поддерживает",
+  "html": "Кутим его поддерживает"
+ },
+ {
+  "mid": 75394,
+  "subject": " ... ",
+  "datetime": "2013-05-19T01:24:02",
+  "in": true,
+  "text": "Хуй найдешь там красивую тему темную",
+  "html": "Хуй найдешь там красивую тему темную"
+ },
+ {
+  "mid": 75395,
+  "subject": " ... ",
+  "datetime": "2013-05-19T01:24:46",
+  "in": true,
+  "text": "test",
+  "html": "test"
+ },
+ {
+  "mid": 75396,
+  "subject": " ... ",
+  "datetime": "2013-05-19T01:25:28",
+  "in": true,
+  "text": "о вот так заебись",
+  "html": "о вот так заебись"
+ },
+ {
+  "mid": 75397,
+  "subject": " ... ",
+  "datetime": "2013-05-19T01:25:43",
+  "in": true,
+  "text": "http://screencloud.net/v/i2hy",
+  "html": "http://screencloud.net/v/i2hy <span class='urlpreview' id='urlpreview2'></span> "
+ },
+ {
+  "mid": 75459,
+  "subject": " ... ",
+  "datetime": "2013-05-19T15:19:15",
+  "in": true,
+  "text": "http://www.youtube.com/watch?v=DdjM_VkD1JY",
+  "html": "http://www.youtube.com/watch?v=DdjM_VkD1JY <br><b>Предпросмотр URL</b>: <i>Видео YouTube, Неизвестно байт(ов)</i><br><img src=\"http://img.youtube.com/vi/DdjM_VkD1JY/1.jpg\"><img src=\"http://img.youtube.com/vi/DdjM_VkD1JY/2.jpg\"><img src=\"http://img.youtube.com/vi/DdjM_VkD1JY/3.jpg\"><br>"
+ },
+ {
+  "mid": 75460,
+  "subject": " ... ",
+  "datetime": "2013-05-19T15:19:22",
+  "in": true,
+  "text": "Отвратительный перевод",
+  "html": "Отвратительный перевод"
+ },
+ {
+  "mid": 75461,
+  "subject": " ... ",
+  "datetime": "2013-05-19T15:19:25",
+  "in": true,
+  "text": "просто пиздец",
+  "html": "просто пиздец"
+ },
+ {
+  "datetime": "2013-05-19T15:19:29",
+  "in": false,
+  "text": "НЕ СМОТРЮ ДЕРЬМО",
+  "html": "НЕ СМОТРЮ ДЕРЬМО"
+ },
+ {
+  "mid": 75463,
+  "subject": " ... ",
+  "firstFocus": true,
+  "focus": true,
+  "datetime": "2013-05-19T15:19:51",
+  "in": true,
+  "text": "пеервод kaliwe",
+  "html": "пеервод kaliwe"
+ },
+ {
+  "mid": 75478,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-19T23:04:28",
+  "in": true,
+  "text": "ты труп",
+  "html": "ты труп"
+ },
+ {
+  "mid": 75479,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-19T23:04:41",
+  "in": true,
+  "text": "не наладил жесты?",
+  "html": "не наладил жесты?"
+ },
+ {
+  "datetime": "2013-05-19T23:23:34",
+  "in": false,
+  "text": "труп?",
+  "html": "труп?"
+ },
+ {
+  "datetime": "2013-05-19T23:23:44",
+  "in": false,
+  "text": "Нет конечно не наладил))",
+  "html": "Нет конечно не наладил))"
+ },
+ {
+  "mid": 75486,
+  "subject": " ... ",
+  "datetime": "2013-05-19T23:23:54",
+  "in": true,
+  "text": "Кто бы сомневался",
+  "html": "Кто бы сомневался"
+ },
+ {
+  "datetime": "2013-05-19T23:24:32",
+  "in": false,
+  "text": "сломал починил и оставил как есть только прокрутку инвертировал и клики с чувствительностью подкрутил",
+  "html": "сломал починил и оставил как есть только прокрутку инвертировал и клики с чувствительностью подкрутил"
+ },
+ {
+  "mid": 75488,
+  "subject": " ... ",
+  "firstFocus": true,
+  "focus": true,
+  "datetime": "2013-05-19T23:24:52",
+  "in": true,
+  "text": "это все есть в настройках",
+  "html": "это все есть в настройках"
+ },
+ {
+  "datetime": "2013-05-19T23:25:07",
+  "in": false,
+  "text": "там через жопу",
+  "html": "там через жопу"
+ },
+ {
+  "datetime": "2013-05-19T23:25:40",
+  "in": false,
+  "text": "ну не суть сначала то я сломал и пришлось переустанавливать все эти пакеты",
+  "html": "ну не суть сначала то я сломал и пришлось переустанавливать все эти пакеты"
+ },
+ {
+  "mid": 75491,
+  "subject": " ... ",
+  "firstFocus": true,
+  "focus": true,
+  "datetime": "2013-05-19T23:26:18",
+  "in": true,
+  "text": "просто ты",
+  "html": "просто ты"
+ },
+ {
+  "mid": 75492,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-19T23:26:22",
+  "in": true,
+  "text": "нихуя не умеешь",
+  "html": "нихуя не умеешь"
+ },
+ {
+  "datetime": "2013-05-19T23:27:04",
+  "in": false,
+  "text": "я выяснил что тач егг изначально конфликтует с синаптиком\nесли купить эппл то заработает",
+  "html": "я выяснил что тач егг изначально конфликтует с синаптиком<br/>если купить эппл то заработает"
+ },
+ {
+  "mid": 75494,
+  "subject": " ... ",
+  "firstFocus": true,
+  "focus": true,
+  "datetime": "2013-05-19T23:27:27",
+  "in": true,
+  "text": "если родиться с прямыми руками то тоже все норм",
+  "html": "если родиться с прямыми руками то тоже все норм"
+ },
+ {
+  "mid": 75495,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-19T23:27:38",
+  "in": true,
+  "text": "А когда эпл покупаешь там есть подводные камни",
+  "html": "А когда эпл покупаешь там есть подводные камни"
+ },
+ {
+  "mid": 75496,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-19T23:27:48",
+  "in": true,
+  "text": "Сидеть первое время больно",
+  "html": "Сидеть первое время больно"
+ },
+ {
+  "mid": 75497,
+  "subject": " ... ",
+  "datetime": "2013-05-19T23:27:54",
+  "in": true,
+  "text": "А потом говно вываливается",
+  "html": "А потом говно вываливается"
+ },
+ {
+  "mid": 75609,
+  "subject": " ... ",
+  "datetime": "2013-05-20T20:42:24",
+  "in": true,
+  "text": "Дирежабли",
+  "html": "Дирежабли"
+ },
+ {
+  "datetime": "2013-05-20T20:42:32",
+  "in": false,
+  "text": "не",
+  "html": "не"
+ },
+ {
+  "mid": 75817,
+  "subject": " ... ",
+  "history": true,
+  "datetime": "2013-05-21T20:23:11",
+  "in": false,
+  "text": "ахаха нет конечно",
+  "html": "ахаха нет конечно"
+ },
+ {
+  "mid": 75818,
+  "subject": " ... ",
+  "datetime": "2013-05-21T20:23:29",
+  "in": true,
+  "text": "хбокс новый",
+  "html": "хбокс новый"
+ },
+ {
+  "mid": 75819,
+  "subject": " ... ",
+  "datetime": "2013-05-21T20:23:46",
+  "in": true,
+  "text": "через полтора часа",
+  "html": "через полтора часа"
+ },
+ {
+  "mid": 75820,
+  "subject": " ... ",
+  "history": true,
+  "datetime": "2013-05-21T20:23:52",
+  "in": false,
+  "text": "sailfish phone",
+  "html": "sailfish phone"
+ },
+ {
+  "mid": 75821,
+  "subject": " ... ",
+  "firstFocus": true,
+  "focus": true,
+  "datetime": "2013-05-21T20:24:39",
+  "in": true,
+  "text": "У салоедов 1 часовой пояс?",
+  "html": "У салоедов 1 часовой пояс?"
+ },
+ {
+  "mid": 75822,
+  "subject": " ... ",
+  "history": true,
+  "focus": true,
+  "datetime": "2013-05-21T20:25:50",
+  "in": false,
+  "text": "это кто? )",
+  "html": "это кто? )"
+ },
+ {
+  "mid": 75823,
+  "subject": " ... ",
+  "firstFocus": true,
+  "focus": true,
+  "datetime": "2013-05-21T20:26:01",
+  "in": true,
+  "text": "Салоеды блять",
+  "html": "Салоеды блять"
+ },
+ {
+  "mid": 75824,
+  "subject": " ... ",
+  "firstFocus": true,
+  "focus": true,
+  "datetime": "2013-05-21T20:26:07",
+  "in": true,
+  "text": "Сало едят которые",
+  "html": "Сало едят которые"
+ },
+ {
+  "mid": 75841,
+  "subject": " ... ",
+  "history": true,
+  "focus": true,
+  "datetime": "2013-05-21T22:43:05",
+  "in": false,
+  "text": "пс4 лучше",
+  "html": "пс4 лучше"
+ },
+ {
+  "mid": 75842,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-21T22:43:10",
+  "in": true,
+  "text": "да",
+  "html": "да"
+ },
+ {
+  "mid": 75843,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-21T22:43:22",
+  "in": true,
+  "text": "А ты знаешь что лучше их всех?",
+  "html": "А ты знаешь что лучше их всех?"
+ },
+ {
+  "mid": 75844,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-21T22:43:25",
+  "in": true,
+  "text": "PC",
+  "html": "PC"
+ },
+ {
+  "mid": 75845,
+  "subject": " ... ",
+  "history": true,
+  "focus": true,
+  "datetime": "2013-05-21T22:43:42",
+  "in": false,
+  "text": "только если стимббокс в будущем",
+  "html": "только если стимббокс в будущем"
+ },
+ {
+  "mid": 75846,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-21T22:43:50",
+  "in": true,
+  "text": "Все говно",
+  "html": "Все говно"
+ },
+ {
+  "mid": 75847,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-21T22:43:51",
+  "in": true,
+  "text": "http://screencloud.net/v/e6S1",
+  "html": "http://screencloud.net/v/e6S1 <span class='urlpreview' id='urlpreview6'></span> "
+ },
+ {
+  "mid": 75848,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-21T22:43:56",
+  "in": true,
+  "text": "Консоли для хуесасав",
+  "html": "Консоли для хуесасав"
+ },
+ {
+  "mid": 75849,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-21T22:46:08",
+  "in": true,
+  "text": "А эта шлюха на лекции про алиасы говорила?",
+  "html": "А эта шлюха на лекции про алиасы говорила?"
+ },
+ {
+  "mid": 75850,
+  "subject": " ... ",
+  "history": true,
+  "firstFocus": true,
+  "focus": true,
+  "datetime": "2013-05-21T22:47:50",
+  "in": false,
+  "text": "ты о чем?",
+  "html": "ты о чем?"
+ },
+ {
+  "mid": 75851,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-21T22:48:04",
+  "in": true,
+  "text": "Про баш",
+  "html": "Про баш"
+ },
+ {
+  "mid": 75852,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-21T22:48:07",
+  "in": true,
+  "text": "НА лекции",
+  "html": "НА лекции"
+ },
+ {
+  "mid": 75853,
+  "subject": " ... ",
+  "history": true,
+  "focus": true,
+  "datetime": "2013-05-21T22:48:25",
+  "in": false,
+  "text": "ну и? Что с того то?",
+  "html": "ну и? Что с того то?"
+ },
+ {
+  "mid": 75854,
+  "subject": " ... ",
+  "history": true,
+  "focus": true,
+  "datetime": "2013-05-21T22:48:43",
+  "in": false,
+  "text": "и при чем тут майнкрафт",
+  "html": "и при чем тут майнкрафт"
+ },
+ {
+  "mid": 75855,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-21T22:48:46",
+  "in": true,
+  "text": "Z cghfibdf.",
+  "html": "Z cghfibdf."
+ },
+ {
+  "mid": 75856,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-21T22:48:50",
+  "in": true,
+  "text": "Это вопрос",
+  "html": "Это вопрос"
+ },
+ {
+  "mid": 75857,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-21T22:48:53",
+  "in": true,
+  "text": "Односложный",
+  "html": "Односложный"
+ },
+ {
+  "mid": 75858,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-21T22:53:41",
+  "in": true,
+  "text": "го минесруфт там кони",
+  "html": "го минесруфт там кони"
+ },
+ {
+  "mid": 75859,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-21T22:53:47",
+  "in": true,
+  "text": "и фейерверки",
+  "html": "и фейерверки"
+ },
+ {
+  "datetime": "2013-05-21T22:54:04",
+  "in": false,
+  "text": "бред какой",
+  "html": "бред какой"
+ },
+ {
+  "mid": 75861,
+  "subject": " ... ",
+  "firstFocus": true,
+  "focus": true,
+  "datetime": "2013-05-21T22:54:17",
+  "in": true,
+  "text": "курто жи",
+  "html": "курто жи"
+ },
+ {
+  "mid": 75862,
+  "subject": " ... ",
+  "history": true,
+  "focus": true,
+  "datetime": "2013-05-21T23:14:07",
+  "in": false,
+  "text": "маразм",
+  "html": "маразм"
+ },
+ {
+  "mid": 75863,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-21T23:15:58",
+  "in": true,
+  "text": "На лошодях можно передвигаться",
+  "html": "На лошодях можно передвигаться"
+ },
+ {
+  "mid": 75864,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-21T23:16:08",
+  "in": true,
+  "text": "Устраивать поединки",
+  "html": "Устраивать поединки"
+ },
+ {
+  "mid": 75865,
+  "subject": " ... ",
+  "history": true,
+  "focus": true,
+  "datetime": "2013-05-21T23:16:15",
+  "in": false,
+  "text": "пиздец",
+  "html": "пиздец"
+ },
+ {
+  "mid": 75866,
+  "subject": " ... ",
+  "history": true,
+  "focus": true,
+  "datetime": "2013-05-21T23:16:22",
+  "in": false,
+  "text": "майнкрпфт уже не тот",
+  "html": "майнкрпфт уже не тот"
+ },
+ {
+  "mid": 75867,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-21T23:16:23",
+  "in": true,
+  "text": "Убивать мобов на лету снося головы с их плечб!!!!",
+  "html": "Убивать мобов на лету снося головы с их плечб!!!!"
+ },
+ {
+  "mid": 75868,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-21T23:16:26",
+  "in": true,
+  "text": "ОХОХО",
+  "html": "ОХОХО"
+ },
+ {
+  "mid": 75869,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-21T23:16:28",
+  "in": true,
+  "text": "Тот",
+  "html": "Тот"
+ },
+ {
+  "mid": 75872,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-21T23:23:53",
+  "in": true,
+  "text": "Полчаса трахался с iptables",
+  "html": "Полчаса трахался с iptables"
+ },
+ {
+  "mid": 75873,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-21T23:23:57",
+  "in": true,
+  "text": "ДУмаю впизду",
+  "html": "ДУмаю впизду"
+ },
+ {
+  "mid": 75874,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-21T23:24:00",
+  "in": true,
+  "text": "Нахуй это говно",
+  "html": "Нахуй это говно"
+ },
+ {
+  "mid": 75875,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-21T23:24:03",
+  "in": true,
+  "text": "Реутнул",
+  "html": "Реутнул"
+ },
+ {
+  "mid": 75876,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-21T23:24:08",
+  "in": true,
+  "text": "Все заработао",
+  "html": "Все заработао"
+ },
+ {
+  "mid": 75877,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-21T23:24:17",
+  "in": true,
+  "text": "Что за говно блять",
+  "html": "Что за говно блять"
+ },
+ {
+  "datetime": "2013-05-21T23:25:32",
+  "in": false,
+  "text": "ахаха винда",
+  "html": "ахаха винда"
+ },
+ {
+  "datetime": "2013-05-21T23:26:14",
+  "in": false,
+  "text": "стопудов можно было только какой то кусок системы перезапустить",
+  "html": "стопудов можно было только какой то кусок системы перезапустить"
+ },
+ {
+  "mid": 75879,
+  "subject": " ... ",
+  "firstFocus": true,
+  "focus": true,
+  "datetime": "2013-05-21T23:28:26",
+  "in": true,
+  "text": "какаяя нахуй винда",
+  "html": "какаяя нахуй винда"
+ },
+ {
+  "mid": 75881,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-21T23:28:39",
+  "in": true,
+  "text": "нет там с ядром",
+  "html": "нет там с ядром"
+ },
+ {
+  "mid": 75885,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-21T23:29:57",
+  "in": true,
+  "text": "не меняются",
+  "html": "не меняются"
+ },
+ {
+  "mid": 75886,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-21T23:29:58",
+  "in": true,
+  "text": "не все",
+  "html": "не все"
+ },
+ {
+  "mid": 76147,
+  "subject": " ... ",
+  "datetime": "2013-05-24T18:40:43",
+  "in": true,
+  "text": "https://docs.google.com/viewer?a=v&amp;pid=sites&amp;srcid=ZGVmYXVsdGRvbWFpbnxuYXRhc2hhbW9rZWV2YXxneDo0ZGZmMzk1ZmQwMmQwZjlk",
+  "html": "https://docs.google.com/viewer?a=v&amp;amp;pid=sites&amp;amp;srcid=ZGVmYXVsdGRvbWFpbnxuYXRhc2hhbW9rZWV2YXxneDo0ZGZmMzk1ZmQwMmQwZjlk <span class='urlpreview' id='urlpreview2'></span> "
+ },
+ {
+  "mid": 76148,
+  "subject": " ... ",
+  "firstFocus": true,
+  "focus": true,
+  "datetime": "2013-05-24T18:40:54",
+  "in": true,
+  "text": "Пожалуй это даже для нее сишком тупо",
+  "html": "Пожалуй это даже для нее сишком тупо"
+ },
+ {
+  "datetime": "2013-05-24T18:41:06",
+  "in": false,
+  "text": "Bad Request\n\nError 400",
+  "html": "Bad Request<br/><br/>Error 400"
+ },
+ {
+  "datetime": "2013-05-24T18:41:14",
+  "in": false,
+  "text": "что это ?",
+  "html": "что это ?"
+ },
+ {
+  "mid": 76151,
+  "subject": " ... ",
+  "firstFocus": true,
+  "focus": true,
+  "datetime": "2013-05-24T18:41:50",
+  "in": true,
+  "text": "нету никаких ероров",
+  "html": "нету никаких ероров"
+ },
+ {
+  "mid": 76152,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-24T18:42:15",
+  "in": true,
+  "text": "https://docs.google.com/viewer?a=v&amp;pid=sites&amp;srcid=ZGVmYXVsdGRvbWFpbnxuYXRhc2hhbW9rZWV2YXxneDo0ZGZmMzk1ZmQwMmQwZjlk",
+  "html": "https://docs.google.com/viewer?a=v&amp;amp;pid=sites&amp;amp;srcid=ZGVmYXVsdGRvbWFpbnxuYXRhc2hhbW9rZWV2YXxneDo0ZGZmMzk1ZmQwMmQwZjlk <span class='urlpreview' id='urlpreview3'></span> "
+ },
+ {
+  "datetime": "2013-05-24T18:42:45",
+  "in": false,
+  "text": "Bad Request\n\nError 400",
+  "html": "Bad Request<br/><br/>Error 400"
+ },
+ {
+  "mid": 76154,
+  "subject": " ... ",
+  "firstFocus": true,
+  "focus": true,
+  "datetime": "2013-05-24T18:43:00",
+  "in": true,
+  "text": "Нет",
+  "html": "Нет"
+ },
+ {
+  "mid": 76155,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-24T18:43:06",
+  "in": true,
+  "text": "Попробуй через браузер",
+  "html": "Попробуй через браузер"
+ },
+ {
+  "mid": 76156,
+  "subject": " ... ",
+  "history": true,
+  "focus": true,
+  "datetime": "2013-05-24T18:43:31",
+  "in": false,
+  "text": "ох и правда",
+  "html": "ох и правда"
+ },
+ {
+  "mid": 76157,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-24T18:43:37",
+  "in": true,
+  "text": "кривой",
+  "html": "кривой"
+ },
+ {
+  "mid": 76158,
+  "subject": " ... ",
+  "history": true,
+  "focus": true,
+  "datetime": "2013-05-24T18:44:18",
+  "in": false,
+  "text": "что именно тебе так не нравится в эоом бреде?",
+  "html": "что именно тебе так не нравится в эоом бреде?"
+ },
+ {
+  "mid": 76159,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-24T18:44:37",
+  "in": true,
+  "text": "хуй пойми что и как если вникнуть",
+  "html": "хуй пойми что и как если вникнуть"
+ },
+ {
+  "mid": 76160,
+  "subject": " ... ",
+  "history": true,
+  "focus": true,
+  "datetime": "2013-05-24T18:44:38",
+  "in": false,
+  "text": "что такое запретить",
+  "html": "что такое запретить"
+ },
+ {
+  "mid": 76161,
+  "subject": " ... ",
+  "history": true,
+  "focus": true,
+  "datetime": "2013-05-24T18:45:21",
+  "in": false,
+  "text": "Декан (запретить декану наследовать)",
+  "html": "Декан (запретить декану наследовать)"
+ },
+ {
+  "mid": 76162,
+  "subject": " ... ",
+  "history": true,
+  "focus": true,
+  "datetime": "2013-05-24T18:45:28",
+  "in": false,
+  "text": "что наследовать?",
+  "html": "что наследовать?"
+ },
+ {
+  "mid": 76163,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-24T18:46:19",
+  "in": true,
+  "text": "именно",
+  "html": "именно"
+ },
+ {
+  "mid": 76166,
+  "subject": " ... ",
+  "history": true,
+  "focus": true,
+  "datetime": "2013-05-24T19:31:00",
+  "in": false,
+  "text": "бреед",
+  "html": "бреед"
+ },
+ {
+  "mid": 76181,
+  "subject": " ... ",
+  "history": true,
+  "firstFocus": true,
+  "focus": true,
+  "datetime": "2013-05-24T20:05:39",
+  "in": false,
+  "text": "у тея раотает вайн?",
+  "html": "у тея раотает вайн?"
+ },
+ {
+  "mid": 76182,
+  "subject": " ... ",
+  "history": true,
+  "focus": true,
+  "datetime": "2013-05-24T20:05:47",
+  "in": false,
+  "text": "Работает*?",
+  "html": "Работает*?"
+ },
+ {
+  "mid": 76183,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-24T20:07:15",
+  "in": true,
+  "text": "+",
+  "html": "+"
+ },
+ {
+  "mid": 76184,
+  "subject": " ... ",
+  "history": true,
+  "focus": true,
+  "datetime": "2013-05-24T20:12:08",
+  "in": false,
+  "text": "ты когда ставил что делал с ним?",
+  "html": "ты когда ставил что делал с ним?"
+ },
+ {
+  "mid": 76185,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-24T20:12:18",
+  "in": true,
+  "text": "Я что помню",
+  "html": "Я что помню"
+ },
+ {
+  "mid": 76186,
+  "subject": " ... ",
+  "history": true,
+  "focus": true,
+  "datetime": "2013-05-24T20:12:39",
+  "in": false,
+  "text": "AIR требует а когда ставлю AIR снова AIR требует",
+  "html": "AIR требует а когда ставлю AIR снова AIR требует"
+ },
+ {
+  "mid": 76187,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-24T20:12:39",
+  "in": true,
+  "text": "Запускай через консоль смотри какие библиотеки просит ставь библиотеки",
+  "html": "Запускай через консоль смотри какие библиотеки просит ставь библиотеки"
+ },
+ {
+  "mid": 76188,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-24T20:12:44",
+  "in": true,
+  "text": "ОЧЕВИДНО БЛЯТЬ",
+  "html": "ОЧЕВИДНО БЛЯТЬ"
+ },
+ {
+  "mid": 76190,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-24T20:13:05",
+  "in": true,
+  "text": "смотри через консоль ска",
+  "html": "смотри через консоль ска"
+ },
+ {
+  "mid": 76191,
+  "subject": " ... ",
+  "history": true,
+  "focus": true,
+  "datetime": "2013-05-24T20:13:07",
+  "in": false,
+  "text": "он чтоб поставить эир треббует эир",
+  "html": "он чтоб поставить эир треббует эир"
+ },
+ {
+  "mid": 76192,
+  "subject": " ... ",
+  "history": true,
+  "focus": true,
+  "datetime": "2013-05-24T20:13:13",
+  "in": false,
+  "text": "маразм какой то",
+  "html": "маразм какой то"
+ },
+ {
+  "mid": 76194,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-24T20:13:19",
+  "in": true,
+  "text": "ну гуголь",
+  "html": "ну гуголь"
+ },
+ {
+  "mid": 76195,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-24T20:13:23",
+  "in": true,
+  "text": "Какой нахуй аир",
+  "html": "Какой нахуй аир"
+ },
+ {
+  "mid": 76196,
+  "subject": " ... ",
+  "history": true,
+  "focus": true,
+  "datetime": "2013-05-24T20:14:00",
+  "in": false,
+  "text": "адоб эир",
+  "html": "адоб эир"
+ },
+ {
+  "mid": 76575,
+  "subject": " ... ",
+  "datetime": "2013-05-27T21:01:26",
+  "in": true,
+  "text": "http://screencloud.net/v/mY0p",
+  "html": "http://screencloud.net/v/mY0p <span class='urlpreview' id='urlpreview1'></span> "
+ },
+ {
+  "datetime": "2013-05-27T21:08:15",
+  "in": false,
+  "text": "спс",
+  "html": "спс"
+ },
+ {
+  "firstFocus": true,
+  "focus": true,
+  "datetime": "2013-05-28T00:04:47",
+  "in": false,
+  "text": "$$ № точки & z & $\\varepsilon$ & $B_m^{(Y)}$ & $B_m^(T)$ \\\\ \\hline\n1 & -0,1 & 0,2 & 2,75 & 0,17 \\\\ \\hline\n2 & -0,09 & 0,27 & 3,72 & 0,26 \\\\ \\hline\n3 & -0,08 & 0,33 & 4,54 & 0,37 \\\\ \\hline\n4 & -0,07 & 0,37 & 5,10 & 0,47 \\\\ \\hline\n5 & -0,06 & 0,39 & 5,37 & 0,53 \\\\ \\hline\n6 & -0,05 & 0,41 & 5,65 & 0,57 \\\\ \\hline\n7 & -0,04 & 0,42 & 5,78 & 0,60 \\\\ \\hline\n8 & -0,03 & 0,43 & 5,92 & 0,61 \\\\ \\hline\n9 & -0,02 & 0,43 & 5,92 & 0,62 \\\\ \\hline\n10 & -0,01 & 0,43 & 5,92 & 0,62 \\\\ \\hline\n11 & 0 & 0,43 & 5,92 & 0,63 \\\\ \\hline\n12 & 0,01 & 0,42 & 5,78 & 0,62 \\\\ \\hline\n13 & 0,02 & 0,42 & 5,78 & 0,62 \\\\ \\hline\n14 & 0,03 & 0,41 & 5,65 & 0,61 \\\\ \\hline\n15 & 0,04 & 0,39 & 5,37 & 0,60 \\\\ \\hline\n16 & 0,05 & 0,37 & 5,10 & 0,57 \\\\ \\hline\n17 & 0,06 & 0,32 & 4,41 & 0,53 \\\\ \\hline\n18 & 0,07 & 0,25 & 3,44 & 0,47 \\\\ \\hline\n19 & 0,08 & 0,19 & 2,62 & 0,37 \\\\ \\hline\n20 & 0,09 & 0,13 & 1,79 & 0,26 \\\\ \\hline $$",
+  "html": "<img src=\"http://latex.codecogs.com/png.latex?%E2%84%96%20%D1%82%D0%BE%D1%87%D0%BA%D0%B8%20%26%20z%20%26%20%24%5Cvarepsilon%24%20%26%20%24B_m%5E%7B%28Y%29%7D%24%20%26%20%24B_m%5E%28T%29%24%20%5C%5C%20%5Chline%0A1%20%26%20-0%2C1%20%26%200%2C2%20%26%202%2C75%20%26%200%2C17%20%5C%5C%20%5Chline%0A2%20%26%20-0%2C09%20%26%200%2C27%20%26%203%2C72%20%26%200%2C26%20%5C%5C%20%5Chline%0A3%20%26%20-0%2C08%20%26%200%2C33%20%26%204%2C54%20%26%200%2C37%20%5C%5C%20%5Chline%0A4%20%26%20-0%2C07%20%26%200%2C37%20%26%205%2C10%20%26%200%2C47%20%5C%5C%20%5Chline%0A5%20%26%20-0%2C06%20%26%200%2C39%20%26%205%2C37%20%26%200%2C53%20%5C%5C%20%5Chline%0A6%20%26%20-0%2C05%20%26%200%2C41%20%26%205%2C65%20%26%200%2C57%20%5C%5C%20%5Chline%0A7%20%26%20-0%2C04%20%26%200%2C42%20%26%205%2C78%20%26%200%2C60%20%5C%5C%20%5Chline%0A8%20%26%20-0%2C03%20%26%200%2C43%20%26%205%2C92%20%26%200%2C61%20%5C%5C%20%5Chline%0A9%20%26%20-0%2C02%20%26%200%2C43%20%26%205%2C92%20%26%200%2C62%20%5C%5C%20%5Chline%0A10%20%26%20-0%2C01%20%26%200%2C43%20%26%205%2C92%20%26%200%2C62%20%5C%5C%20%5Chline%0A11%20%26%200%20%26%200%2C43%20%26%205%2C92%20%26%200%2C63%20%5C%5C%20%5Chline%0A12%20%26%200%2C01%20%26%200%2C42%20%26%205%2C78%20%26%200%2C62%20%5C%5C%20%5Chline%0A13%20%26%200%2C02%20%26%200%2C42%20%26%205%2C78%20%26%200%2C62%20%5C%5C%20%5Chline%0A14%20%26%200%2C03%20%26%200%2C41%20%26%205%2C65%20%26%200%2C61%20%5C%5C%20%5Chline%0A15%20%26%200%2C04%20%26%200%2C39%20%26%205%2C37%20%26%200%2C60%20%5C%5C%20%5Chline%0A16%20%26%200%2C05%20%26%200%2C37%20%26%205%2C10%20%26%200%2C57%20%5C%5C%20%5Chline%0A17%20%26%200%2C06%20%26%200%2C32%20%26%204%2C41%20%26%200%2C53%20%5C%5C%20%5Chline%0A18%20%26%200%2C07%20%26%200%2C25%20%26%203%2C44%20%26%200%2C47%20%5C%5C%20%5Chline%0A19%20%26%200%2C08%20%26%200%2C19%20%26%202%2C62%20%26%200%2C37%20%5C%5C%20%5Chline%0A20%20%26%200%2C09%20%26%200%2C13%20%26%201%2C79%20%26%200%2C26%20%5C%5C%20%5Chline%20\"alt=\"$$ № точки &amp; z &amp; $\\varepsilon$ &amp; $B_m^{(Y)}$ &amp; $B_m^(T)$ \\\\ \\hline<br/>1 &amp; -0,1 &amp; 0,2 &amp; 2,75 &amp; 0,17 \\\\ \\hline<br/>2 &amp; -0,09 &amp; 0,27 &amp; 3,72 &amp; 0,26 \\\\ \\hline<br/>3 &amp; -0,08 &amp; 0,33 &amp; 4,54 &amp; 0,37 \\\\ \\hline<br/>4 &amp; -0,07 &amp; 0,37 &amp; 5,10 &amp; 0,47 \\\\ \\hline<br/>5 &amp; -0,06 &amp; 0,39 &amp; 5,37 &amp; 0,53 \\\\ \\hline<br/>6 &amp; -0,05 &amp; 0,41 &amp; 5,65 &amp; 0,57 \\\\ \\hline<br/>7 &amp; -0,04 &amp; 0,42 &amp; 5,78 &amp; 0,60 \\\\ \\hline<br/>8 &amp; -0,03 &amp; 0,43 &amp; 5,92 &amp; 0,61 \\\\ \\hline<br/>9 &amp; -0,02 &amp; 0,43 &amp; 5,92 &amp; 0,62 \\\\ \\hline<br/>10 &amp; -0,01 &amp; 0,43 &amp; 5,92 &amp; 0,62 \\\\ \\hline<br/>11 &amp; 0 &amp; 0,43 &amp; 5,92 &amp; 0,63 \\\\ \\hline<br/>12 &amp; 0,01 &amp; 0,42 &amp; 5,78 &amp; 0,62 \\\\ \\hline<br/>13 &amp; 0,02 &amp; 0,42 &amp; 5,78 &amp; 0,62 \\\\ \\hline<br/>14 &amp; 0,03 &amp; 0,41 &amp; 5,65 &amp; 0,61 \\\\ \\hline<br/>15 &amp; 0,04 &amp; 0,39 &amp; 5,37 &amp; 0,60 \\\\ \\hline<br/>16 &amp; 0,05 &amp; 0,37 &amp; 5,10 &amp; 0,57 \\\\ \\hline<br/>17 &amp; 0,06 &amp; 0,32 &amp; 4,41 &amp; 0,53 \\\\ \\hline<br/>18 &amp; 0,07 &amp; 0,25 &amp; 3,44 &amp; 0,47 \\\\ \\hline<br/>19 &amp; 0,08 &amp; 0,19 &amp; 2,62 &amp; 0,37 \\\\ \\hline<br/>20 &amp; 0,09 &amp; 0,13 &amp; 1,79 &amp; 0,26 \\\\ \\hline $$\" title=\"$$ № точки &amp; z &amp; $\\varepsilon$ &amp; $B_m^{(Y)}$ &amp; $B_m^(T)$ \\\\ \\hline<br/>1 &amp; -0,1 &amp; 0,2 &amp; 2,75 &amp; 0,17 \\\\ \\hline<br/>2 &amp; -0,09 &amp; 0,27 &amp; 3,72 &amp; 0,26 \\\\ \\hline<br/>3 &amp; -0,08 &amp; 0,33 &amp; 4,54 &amp; 0,37 \\\\ \\hline<br/>4 &amp; -0,07 &amp; 0,37 &amp; 5,10 &amp; 0,47 \\\\ \\hline<br/>5 &amp; -0,06 &amp; 0,39 &amp; 5,37 &amp; 0,53 \\\\ \\hline<br/>6 &amp; -0,05 &amp; 0,41 &amp; 5,65 &amp; 0,57 \\\\ \\hline<br/>7 &amp; -0,04 &amp; 0,42 &amp; 5,78 &amp; 0,60 \\\\ \\hline<br/>8 &amp; -0,03 &amp; 0,43 &amp; 5,92 &amp; 0,61 \\\\ \\hline<br/>9 &amp; -0,02 &amp; 0,43 &amp; 5,92 &amp; 0,62 \\\\ \\hline<br/>10 &amp; -0,01 &amp; 0,43 &amp; 5,92 &amp; 0,62 \\\\ \\hline<br/>11 &amp; 0 &amp; 0,43 &amp; 5,92 &amp; 0,63 \\\\ \\hline<br/>12 &amp; 0,01 &amp; 0,42 &amp; 5,78 &amp; 0,62 \\\\ \\hline<br/>13 &amp; 0,02 &amp; 0,42 &amp; 5,78 &amp; 0,62 \\\\ \\hline<br/>14 &amp; 0,03 &amp; 0,41 &amp; 5,65 &amp; 0,61 \\\\ \\hline<br/>15 &amp; 0,04 &amp; 0,39 &amp; 5,37 &amp; 0,60 \\\\ \\hline<br/>16 &amp; 0,05 &amp; 0,37 &amp; 5,10 &amp; 0,57 \\\\ \\hline<br/>17 &amp; 0,06 &amp; 0,32 &amp; 4,41 &amp; 0,53 \\\\ \\hline<br/>18 &amp; 0,07 &amp; 0,25 &amp; 3,44 &amp; 0,47 \\\\ \\hline<br/>19 &amp; 0,08 &amp; 0,19 &amp; 2,62 &amp; 0,37 \\\\ \\hline<br/>20 &amp; 0,09 &amp; 0,13 &amp; 1,79 &amp; 0,26 \\\\ \\hline $$\">"
+ },
+ {
+  "mid": 76592,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-28T01:03:40",
+  "in": true,
+  "text": "http://vk.com/doc5568130_186957204?hash=11b869d885d8e06017&amp;dl=6afd410b2de4843098",
+  "html": "http://vk.com/doc5568130_186957204?hash=11b869d885d8e06017&amp;amp;dl=6afd410b2de4843098 <span class='urlpreview' id='urlpreview2'></span> "
+ },
+ {
+  "mid": 76593,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-28T01:03:41",
+  "in": true,
+  "text": "Ее",
+  "html": "Ее"
+ },
+ {
+  "datetime": "2013-05-28T01:24:43",
+  "in": false,
+  "text": "ну ты ваще",
+  "html": "ну ты ваще"
+ },
+ {
+  "datetime": "2013-05-28T01:24:57",
+  "in": false,
+  "text": "скинь эксельку)",
+  "html": "скинь эксельку)"
+ },
+ {
+  "datetime": "2013-05-28T01:25:00",
+  "in": false,
+  "text": "плз",
+  "html": "плз"
+ },
+ {
+  "mid": 76597,
+  "subject": " ... ",
+  "firstFocus": true,
+  "focus": true,
+  "datetime": "2013-05-28T01:25:05",
+  "in": true,
+  "text": "у оли",
+  "html": "у оли"
+ },
+ {
+  "datetime": "2013-05-28T01:25:13",
+  "in": false,
+  "text": "хули?",
+  "html": "хули?"
+ },
+ {
+  "mid": 76599,
+  "subject": " ... ",
+  "firstFocus": true,
+  "focus": true,
+  "datetime": "2013-05-28T01:27:34",
+  "in": true,
+  "text": "у нее",
+  "html": "у нее"
+ },
+ {
+  "mid": 76600,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-28T01:30:30",
+  "in": true,
+  "text": "Мне тут чувак кинул лабы",
+  "html": "Мне тут чувак кинул лабы"
+ },
+ {
+  "mid": 76601,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-28T01:30:38",
+  "in": true,
+  "text": "Которые на 1 курсе были",
+  "html": "Которые на 1 курсе были"
+ },
+ {
+  "mid": 76602,
+  "subject": " ... ",
+  "history": true,
+  "focus": true,
+  "datetime": "2013-05-28T01:44:12",
+  "in": false,
+  "text": "??",
+  "html": "??"
+ },
+ {
+  "mid": 76603,
+  "subject": " ... ",
+  "history": true,
+  "focus": true,
+  "datetime": "2013-05-28T01:44:17",
+  "in": false,
+  "text": "Как бы наши?",
+  "html": "Как бы наши?"
+ },
+ {
+  "mid": 76604,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-28T01:44:25",
+  "in": true,
+  "text": "НУ как бы да",
+  "html": "НУ как бы да"
+ },
+ {
+  "mid": 76605,
+  "subject": " ... ",
+  "history": true,
+  "focus": true,
+  "datetime": "2013-05-28T01:45:44",
+  "in": false,
+  "text": "Ооо",
+  "html": "Ооо"
+ },
+ {
+  "mid": 76606,
+  "subject": " ... ",
+  "history": true,
+  "focus": true,
+  "datetime": "2013-05-28T01:45:49",
+  "in": false,
+  "text": "скинь",
+  "html": "скинь"
+ },
+ {
+  "mid": 76607,
+  "subject": " ... ",
+  "datetime": "2013-05-28T01:46:49",
+  "in": true,
+  "text": "http://cs7003.vk.me/c540105/v540105538/1df8/1xMIGrsg0Hw.jpg",
+  "html": "http://cs7003.vk.me/c540105/v540105538/1df8/1xMIGrsg0Hw.jpg <span class='urlpreview' id='urlpreview3'></span> "
+ },
+ {
+  "mid": 76608,
+  "subject": " ... ",
+  "history": true,
+  "firstFocus": true,
+  "focus": true,
+  "datetime": "2013-05-28T01:48:04",
+  "in": false,
+  "text": "Ты хочешь сказать что ты старался, а я еще нет?)",
+  "html": "Ты хочешь сказать что ты старался, а я еще нет?)"
+ },
+ {
+  "mid": 76609,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-28T01:48:21",
+  "in": true,
+  "text": "Раздевайся",
+  "html": "Раздевайся"
+ },
+ {
+  "mid": 76610,
+  "subject": " ... ",
+  "history": true,
+  "firstFocus": true,
+  "focus": true,
+  "datetime": "2013-05-28T01:48:45",
+  "in": false,
+  "text": "ок",
+  "html": "ок"
+ },
+ {
+  "mid": 76611,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-28T01:49:37",
+  "in": true,
+  "text": "УСПЕХ",
+  "html": "УСПЕХ"
+ },
+ {
+  "mid": 76612,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-28T01:49:38",
+  "in": true,
+  "text": "http://screencloud.net/v/509F",
+  "html": "http://screencloud.net/v/509F <span class='urlpreview' id='urlpreview4'></span> "
+ },
+ {
+  "mid": 76614,
+  "subject": " ... ",
+  "history": true,
+  "focus": true,
+  "datetime": "2013-05-28T01:50:00",
+  "in": false,
+  "text": "ахаха",
+  "html": "ахаха"
+ },
+ {
+  "mid": 76615,
+  "subject": " ... ",
+  "history": true,
+  "focus": true,
+  "datetime": "2013-05-28T01:50:02",
+  "in": false,
+  "text": "ложь",
+  "html": "ложь"
+ },
+ {
+  "mid": 76616,
+  "subject": " ... ",
+  "history": true,
+  "focus": true,
+  "datetime": "2013-05-28T01:50:06",
+  "in": false,
+  "text": "нагуглил)",
+  "html": "нагуглил)"
+ },
+ {
+  "mid": 76617,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-28T01:50:24",
+  "in": true,
+  "text": "Ytn",
+  "html": "Ytn"
+ },
+ {
+  "mid": 76618,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-28T01:52:55",
+  "in": true,
+  "text": "http://screencloud.net/v/dNdI",
+  "html": "http://screencloud.net/v/dNdI <span class='urlpreview' id='urlpreview5'></span> "
+ },
+ {
+  "mid": 76619,
+  "subject": " ... ",
+  "history": true,
+  "focus": true,
+  "datetime": "2013-05-28T01:55:01",
+  "in": false,
+  "text": "ладно ладно)",
+  "html": "ладно ладно)"
+ },
+ {
+  "mid": 76620,
+  "subject": " ... ",
+  "history": true,
+  "focus": true,
+  "datetime": "2013-05-28T01:55:18",
+  "in": false,
+  "text": "а завтра будет макеева",
+  "html": "а завтра будет макеева"
+ },
+ {
+  "mid": 76621,
+  "subject": " ... ",
+  "history": true,
+  "focus": true,
+  "datetime": "2013-05-28T01:55:20",
+  "in": false,
+  "text": "?",
+  "html": "?"
+ },
+ {
+  "mid": 76624,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-28T01:55:45",
+  "in": true,
+  "text": "Мен, что называют Дашенькой?",
+  "html": "Мен, что называют Дашенькой?"
+ },
+ {
+  "mid": 76628,
+  "subject": " ... ",
+  "history": true,
+  "focus": true,
+  "datetime": "2013-05-28T01:56:30",
+  "in": false,
+  "text": "даш",
+  "html": "даш"
+ },
+ {
+  "mid": 76629,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-28T01:56:41",
+  "in": true,
+  "text": "Тебе - нет",
+  "html": "Тебе - нет"
+ },
+ {
+  "mid": 76630,
+  "subject": " ... ",
+  "history": true,
+  "focus": true,
+  "datetime": "2013-05-28T01:57:12",
+  "in": false,
+  "text": "пидора ответ",
+  "html": "пидора ответ"
+ },
+ {
+  "mid": 76631,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-28T01:57:32",
+  "in": true,
+  "text": "Вот в данной ситуации весьма спорно",
+  "html": "Вот в данной ситуации весьма спорно"
+ },
+ {
+  "mid": 76632,
+  "subject": " ... ",
+  "history": true,
+  "focus": true,
+  "datetime": "2013-05-28T01:57:43",
+  "in": false,
+  "text": "ахаха",
+  "html": "ахаха"
+ },
+ {
+  "mid": 76633,
+  "subject": " ... ",
+  "history": true,
+  "focus": true,
+  "datetime": "2013-05-28T01:57:52",
+  "in": false,
+  "text": "всем насрать",
+  "html": "всем насрать"
+ },
+ {
+  "mid": 76723,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-28T16:10:45",
+  "in": true,
+  "text": "http://ru.wikipedia.org/wiki/%D0%96%D1%83%D0%BA-%D0%B3%D0%B5%D1%80%D0%BA%D1%83%D0%BB%D0%B5%D1%81",
+  "html": "http://ru.wikipedia.org/wiki/%D0%96%D1%83%D0%BA-%D0%B3%D0%B5%D1%80%D0%BA%D1%83%D0%BB%D0%B5%D1%81 <span class='urlpreview' id='urlpreview8'></span> "
+ },
+ {
+  "mid": 76724,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-28T16:10:54",
+  "in": true,
+  "text": "yzif",
+  "html": "yzif"
+ },
+ {
+  "mid": 76725,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-28T16:10:58",
+  "in": true,
+  "text": "няшка",
+  "html": "няшка"
+ },
+ {
+  "datetime": "2013-05-28T16:11:14",
+  "in": false,
+  "text": "хрень",
+  "html": "хрень"
+ },
+ {
+  "datetime": "2013-05-28T16:11:17",
+  "in": false,
+  "text": "опера вышла",
+  "html": "опера вышла"
+ },
+ {
+  "datetime": "2013-05-28T16:11:22",
+  "in": false,
+  "text": "но не под линь(",
+  "html": "но не под линь("
+ },
+ {
+  "mid": 76729,
+  "subject": " ... ",
+  "firstFocus": true,
+  "focus": true,
+  "datetime": "2013-05-28T16:11:27",
+  "in": true,
+  "text": "говно",
+  "html": "говно"
+ },
+ {
+  "mid": 76730,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-28T16:11:31",
+  "in": true,
+  "text": "жук крут",
+  "html": "жук крут"
+ },
+ {
+  "mid": 76731,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-28T16:11:39",
+  "in": true,
+  "text": "ты понимаеш что он огромный",
+  "html": "ты понимаеш что он огромный"
+ },
+ {
+  "mid": 76732,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-28T16:11:43",
+  "in": true,
+  "text": "и охуенный",
+  "html": "и охуенный"
+ },
+ {
+  "mid": 76733,
+  "subject": " ... ",
+  "firstFocus": true,
+  "focus": true,
+  "datetime": "2013-05-28T16:12:11",
+  "in": true,
+  "text": "и умеет брать камни который в 80 разтяжелее него и улетать с ними",
+  "html": "и умеет брать камни который в 80 разтяжелее него и улетать с ними"
+ },
+ {
+  "mid": 76734,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-28T16:12:18",
+  "in": true,
+  "text": "это же охуенно",
+  "html": "это же охуенно"
+ },
+ {
+  "datetime": "2013-05-28T16:13:40",
+  "in": false,
+  "text": "да",
+  "html": "да"
+ },
+ {
+  "mid": 76738,
+  "subject": " ... ",
+  "firstFocus": true,
+  "focus": true,
+  "datetime": "2013-05-28T16:14:12",
+  "in": true,
+  "text": "http://www.youtube.com/watch?v=x8GLBGK2PlY",
+  "html": "http://www.youtube.com/watch?v=x8GLBGK2PlY <br><b>Предпросмотр URL</b>: <i>Видео YouTube, Неизвестно байт(ов)</i><br><img src=\"http://img.youtube.com/vi/x8GLBGK2PlY/1.jpg\"><img src=\"http://img.youtube.com/vi/x8GLBGK2PlY/2.jpg\"><img src=\"http://img.youtube.com/vi/x8GLBGK2PlY/3.jpg\"><br>"
+ },
+ {
+  "mid": 76741,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-28T16:14:27",
+  "in": true,
+  "text": "красивый\\",
+  "html": "красивый\\"
+ },
+ {
+  "datetime": "2013-05-28T16:14:44",
+  "in": false,
+  "text": "ты немного больной)",
+  "html": "ты немного больной)"
+ },
+ {
+  "mid": 76743,
+  "subject": " ... ",
+  "firstFocus": true,
+  "focus": true,
+  "datetime": "2013-05-28T16:15:24",
+  "in": true,
+  "text": "эта хуйня с ладонб размером",
+  "html": "эта хуйня с ладонб размером"
+ },
+ {
+  "mid": 76744,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-28T16:15:47",
+  "in": true,
+  "text": "да у миши например мозга столько сколько этот жук занимает объема",
+  "html": "да у миши например мозга столько сколько этот жук занимает объема"
+ },
+ {
+  "datetime": "2013-05-28T16:16:30",
+  "in": false,
+  "text": "страшилище на самом деле",
+  "html": "страшилище на самом деле"
+ },
+ {
+  "datetime": "2013-05-28T16:17:08",
+  "in": false,
+  "text": "он не понимает что не сдвигается с места?",
+  "html": "он не понимает что не сдвигается с места?"
+ },
+ {
+  "mid": 76747,
+  "subject": " ... ",
+  "firstFocus": true,
+  "focus": true,
+  "datetime": "2013-05-28T16:17:28",
+  "in": true,
+  "text": "наверное он пытается вырваться",
+  "html": "наверное он пытается вырваться"
+ },
+ {
+  "datetime": "2013-05-28T16:17:59",
+  "in": false,
+  "text": "и у него получается",
+  "html": "и у него получается"
+ },
+ {
+  "datetime": "2013-05-28T16:18:04",
+  "in": false,
+  "text": "бедняга",
+  "html": "бедняга"
+ },
+ {
+  "datetime": "2013-05-28T16:18:13",
+  "in": false,
+  "text": "он отчаянный",
+  "html": "он отчаянный"
+ },
+ {
+  "mid": 76752,
+  "subject": " ... ",
+  "firstFocus": true,
+  "focus": true,
+  "datetime": "2013-05-28T16:18:19",
+  "in": true,
+  "text": "http://78.159.121.26/foto/23717-zhukgerkules_kak_domashnee_zhivotnoe.html",
+  "html": "http://78.159.121.26/foto/23717-zhukgerkules_kak_domashnee_zhivotnoe.html <span class='urlpreview' id='urlpreview10'></span> "
+ },
+ {
+  "mid": 76753,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-28T16:22:07",
+  "in": true,
+  "text": "лечинка ня",
+  "html": "лечинка ня"
+ },
+ {
+  "mid": 76754,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-28T16:25:13",
+  "in": true,
+  "text": "http://www.youtube.com/watch?v=prkxiQsbu3M",
+  "html": "http://www.youtube.com/watch?v=prkxiQsbu3M <br><b>Предпросмотр URL</b>: <i>Видео YouTube, Неизвестно байт(ов)</i><br><img src=\"http://img.youtube.com/vi/prkxiQsbu3M/1.jpg\"><img src=\"http://img.youtube.com/vi/prkxiQsbu3M/2.jpg\"><img src=\"http://img.youtube.com/vi/prkxiQsbu3M/3.jpg\"><br>"
+ },
+ {
+  "datetime": "2013-05-28T16:28:30",
+  "in": false,
+  "text": "да круто",
+  "html": "да круто"
+ },
+ {
+  "mid": 76757,
+  "subject": " ... ",
+  "datetime": "2013-05-28T16:29:00",
+  "in": true,
+  "text": "Подари маме своей лечинку такую на день рождения",
+  "html": "Подари маме своей лечинку такую на день рождения"
+ },
+ {
+  "datetime": "2013-05-28T16:29:13",
+  "in": false,
+  "text": "я про ролик",
+  "html": "я про ролик"
+ },
+ {
+  "datetime": "2013-05-28T16:29:18",
+  "in": false,
+  "text": "лечинку не смотрел",
+  "html": "лечинку не смотрел"
+ },
+ {
+  "mid": 76760,
+  "subject": " ... ",
+  "datetime": "2013-05-28T16:29:22",
+  "in": true,
+  "text": "Я понл",
+  "html": "Я понл"
+ },
+ {
+  "mid": 76761,
+  "subject": " ... ",
+  "datetime": "2013-05-28T16:29:25",
+  "in": true,
+  "text": "Бля посмотри",
+  "html": "Бля посмотри"
+ },
+ {
+  "mid": 76762,
+  "subject": " ... ",
+  "datetime": "2013-05-28T16:29:27",
+  "in": true,
+  "text": "http://78.159.121.26/foto/23717-zhukgerkules_kak_domashnee_zhivotnoe.html",
+  "html": "http://78.159.121.26/foto/23717-zhukgerkules_kak_domashnee_zhivotnoe.html <span class='urlpreview' id='urlpreview12'></span> "
+ },
+ {
+  "mid": 76763,
+  "subject": " ... ",
+  "datetime": "2013-05-28T16:29:31",
+  "in": true,
+  "text": "Картинащке",
+  "html": "Картинащке"
+ },
+ {
+  "datetime": "2013-05-28T16:29:47",
+  "in": false,
+  "text": "нет",
+  "html": "нет"
+ },
+ {
+  "mid": 76765,
+  "subject": " ... ",
+  "firstFocus": true,
+  "focus": true,
+  "datetime": "2013-05-28T16:29:52",
+  "in": true,
+  "text": "А ХУЛИ",
+  "html": "А ХУЛИ"
+ },
+ {
+  "datetime": "2013-05-28T16:30:00",
+  "in": false,
+  "text": "страшно",
+  "html": "страшно"
+ },
+ {
+  "mid": 76767,
+  "subject": " ... ",
+  "firstFocus": true,
+  "focus": true,
+  "datetime": "2013-05-28T16:30:14",
+  "in": true,
+  "text": "СУКА",
+  "html": "СУКА"
+ },
+ {
+  "mid": 76768,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-28T16:30:17",
+  "in": true,
+  "text": "БЫСТРА БЛЯТЬ",
+  "html": "БЫСТРА БЛЯТЬ"
+ },
+ {
+  "mid": 76779,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-28T19:17:13",
+  "in": true,
+  "text": "Заказать домен штоль",
+  "html": "Заказать домен штоль"
+ },
+ {
+  "mid": 76780,
+  "subject": " ... ",
+  "history": true,
+  "focus": true,
+  "datetime": "2013-05-28T20:07:10",
+  "in": false,
+  "text": "нахера?",
+  "html": "нахера?"
+ },
+ {
+  "mid": 76781,
+  "subject": " ... ",
+  "firstFocus": true,
+  "focus": true,
+  "datetime": "2013-05-28T20:07:25",
+  "in": true,
+  "text": "Ахуинна ж",
+  "html": "Ахуинна ж"
+ },
+ {
+  "mid": 76815,
+  "subject": " ... ",
+  "firstFocus": true,
+  "focus": true,
+  "datetime": "2013-05-28T23:56:36",
+  "in": true,
+  "text": "Саит запилить",
+  "html": "Саит запилить"
+ },
+ {
+  "mid": 76816,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-28T23:56:55",
+  "in": true,
+  "text": "А исчо юзать как свою пасту для кода вроде пастбина и прочих",
+  "html": "А исчо юзать как свою пасту для кода вроде пастбина и прочих"
+ },
+ {
+  "mid": 76817,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-28T23:57:00",
+  "in": true,
+  "text": "И для картинок",
+  "html": "И для картинок"
+ },
+ {
+  "mid": 76818,
+  "subject": " ... ",
+  "datetime": "2013-05-28T23:57:11",
+  "in": true,
+  "text": "И вообще как вайлоавый хостинг",
+  "html": "И вообще как вайлоавый хостинг"
+ },
+ {
+  "datetime": "2013-05-28T23:57:26",
+  "in": false,
+  "text": ":)",
+  "html": ":)"
+ },
+ {
+  "datetime": "2013-05-28T23:57:51",
+  "in": false,
+  "text": "ок типичный типа тестовый сервер личного пользования",
+  "html": "ок типичный типа тестовый сервер личного пользования"
+ },
+ {
+  "datetime": "2013-05-28T23:57:57",
+  "in": false,
+  "text": "норм да",
+  "html": "норм да"
+ },
+ {
+  "datetime": "2013-05-28T23:58:09",
+  "in": false,
+  "text": "еще рсс ридер туда запилить",
+  "html": "еще рсс ридер туда запилить"
+ },
+ {
+  "datetime": "2013-05-28T23:58:34",
+  "in": false,
+  "text": "а его держать заграницами и по своему впн ходить когда вздумается",
+  "html": "а его держать заграницами и по своему впн ходить когда вздумается"
+ },
+ {
+  "mid": 76824,
+  "subject": " ... ",
+  "firstFocus": true,
+  "focus": true,
+  "datetime": "2013-05-28T23:59:00",
+  "in": true,
+  "text": "Нэннэ",
+  "html": "Нэннэ"
+ },
+ {
+  "mid": 76825,
+  "subject": " ... ",
+  "firstFocus": true,
+  "focus": true,
+  "datetime": "2013-05-28T23:59:08",
+  "in": true,
+  "text": "Ну свой вебсервер это же круто",
+  "html": "Ну свой вебсервер это же круто"
+ },
+ {
+  "datetime": "2013-05-28T23:59:22",
+  "in": false,
+  "text": "да это удобно",
+  "html": "да это удобно"
+ },
+ {
+  "mid": 76827,
+  "subject": " ... ",
+  "datetime": "2013-05-28T23:59:28",
+  "in": true,
+  "text": "Какой-нибудь гигабайта на 2 за штуку в год можно наверное",
+  "html": "Какой-нибудь гигабайта на 2 за штуку в год можно наверное"
+ },
+ {
+  "datetime": "2013-05-28T23:59:42",
+  "in": false,
+  "text": "надо смотреть",
+  "html": "надо смотреть"
+ },
+ {
+  "datetime": "2013-05-29T00:00:02",
+  "in": false,
+  "text": "почему впн не надо?",
+  "html": "почему впн не надо?"
+ },
+ {
+  "mid": 76830,
+  "subject": " ... ",
+  "firstFocus": true,
+  "focus": true,
+  "datetime": "2013-05-29T00:00:32",
+  "in": true,
+  "text": "Для этого нужен настощий сервер",
+  "html": "Для этого нужен настощий сервер"
+ },
+ {
+  "datetime": "2013-05-29T00:01:55",
+  "in": false,
+  "text": "для этого главное канал нормальный, а мощности особенные не нужны",
+  "html": "для этого главное канал нормальный, а мощности особенные не нужны"
+ },
+ {
+  "mid": 76832,
+  "subject": " ... ",
+  "firstFocus": true,
+  "focus": true,
+  "datetime": "2013-05-29T00:02:56",
+  "in": true,
+  "text": "Я про то что это дорого",
+  "html": "Я про то что это дорого"
+ },
+ {
+  "mid": 76833,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-29T00:03:12",
+  "in": true,
+  "text": "Вебсервера с фтп и апачей хостятся на виртуалках",
+  "html": "Вебсервера с фтп и апачей хостятся на виртуалках"
+ },
+ {
+  "datetime": "2013-05-29T00:04:33",
+  "in": false,
+  "text": "какая разница в виртуалке или железный если канал норм а нагрузка мизерная?",
+  "html": "какая разница в виртуалке или железный если канал норм а нагрузка мизерная?"
+ },
+ {
+  "datetime": "2013-05-29T00:04:47",
+  "in": false,
+  "text": "http://habrahabr.ru/post/141483/",
+  "html": "http://habrahabr.ru/post/141483/ <span class='urlpreview' id='urlpreview13'></span> "
+ },
+ {
+  "mid": 76836,
+  "subject": " ... ",
+  "firstFocus": true,
+  "focus": true,
+  "datetime": "2013-05-29T00:05:33",
+  "in": true,
+  "text": "Такая тут тебе впн дают а не сервер",
+  "html": "Такая тут тебе впн дают а не сервер"
+ },
+ {
+  "mid": 76837,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-29T00:05:42",
+  "in": true,
+  "text": "веб",
+  "html": "веб"
+ },
+ {
+  "datetime": "2013-05-29T00:05:53",
+  "in": false,
+  "text": "да",
+  "html": "да"
+ },
+ {
+  "datetime": "2013-05-29T00:06:13",
+  "in": false,
+  "text": "это я так r слову что впн и нахаляву можно)",
+  "html": "это я так r слову что впн и нахаляву можно)"
+ },
+ {
+  "datetime": "2013-05-29T00:06:17",
+  "in": false,
+  "text": "и вроде норм",
+  "html": "и вроде норм"
+ },
+ {
+  "datetime": "2013-05-29T02:00:39",
+  "in": false,
+  "text": "сфоткай что было на последней паре по линалу",
+  "html": "сфоткай что было на последней паре по линалу"
+ },
+ {
+  "mid": 77190,
+  "subject": " ... ",
+  "history": true,
+  "datetime": "2013-05-30T22:43:52",
+  "in": false,
+  "text": "Декан (запретить декану наследовать)",
+  "html": "Декан (запретить декану наследовать)"
+ },
+ {
+  "mid": 77191,
+  "subject": " ... ",
+  "history": true,
+  "datetime": "2013-05-30T22:44:00",
+  "in": false,
+  "text": "что это значит то?",
+  "html": "что это значит то?"
+ },
+ {
+  "mid": 77256,
+  "subject": " ... ",
+  "datetime": "2013-05-31T00:08:08",
+  "in": true,
+  "text": "Да блять нихуя не понял",
+  "html": "Да блять нихуя не понял"
+ },
+ {
+  "mid": 77257,
+  "subject": " ... ",
+  "history": true,
+  "datetime": "2013-05-31T00:08:41",
+  "in": false,
+  "text": "декана",
+  "html": "декана"
+ },
+ {
+  "mid": 77258,
+  "subject": " ... ",
+  "history": true,
+  "datetime": "2013-05-31T00:08:46",
+  "in": false,
+  "text": "и тогда все норм)",
+  "html": "и тогда все норм)"
+ },
+ {
+  "mid": 77259,
+  "subject": " ... ",
+  "history": true,
+  "datetime": "2013-05-31T00:09:14",
+  "in": false,
+  "text": "разве что не по русски",
+  "html": "разве что не по русски"
+ },
+ {
+  "mid": 77260,
+  "subject": " ... ",
+  "firstFocus": true,
+  "focus": true,
+  "datetime": "2013-05-31T00:10:33",
+  "in": true,
+  "text": "ДА пошла",
+  "html": "ДА пошла"
+ },
+ {
+  "mid": 77261,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-31T00:10:34",
+  "in": true,
+  "text": "она",
+  "html": "она"
+ },
+ {
+  "mid": 77262,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-31T00:10:37",
+  "in": true,
+  "text": "в письку",
+  "html": "в письку"
+ },
+ {
+  "mid": 77263,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-31T00:10:39",
+  "in": true,
+  "text": "чмо",
+  "html": "чмо"
+ },
+ {
+  "datetime": "2013-05-31T00:11:27",
+  "in": false,
+  "text": "ахаха",
+  "html": "ахаха"
+ },
+ {
+  "mid": 77265,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-31T00:47:16",
+  "in": true,
+  "text": "",
+  "html": ""
+ },
+ {
+  "mid": 77266,
+  "subject": " ... ",
+  "firstFocus": true,
+  "focus": true,
+  "datetime": "2013-05-31T00:48:59",
+  "in": true,
+  "text": "Поцду готовиться к кр по проге",
+  "html": "Поцду готовиться к кр по проге"
+ },
+ {
+  "mid": 77267,
+  "subject": " ... ",
+  "history": true,
+  "focus": true,
+  "datetime": "2013-05-31T00:49:01",
+  "in": false,
+  "text": "пиздец",
+  "html": "пиздец"
+ },
+ {
+  "mid": 77268,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-31T00:49:02",
+  "in": true,
+  "text": "ЛОЛ&quot;",
+  "html": "ЛОЛ&amp;quot;"
+ },
+ {
+  "mid": 77269,
+  "subject": " ... ",
+  "history": true,
+  "focus": true,
+  "datetime": "2013-05-31T00:49:13",
+  "in": false,
+  "text": "что кр?",
+  "html": "что кр?"
+ },
+ {
+  "mid": 77270,
+  "subject": " ... ",
+  "history": true,
+  "focus": true,
+  "datetime": "2013-05-31T00:49:18",
+  "in": false,
+  "text": "зачем?",
+  "html": "зачем?"
+ },
+ {
+  "mid": 77271,
+  "subject": " ... ",
+  "history": true,
+  "focus": true,
+  "datetime": "2013-05-31T00:49:20",
+  "in": false,
+  "text": ":)",
+  "html": ":)"
+ },
+ {
+  "mid": 77272,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-31T00:49:24",
+  "in": true,
+  "text": "ГОТОВИТЬСЯ",
+  "html": "ГОТОВИТЬСЯ"
+ },
+ {
+  "mid": 77273,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-31T00:49:27",
+  "in": true,
+  "text": "СЛОжнО СУКА",
+  "html": "СЛОжнО СУКА"
+ },
+ {
+  "mid": 77274,
+  "subject": " ... ",
+  "history": true,
+  "focus": true,
+  "datetime": "2013-05-31T00:49:27",
+  "in": false,
+  "text": "да да",
+  "html": "да да"
+ },
+ {
+  "mid": 77275,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-31T00:49:29",
+  "in": true,
+  "text": "НЕПОНЯТНО",
+  "html": "НЕПОНЯТНО"
+ },
+ {
+  "mid": 77276,
+  "subject": " ... ",
+  "history": true,
+  "focus": true,
+  "datetime": "2013-05-31T00:49:32",
+  "in": false,
+  "text": "я посмеядся",
+  "html": "я посмеядся"
+ },
+ {
+  "mid": 77277,
+  "subject": " ... ",
+  "history": true,
+  "focus": true,
+  "datetime": "2013-05-31T00:49:35",
+  "in": false,
+  "text": "баян просто",
+  "html": "баян просто"
+ },
+ {
+  "mid": 77278,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-31T00:49:36",
+  "in": true,
+  "text": "К тому у меня неочень с ней",
+  "html": "К тому у меня неочень с ней"
+ },
+ {
+  "mid": 77279,
+  "subject": " ... ",
+  "history": true,
+  "focus": true,
+  "datetime": "2013-05-31T00:49:50",
+  "in": false,
+  "text": "ты тупой потому что",
+  "html": "ты тупой потому что"
+ },
+ {
+  "mid": 77280,
+  "subject": " ... ",
+  "history": true,
+  "focus": true,
+  "datetime": "2013-05-31T00:50:09",
+  "in": false,
+  "text": "бесит что вк не присылайт в джаббер видосы как ссылки",
+  "html": "бесит что вк не присылайт в джаббер видосы как ссылки"
+ },
+ {
+  "mid": 77281,
+  "subject": " ... ",
+  "history": true,
+  "focus": true,
+  "datetime": "2013-05-31T00:50:12",
+  "in": false,
+  "text": "и тд",
+  "html": "и тд"
+ },
+ {
+  "mid": 77282,
+  "subject": " ... ",
+  "datetime": "2013-05-31T00:51:05",
+  "in": true,
+  "text": "ДА просто пиздец",
+  "html": "ДА просто пиздец"
+ },
+ {
+  "mid": 77283,
+  "subject": " ... ",
+  "datetime": "2013-05-31T00:51:30",
+  "in": true,
+  "text": "Запилили бы редирект который можно парсить",
+  "html": "Запилили бы редирект который можно парсить"
+ },
+ {
+  "datetime": "2013-05-31T00:51:38",
+  "in": false,
+  "text": "да",
+  "html": "да"
+ },
+ {
+  "mid": 77285,
+  "subject": " ... ",
+  "datetime": "2013-05-31T00:51:38",
+  "in": true,
+  "text": "По адреу",
+  "html": "По адреу"
+ },
+ {
+  "datetime": "2013-05-31T00:52:03",
+  "in": false,
+  "text": "нужен нормальный мессенджер и мылоклиент",
+  "html": "нужен нормальный мессенджер и мылоклиент"
+ },
+ {
+  "datetime": "2013-05-31T00:52:10",
+  "in": false,
+  "text": "желательно в одном лице",
+  "html": "желательно в одном лице"
+ },
+ {
+  "datetime": "2013-05-31T00:52:21",
+  "in": false,
+  "text": "и на кутим",
+  "html": "и на кутим"
+ },
+ {
+  "datetime": "2013-05-31T00:52:24",
+  "in": false,
+  "text": "кути ",
+  "html": "кути "
+ },
+ {
+  "mid": 77290,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-31T01:31:43",
+  "in": true,
+  "text": "У тебя какая jvm ?",
+  "html": "У тебя какая jvm ?"
+ },
+ {
+  "mid": 77291,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-31T01:32:00",
+  "in": true,
+  "text": "&gt;нужен нормальный мессенджер и мылоклиент",
+  "html": "&amp;gt;нужен нормальный мессенджер и мылоклиент"
+ },
+ {
+  "mid": 77292,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-31T01:32:12",
+  "in": true,
+  "text": "&gt; нормальный мылоклиент",
+  "html": "&amp;gt; нормальный мылоклиент"
+ },
+ {
+  "mid": 77293,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-31T01:32:19",
+  "in": true,
+  "text": "&gt; нормальный",
+  "html": "&amp;gt; нормальный"
+ },
+ {
+  "mid": 77294,
+  "subject": " ... ",
+  "datetime": "2013-05-31T01:34:36",
+  "in": true,
+  "text": "Бля заебись",
+  "html": "Бля заебись"
+ },
+ {
+  "mid": 77295,
+  "subject": " ... ",
+  "datetime": "2013-05-31T01:34:42",
+  "in": true,
+  "text": "oracle java",
+  "html": "oracle java"
+ },
+ {
+  "datetime": "2013-05-31T01:34:49",
+  "in": false,
+  "text": "что заебись?",
+  "html": "что заебись?"
+ },
+ {
+  "datetime": "2013-05-31T01:35:00",
+  "in": false,
+  "text": "Опен джедека",
+  "html": "Опен джедека"
+ },
+ {
+  "datetime": "2013-05-31T01:35:13",
+  "in": false,
+  "text": "&gt; нормальный",
+  "html": "&amp;gt; нормальный"
+ },
+ {
+  "mid": 77299,
+  "subject": " ... ",
+  "datetime": "2013-05-31T01:35:22",
+  "in": true,
+  "text": "НЕа",
+  "html": "НЕа"
+ },
+ {
+  "datetime": "2013-05-31T01:35:25",
+  "in": false,
+  "text": "что это значит?",
+  "html": "что это значит?"
+ },
+ {
+  "mid": 77301,
+  "subject": " ... ",
+  "firstFocus": true,
+  "focus": true,
+  "datetime": "2013-05-31T01:35:39",
+  "in": true,
+  "text": "Опенждк не поддерживает туеву хучу всего",
+  "html": "Опенждк не поддерживает туеву хучу всего"
+ },
+ {
+  "mid": 77302,
+  "subject": " ... ",
+  "datetime": "2013-05-31T01:35:50",
+  "in": true,
+  "text": "например ява ФХ",
+  "html": "например ява ФХ"
+ },
+ {
+  "datetime": "2013-05-31T01:35:54",
+  "in": false,
+  "text": "ок",
+  "html": "ок"
+ },
+ {
+  "datetime": "2013-05-31T01:35:58",
+  "in": false,
+  "text": "и что)",
+  "html": "и что)"
+ },
+ {
+  "mid": 77305,
+  "subject": " ... ",
+  "datetime": "2013-05-31T01:36:04",
+  "in": true,
+  "text": "Ну говно",
+  "html": "Ну говно"
+ },
+ {
+  "mid": 77306,
+  "subject": " ... ",
+  "datetime": "2013-05-31T01:36:10",
+  "in": true,
+  "text": "Нужно избавиться!!",
+  "html": "Нужно избавиться!!"
+ },
+ {
+  "datetime": "2013-05-31T01:36:11",
+  "in": false,
+  "text": "5 минут поставит оракл когда понадобится",
+  "html": "5 минут поставит оракл когда понадобится"
+ },
+ {
+  "mid": 77308,
+  "subject": " ... ",
+  "datetime": "2013-05-31T01:36:23",
+  "in": true,
+  "text": "Это ты так сейчас думаешь",
+  "html": "Это ты так сейчас думаешь"
+ },
+ {
+  "mid": 77309,
+  "subject": " ... ",
+  "firstFocus": true,
+  "focus": true,
+  "datetime": "2013-05-31T01:36:53",
+  "in": true,
+  "text": "а когда понадобится то хуй",
+  "html": "а когда понадобится то хуй"
+ },
+ {
+  "mid": 77310,
+  "subject": " ... ",
+  "history": true,
+  "firstFocus": true,
+  "focus": true,
+  "datetime": "2013-05-31T01:37:16",
+  "in": false,
+  "text": "оооок",
+  "html": "оооок"
+ },
+ {
+  "mid": 77311,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-31T01:39:47",
+  "in": true,
+  "text": "https://www.dropbox.com/s/x4nnayaagca70sd/chat.jar",
+  "html": "https://www.dropbox.com/s/x4nnayaagca70sd/chat.jar <span class='urlpreview' id='urlpreview2'></span> "
+ },
+ {
+  "mid": 77312,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-31T01:39:50",
+  "in": true,
+  "text": "Pfgecnb",
+  "html": "Pfgecnb"
+ },
+ {
+  "mid": 77313,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-31T01:39:52",
+  "in": true,
+  "text": "Запусти",
+  "html": "Запусти"
+ },
+ {
+  "datetime": "2013-05-31T01:41:05",
+  "in": false,
+  "text": "да ладно ",
+  "html": "да ладно "
+ },
+ {
+  "datetime": "2013-05-31T01:41:11",
+  "in": false,
+  "text": "опен джедека же",
+  "html": "опен джедека же"
+ },
+ {
+  "datetime": "2013-05-31T01:42:41",
+  "in": false,
+  "text": "и че с ним делать?",
+  "html": "и че с ним делать?"
+ },
+ {
+  "mid": 77317,
+  "subject": " ... ",
+  "datetime": "2013-05-31T01:42:53",
+  "in": true,
+  "text": "запусти",
+  "html": "запусти"
+ },
+ {
+  "datetime": "2013-05-31T01:43:00",
+  "in": false,
+  "text": "сделал выполняемым",
+  "html": "сделал выполняемым"
+ },
+ {
+  "mid": 77319,
+  "subject": " ... ",
+  "datetime": "2013-05-31T01:43:07",
+  "in": true,
+  "text": "-_-",
+  "html": "-_-"
+ },
+ {
+  "datetime": "2013-05-31T01:43:11",
+  "in": false,
+  "text": "система не вкурсе чем его запускать",
+  "html": "система не вкурсе чем его запускать"
+ },
+ {
+  "mid": 77321,
+  "subject": " ... ",
+  "datetime": "2013-05-31T01:43:13",
+  "in": true,
+  "text": "ЗАпустить как",
+  "html": "ЗАпустить как"
+ },
+ {
+  "mid": 77322,
+  "subject": " ... ",
+  "datetime": "2013-05-31T01:43:20",
+  "in": true,
+  "text": "там напиши java -jar",
+  "html": "там напиши java -jar"
+ },
+ {
+  "datetime": "2013-05-31T01:43:26",
+  "in": false,
+  "text": "в консоли ",
+  "html": "в консоли "
+ },
+ {
+  "datetime": "2013-05-31T01:43:27",
+  "in": false,
+  "text": "аа",
+  "html": "аа"
+ },
+ {
+  "datetime": "2013-05-31T01:43:31",
+  "in": false,
+  "text": "все of",
+  "html": "все of"
+ },
+ {
+  "mid": 77326,
+  "subject": " ... ",
+  "firstFocus": true,
+  "focus": true,
+  "datetime": "2013-05-31T01:43:39",
+  "in": true,
+  "text": "или в консоле java -jar PATH_TO_THE_FILE_EBTA",
+  "html": "или в консоле java -jar PATH_TO_THE_FILE_EBTA"
+ },
+ {
+  "datetime": "2013-05-31T01:45:09",
+  "in": false,
+  "text": "file:///home/ivn/Изображения/снимок5.png",
+  "html": "file:///home/ivn/Изображения/снимок5.png"
+ },
+ {
+  "datetime": "2013-05-31T01:45:13",
+  "in": false,
+  "text": "блядь",
+  "html": "блядь"
+ },
+ {
+  "mid": 77329,
+  "subject": " ... ",
+  "datetime": "2013-05-31T01:45:17",
+  "in": true,
+  "text": "-_-",
+  "html": "-_-"
+ },
+ {
+  "service": true,
+  "datetime": "2013-05-31T01:46:13",
+  "in": false,
+  "text": "File sent: снимок5.png (4956 bytes)\nDownload url: http://yadi.sk/d/F6_i_eAL5LaIq",
+  "html": "File sent: снимок5.png (4956 bytes)<br/>Download url: http://yadi.sk/d/F6_i_eAL5LaIq <span class='urlpreview' id='urlpreview3'></span> "
+ },
+ {
+  "mid": 77331,
+  "subject": " ... ",
+  "datetime": "2013-05-31T01:46:27",
+  "in": true,
+  "text": "Бля",
+  "html": "Бля"
+ },
+ {
+  "datetime": "2013-05-31T01:46:30",
+  "in": false,
+  "text": "потом короче",
+  "html": "потом короче"
+ },
+ {
+  "mid": 77333,
+  "subject": " ... ",
+  "datetime": "2013-05-31T01:46:32",
+  "in": true,
+  "text": "вот видишь",
+  "html": "вот видишь"
+ },
+ {
+  "datetime": "2013-05-31T01:46:40",
+  "in": false,
+  "text": "чуть позже поставлю",
+  "html": "чуть позже поставлю"
+ },
+ {
+  "mid": 77335,
+  "subject": " ... ",
+  "firstFocus": true,
+  "focus": true,
+  "datetime": "2013-05-31T01:46:46",
+  "in": true,
+  "text": "Ставь оракл я знаю как это сделать в 2 строчки!",
+  "html": "Ставь оракл я знаю как это сделать в 2 строчки!"
+ },
+ {
+  "datetime": "2013-05-31T01:49:08",
+  "in": false,
+  "text": "эмм",
+  "html": "эмм"
+ },
+ {
+  "datetime": "2013-05-31T01:49:21",
+  "in": false,
+  "text": "а как называется оракловский пакет?",
+  "html": "а как называется оракловский пакет?"
+ },
+ {
+  "mid": 77338,
+  "subject": " ... ",
+  "firstFocus": true,
+  "focus": true,
+  "datetime": "2013-05-31T01:49:27",
+  "in": true,
+  "text": "jdk",
+  "html": "jdk"
+ },
+ {
+  "mid": 77339,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-31T01:49:31",
+  "in": true,
+  "text": "Там еще хитрость",
+  "html": "Там еще хитрость"
+ },
+ {
+  "mid": 77340,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-31T01:49:40",
+  "in": true,
+  "text": "ЧТо он с jre конфликтует",
+  "html": "ЧТо он с jre конфликтует"
+ },
+ {
+  "mid": 77341,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-31T01:49:52",
+  "in": true,
+  "text": "А оказалось в jdk есть java-runtime",
+  "html": "А оказалось в jdk есть java-runtime"
+ },
+ {
+  "mid": 77342,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-31T01:49:58",
+  "in": true,
+  "text": "И он в ауре только",
+  "html": "И он в ауре только"
+ },
+ {
+  "mid": 77343,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-31T01:50:04",
+  "in": true,
+  "text": "короч",
+  "html": "короч"
+ },
+ {
+  "datetime": "2013-05-31T01:50:29",
+  "in": false,
+  "text": "ну ставлю чо",
+  "html": "ну ставлю чо"
+ },
+ {
+  "mid": 77345,
+  "subject": " ... ",
+  "firstFocus": true,
+  "focus": true,
+  "datetime": "2013-05-31T01:50:54",
+  "in": true,
+  "text": "# pacman -Rdd jdk7-openjdk jre7-openjdk jre7-openjdk-чегототам icedtee-чегототам",
+  "html": "# pacman -Rdd jdk7-openjdk jre7-openjdk jre7-openjdk-чегототам icedtee-чегототам"
+ },
+ {
+  "mid": 77346,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-31T01:51:09",
+  "in": true,
+  "text": "Потом yaourt -S jdk",
+  "html": "Потом yaourt -S jdk"
+ },
+ {
+  "mid": 77347,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-31T01:51:31",
+  "in": true,
+  "text": "Потом нужно либо разлогиниться либо вручную прописать переменные среды для JAVA_HOME",
+  "html": "Потом нужно либо разлогиниться либо вручную прописать переменные среды для JAVA_HOME"
+ },
+ {
+  "mid": 77348,
+  "subject": " ... ",
+  "history": true,
+  "datetime": "2013-05-31T02:07:15",
+  "in": false,
+  "text": "че вводить?",
+  "html": "че вводить?"
+ },
+ {
+  "mid": 77349,
+  "subject": " ... ",
+  "datetime": "2013-05-31T02:08:00",
+  "in": true,
+  "text": "Уже все потрачено",
+  "html": "Уже все потрачено"
+ },
+ {
+  "mid": 77350,
+  "subject": " ... ",
+  "datetime": "2013-05-31T02:08:08",
+  "in": true,
+  "text": "Не работает",
+  "html": "Не работает"
+ },
+ {
+  "datetime": "2013-05-31T02:08:18",
+  "in": false,
+  "text": "ахахаха",
+  "html": "ахахаха"
+ },
+ {
+  "datetime": "2013-05-31T02:08:22",
+  "in": false,
+  "text": "а почему",
+  "html": "а почему"
+ },
+ {
+  "mid": 77353,
+  "subject": " ... ",
+  "firstFocus": true,
+  "focus": true,
+  "datetime": "2013-05-31T02:10:45",
+  "in": true,
+  "text": "Потомучто ява ГОВНО",
+  "html": "Потомучто ява ГОВНО"
+ },
+ {
+  "mid": 77354,
+  "subject": " ... ",
+  "history": true,
+  "focus": true,
+  "datetime": "2013-05-31T02:10:57",
+  "in": false,
+  "text": "ахаха",
+  "html": "ахаха"
+ },
+ {
+  "mid": 77355,
+  "subject": " ... ",
+  "history": true,
+  "focus": true,
+  "datetime": "2013-05-31T02:11:04",
+  "in": false,
+  "text": "да вали все на наих",
+  "html": "да вали все на наих"
+ },
+ {
+  "mid": 77356,
+  "subject": " ... ",
+  "firstFocus": true,
+  "focus": true,
+  "datetime": "2013-05-31T02:11:42",
+  "in": true,
+  "text": "блять если это так",
+  "html": "блять если это так"
+ },
+ {
+  "mid": 77357,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-31T02:11:45",
+  "in": true,
+  "text": "хули поделать",
+  "html": "хули поделать"
+ },
+ {
+  "datetime": "2013-05-31T02:12:25",
+  "in": false,
+  "text": "ага)",
+  "html": "ага)"
+ },
+ {
+  "mid": 77359,
+  "subject": " ... ",
+  "firstFocus": true,
+  "focus": true,
+  "datetime": "2013-05-31T02:13:24",
+  "in": true,
+  "text": "хотя алеша под вендой запускал там фаервол мог блочить",
+  "html": "хотя алеша под вендой запускал там фаервол мог блочить"
+ },
+ {
+  "mid": 77360,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-31T02:13:26",
+  "in": true,
+  "text": "похуй",
+  "html": "похуй"
+ },
+ {
+  "datetime": "2013-05-31T02:13:43",
+  "in": false,
+  "text": "че вводить",
+  "html": "че вводить"
+ },
+ {
+  "datetime": "2013-05-31T02:13:46",
+  "in": false,
+  "text": "блядь",
+  "html": "блядь"
+ },
+ {
+  "mid": 77363,
+  "subject": " ... ",
+  "datetime": "2013-05-31T02:13:51",
+  "in": true,
+  "text": "да нихуя",
+  "html": "да нихуя"
+ },
+ {
+  "mid": 77364,
+  "subject": " ... ",
+  "datetime": "2013-05-31T02:13:53",
+  "in": true,
+  "text": "Сервер оф",
+  "html": "Сервер оф"
+ },
+ {
+  "datetime": "2013-05-31T02:14:13",
+  "in": false,
+  "text": "хуй вводить?",
+  "html": "хуй вводить?"
+ },
+ {
+  "mid": 77366,
+  "subject": " ... ",
+  "firstFocus": true,
+  "focus": true,
+  "datetime": "2013-05-31T02:14:35",
+  "in": true,
+  "text": "в мамку твою блять",
+  "html": "в мамку твою блять"
+ },
+ {
+  "mid": 77367,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-31T02:14:42",
+  "in": true,
+  "text": "Джава говно",
+  "html": "Джава говно"
+ },
+ {
+  "mid": 77368,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-31T02:15:42",
+  "in": true,
+  "text": "похуй, запущу вебзервер чтобы чер браузер затестить завтрв",
+  "html": "похуй, запущу вебзервер чтобы чер браузер затестить завтрв"
+ },
+ {
+  "mid": 77369,
+  "subject": " ... ",
+  "firstFocus": true,
+  "focus": true,
+  "datetime": "2013-05-31T02:17:40",
+  "in": true,
+  "text": "http://www.twitch.tv/tobiwandota?utm_campaign=live_embed_click&amp;utm_source=dota2.ru",
+  "html": "http://www.twitch.tv/tobiwandota?utm_campaign=live_embed_click&amp;amp;utm_source=dota2.ru <span class='urlpreview' id='urlpreview1'></span> "
+ },
+ {
+  "mid": 77370,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-31T02:17:42",
+  "in": true,
+  "text": "rfpf[b",
+  "html": "rfpf[b"
+ },
+ {
+  "mid": 77371,
+  "subject": " ... ",
+  "datetime": "2013-05-31T02:17:44",
+  "in": true,
+  "text": "Казахи",
+  "html": "Казахи"
+ },
+ {
+  "datetime": "2013-05-31T02:18:23",
+  "in": false,
+  "text": "иии?",
+  "html": "иии?"
+ },
+ {
+  "mid": 77373,
+  "subject": " ... ",
+  "firstFocus": true,
+  "focus": true,
+  "datetime": "2013-05-31T02:18:31",
+  "in": true,
+  "text": "p,c",
+  "html": "p,c"
+ },
+ {
+  "mid": 77374,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-31T02:18:34",
+  "in": true,
+  "text": "ЗБС",
+  "html": "ЗБС"
+ },
+ {
+  "mid": 77375,
+  "subject": " ... ",
+  "firstFocus": true,
+  "focus": true,
+  "datetime": "2013-05-31T02:18:55",
+  "in": true,
+  "text": "гварят 1 игру казахи хатащеле",
+  "html": "гварят 1 игру казахи хатащеле"
+ },
+ {
+  "mid": 77376,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-31T02:19:35",
+  "in": true,
+  "text": "Почвны из СНГ вообще всех нагебают",
+  "html": "Почвны из СНГ вообще всех нагебают"
+ },
+ {
+  "mid": 77377,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-31T02:19:42",
+  "in": true,
+  "text": "Кроме китайцев",
+  "html": "Кроме китайцев"
+ },
+ {
+  "mid": 77378,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-31T02:19:45",
+  "in": true,
+  "text": "Их не всегда",
+  "html": "Их не всегда"
+ },
+ {
+  "mid": 77379,
+  "subject": " ... ",
+  "datetime": "2013-05-31T02:19:47",
+  "in": true,
+  "text": "Но бывало",
+  "html": "Но бывало"
+ },
+ {
+  "mid": 77380,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-31T02:20:52",
+  "in": true,
+  "text": "Забавно казахов и русских коментируют амереканцы",
+  "html": "Забавно казахов и русских коментируют амереканцы"
+ },
+ {
+  "mid": 77381,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-31T02:20:56",
+  "in": true,
+  "text": "Хуесосы -_-",
+  "html": "Хуесосы -_-"
+ },
+ {
+  "datetime": "2013-05-31T02:23:26",
+  "in": false,
+  "text": "агага",
+  "html": "агага"
+ },
+ {
+  "mid": 77383,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-31T02:40:21",
+  "in": true,
+  "text": "Хазахи хер соснулей",
+  "html": "Хазахи хер соснулей"
+ },
+ {
+  "datetime": "2013-05-31T02:40:45",
+  "in": false,
+  "text": "всем насрать",
+  "html": "всем насрать"
+ },
+ {
+  "mid": 77385,
+  "subject": " ... ",
+  "firstFocus": true,
+  "focus": true,
+  "datetime": "2013-05-31T02:40:56",
+  "in": true,
+  "text": "Но казахи",
+  "html": "Но казахи"
+ },
+ {
+  "mid": 77386,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-31T02:40:57",
+  "in": true,
+  "text": "Хер",
+  "html": "Хер"
+ },
+ {
+  "mid": 77387,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-31T02:40:58",
+  "in": true,
+  "text": "Сосут",
+  "html": "Сосут"
+ },
+ {
+  "mid": 77388,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-31T02:41:01",
+  "in": true,
+  "text": "У рюских",
+  "html": "У рюских"
+ },
+ {
+  "mid": 77389,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-31T02:41:07",
+  "in": true,
+  "text": "Все как в настоящей жизни",
+  "html": "Все как в настоящей жизни"
+ },
+ {
+  "mid": 77402,
+  "subject": " ... ",
+  "datetime": "2013-05-31T19:25:30",
+  "in": true,
+  "text": "Прикинь чо",
+  "html": "Прикинь чо"
+ },
+ {
+  "mid": 77403,
+  "subject": " ... ",
+  "datetime": "2013-05-31T19:25:34",
+  "in": true,
+  "text": "биос обновился",
+  "html": "биос обновился"
+ },
+ {
+  "mid": 77404,
+  "subject": " ... ",
+  "datetime": "2013-05-31T19:25:39",
+  "in": true,
+  "text": "и стал работать суспенд",
+  "html": "и стал работать суспенд"
+ },
+ {
+  "mid": 77405,
+  "subject": " ... ",
+  "datetime": "2013-05-31T19:25:52",
+  "in": true,
+  "text": "И не слетели дсдт после критического заряда",
+  "html": "И не слетели дсдт после критического заряда"
+ },
+ {
+  "datetime": "2013-05-31T19:27:03",
+  "in": false,
+  "text": "ооо",
+  "html": "ооо"
+ },
+ {
+  "datetime": "2013-05-31T19:27:06",
+  "in": false,
+  "text": "круто",
+  "html": "круто"
+ },
+ {
+  "mid": 77408,
+  "subject": " ... ",
+  "firstFocus": true,
+  "focus": true,
+  "datetime": "2013-05-31T19:27:20",
+  "in": true,
+  "text": "магия блять",
+  "html": "магия блять"
+ },
+ {
+  "mid": 77409,
+  "subject": " ... ",
+  "firstFocus": true,
+  "focus": true,
+  "datetime": "2013-05-31T19:27:28",
+  "in": true,
+  "text": "я с суспендам трахался с самого начала",
+  "html": "я с суспендам трахался с самого начала"
+ },
+ {
+  "datetime": "2013-05-31T19:28:00",
+  "in": false,
+  "text": "ок",
+  "html": "ок"
+ },
+ {
+  "datetime": "2013-05-31T19:28:13",
+  "in": false,
+  "text": "а как он обновился?",
+  "html": "а как он обновился?"
+ },
+ {
+  "mid": 77412,
+  "subject": " ... ",
+  "firstFocus": true,
+  "focus": true,
+  "datetime": "2013-05-31T19:28:59",
+  "in": true,
+  "text": "ну",
+  "html": "ну"
+ },
+ {
+  "mid": 77413,
+  "subject": " ... ",
+  "datetime": "2013-05-31T19:29:05",
+  "in": true,
+  "text": "я взял и обновил значт",
+  "html": "я взял и обновил значт"
+ },
+ {
+  "datetime": "2013-05-31T19:29:27",
+  "in": false,
+  "text": "как? В линуксе?",
+  "html": "как? В линуксе?"
+ },
+ {
+  "mid": 77415,
+  "subject": " ... ",
+  "firstFocus": true,
+  "focus": true,
+  "datetime": "2013-05-31T19:29:45",
+  "in": true,
+  "text": "нет, для этого у меня стоит виндоус и самсунговские утилиты",
+  "html": "нет, для этого у меня стоит виндоус и самсунговские утилиты"
+ },
+ {
+  "datetime": "2013-05-31T19:29:58",
+  "in": false,
+  "text": "а ну тогда не интересно",
+  "html": "а ну тогда не интересно"
+ },
+ {
+  "mid": 77417,
+  "subject": " ... ",
+  "datetime": "2013-05-31T19:30:16",
+  "in": true,
+  "text": "А в чем проблема обновить из под линукса",
+  "html": "А в чем проблема обновить из под линукса"
+ },
+ {
+  "datetime": "2013-05-31T19:30:28",
+  "in": false,
+  "text": "я не знаю",
+  "html": "я не знаю"
+ },
+ {
+  "mid": 77424,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-31T20:10:09",
+  "in": true,
+  "text": "Лол",
+  "html": "Лол"
+ },
+ {
+  "mid": 77425,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-31T20:10:15",
+  "in": true,
+  "text": "Ответ ближе чем я думал",
+  "html": "Ответ ближе чем я думал"
+ },
+ {
+  "mid": 77426,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-31T20:10:16",
+  "in": true,
+  "text": "https://wiki.archlinux.org/index.php/Flashing_BIOS_from_Linux",
+  "html": "https://wiki.archlinux.org/index.php/Flashing_BIOS_from_Linux <span class='urlpreview' id='urlpreview1'></span> "
+ },
+ {
+  "mid": 77427,
+  "subject": " ... ",
+  "firstFocus": true,
+  "focus": true,
+  "datetime": "2013-05-31T20:11:06",
+  "in": true,
+  "text": "Про Flashrom я и раньше читал",
+  "html": "Про Flashrom я и раньше читал"
+ },
+ {
+  "datetime": "2013-05-31T20:12:04",
+  "in": false,
+  "text": "ок",
+  "html": "ок"
+ },
+ {
+  "datetime": "2013-05-31T23:16:57",
+  "in": false,
+  "text": "не люблю я функциональщину ",
+  "html": "не люблю я функциональщину "
+ }
+]

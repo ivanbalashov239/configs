@@ -1,0 +1,7 @@
+[Desktop Entry]
+Comment=Automatic updates
+Comment[en_GB]=Automatic updates
+Exec=pamac-tray
+Name=Pamac-Updater
+Name[en_GB]=Pamac-Updater
+Type=Application

@@ -1,0 +1,1214 @@
+[
+ {
+  "mid": 74619,
+  "subject": "... ",
+  "datetime": "2013-05-14T21:50:47",
+  "in": true,
+  "text": "можешь в скайп выйти на секунду?",
+  "html": "можешь в скайп выйти на секунду?"
+ },
+ {
+  "mid": 74620,
+  "subject": " ... ",
+  "datetime": "2013-05-14T21:51:24",
+  "in": true,
+  "text": "package homework3;\n \n import animal.Animal;\n import homework2.MyList;\n import java.io.File;\n import java.io.FileNotFoundException;\n import java.util.Scanner;\n import realisation.*;\n \n /**\n  *\n  * @author ivan\n  */\n public class Homework3 {\n \n  /**\n  * @param args the command line arguments\n  */\n  public static void main(String[] args) {\n  // TODO code application logic here\n  File file = new File(&quot;/home/ivan/NetBeansProjects/Homework3/src/homework3/listfile.txt&quot;);\n  MyList&lt;Animal&gt; list = new MyList&lt;&gt;();\n  Scanner scanner = new Scanner(System.in);\n  list.add(new Testcat());\n  list.add(new Testdog(scanner.next()));\n  list.add(new Testwolf(scanner.nextInt()));\n  list.print();\n  \n  }\n }",
+  "html": "package homework3;<br/>&nbsp;<br/>&nbsp;import animal.Animal;<br/>&nbsp;import homework2.MyList;<br/>&nbsp;import java.io.File;<br/>&nbsp;import java.io.FileNotFoundException;<br/>&nbsp;import java.util.Scanner;<br/>&nbsp;import realisation.*;<br/>&nbsp;<br/>&nbsp;/**<br/>&nbsp; *<br/>&nbsp; * @author ivan<br/>&nbsp; */<br/>&nbsp;public class Homework3 {<br/>&nbsp;<br/>&nbsp; /**<br/>&nbsp; * @param args the command line arguments<br/>&nbsp; */<br/>&nbsp; public static void main(String[] args) {<br/>&nbsp; // TODO code application logic here<br/>&nbsp; File file = new File(&amp;quot;/home/ivan/NetBeansProjects/Homework3/src/homework3/listfile.txt&amp;quot;);<br/>&nbsp; MyList&amp;lt;Animal&amp;gt; list = new MyList&amp;lt;&amp;gt;();<br/>&nbsp; Scanner scanner = new Scanner(System.in);<br/>&nbsp; list.add(new Testcat());<br/>&nbsp; list.add(new Testdog(scanner.next()));<br/>&nbsp; list.add(new Testwolf(scanner.nextInt()));<br/>&nbsp; list.print();<br/>&nbsp; <br/>&nbsp; }<br/>&nbsp;}"
+ },
+ {
+  "mid": 74621,
+  "subject": " ... ",
+  "firstFocus": true,
+  "focus": true,
+  "datetime": "2013-05-14T21:51:48",
+  "in": true,
+  "text": "ты импортишь только интерфейс энимал и все?",
+  "html": "ты импортишь только интерфейс энимал и все?"
+ },
+ {
+  "firstFocus": true,
+  "focus": true,
+  "datetime": "2013-05-14T21:53:18",
+  "in": false,
+  "text": "http://hastebin.com/yiwuqeludu",
+  "html": "http://hastebin.com/yiwuqeludu <span class='urlpreview' id='urlpreview1'></span> "
+ },
+ {
+  "mid": 74623,
+  "subject": " ... ",
+  "datetime": "2013-05-14T21:53:58",
+  "in": true,
+  "text": "ок",
+  "html": "ок"
+ },
+ {
+  "datetime": "2013-05-14T21:54:08",
+  "in": false,
+  "text": "о как классно оно обернулось",
+  "html": "о как классно оно обернулось"
+ },
+ {
+  "mid": 74625,
+  "subject": " ... ",
+  "datetime": "2013-05-14T21:54:09",
+  "in": true,
+  "text": "я понять не могу",
+  "html": "я понять не могу"
+ },
+ {
+  "mid": 74626,
+  "subject": " ... ",
+  "datetime": "2013-05-14T21:54:24",
+  "in": true,
+  "text": "как сделать лист из энималов",
+  "html": "как сделать лист из энималов"
+ },
+ {
+  "datetime": "2013-05-14T21:54:28",
+  "in": false,
+  "text": "ладно спрашивай",
+  "html": "ладно спрашивай"
+ },
+ {
+  "mid": 74628,
+  "subject": " ... ",
+  "datetime": "2013-05-14T21:54:40",
+  "in": true,
+  "text": "что откуда импортить?",
+  "html": "что откуда импортить?"
+ },
+ {
+  "datetime": "2013-05-14T21:54:42",
+  "in": false,
+  "text": "параметризуй ими",
+  "html": "параметризуй ими"
+ },
+ {
+  "mid": 74630,
+  "subject": " ... ",
+  "datetime": "2013-05-14T21:55:23",
+  "in": true,
+  "text": "это я знаю",
+  "html": "это я знаю"
+ },
+ {
+  "datetime": "2013-05-14T21:55:45",
+  "in": false,
+  "text": "мало просто импортить\nнадо подключить проект как библиотеку\n",
+  "html": "мало просто импортить<br/>надо подключить проект как библиотеку<br/>"
+ },
+ {
+  "mid": 74632,
+  "subject": " ... ",
+  "datetime": "2013-05-14T21:55:55",
+  "in": true,
+  "text": "КААК/",
+  "html": "КААК/"
+ },
+ {
+  "mid": 74633,
+  "subject": " ... ",
+  "datetime": "2013-05-14T21:56:19",
+  "in": true,
+  "text": "Как это сделать?",
+  "html": "Как это сделать?"
+ },
+ {
+  "datetime": "2013-05-14T21:56:27",
+  "in": false,
+  "text": "netbeans?\n",
+  "html": "netbeans?<br/>"
+ },
+ {
+  "mid": 74635,
+  "subject": " ... ",
+  "datetime": "2013-05-14T21:56:36",
+  "in": true,
+  "text": "idea сраная",
+  "html": "idea сраная"
+ },
+ {
+  "datetime": "2013-05-14T21:57:53",
+  "in": false,
+  "text": "правой кнопкой мыши по проекту свойства в нетбинсе идея щас не работет посмотреть не могу\nзавтра в идее скажу если что, а вообще можно просто homework1.jar копировать",
+  "html": "правой кнопкой мыши по проекту свойства в нетбинсе идея щас не работет посмотреть не могу<br/>завтра в идее скажу если что, а вообще можно просто homework1.jar копировать"
+ },
+ {
+  "mid": 74637,
+  "subject": " ... ",
+  "firstFocus": true,
+  "focus": true,
+  "datetime": "2013-05-14T21:58:24",
+  "in": true,
+  "text": "как загуглить?",
+  "html": "как загуглить?"
+ },
+ {
+  "mid": 74638,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-14T21:58:34",
+  "in": true,
+  "text": "подключить проект как библиотеку IDEA",
+  "html": "подключить проект как библиотеку IDEA"
+ },
+ {
+  "datetime": "2013-05-14T21:59:17",
+  "in": false,
+  "text": "просто подключить библиотеку\n\n",
+  "html": "просто подключить библиотеку<br/><br/>"
+ },
+ {
+  "mid": 74640,
+  "subject": " ... ",
+  "datetime": "2013-05-14T22:28:08",
+  "in": true,
+  "text": "у тебя Энимал экстендит компэрэбл?",
+  "html": "у тебя Энимал экстендит компэрэбл?"
+ },
+ {
+  "datetime": "2013-05-14T22:28:29",
+  "in": false,
+  "text": "не помню наверное",
+  "html": "не помню наверное"
+ },
+ {
+  "mid": 74642,
+  "subject": " ... ",
+  "datetime": "2013-05-14T22:28:38",
+  "in": true,
+  "text": "ну просто иначе не работает",
+  "html": "ну просто иначе не работает"
+ },
+ {
+  "mid": 74643,
+  "subject": " ... ",
+  "datetime": "2013-05-14T22:28:40",
+  "in": true,
+  "text": "я зщ",
+  "html": "я зщ"
+ },
+ {
+  "mid": 74644,
+  "subject": " ... ",
+  "datetime": "2013-05-14T22:28:45",
+  "in": true,
+  "text": "я хз",
+  "html": "я хз"
+ },
+ {
+  "datetime": "2013-05-14T22:29:23",
+  "in": false,
+  "text": "что не работает?\nНу так переделай код то у тебя ",
+  "html": "что не работает?<br/>Ну так переделай код то у тебя "
+ },
+ {
+  "mid": 74646,
+  "subject": " ... ",
+  "firstFocus": true,
+  "focus": true,
+  "datetime": "2013-05-14T22:29:49",
+  "in": true,
+  "text": "подключил библиотеки",
+  "html": "подключил библиотеки"
+ },
+ {
+  "mid": 74647,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-14T22:29:56",
+  "in": true,
+  "text": "энимал ворлд",
+  "html": "энимал ворлд"
+ },
+ {
+  "mid": 74648,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-14T22:30:02",
+  "in": true,
+  "text": "импортироапл",
+  "html": "импортироапл"
+ },
+ {
+  "mid": 74649,
+  "subject": " ... ",
+  "firstFocus": true,
+  "focus": true,
+  "datetime": "2013-05-14T22:31:19",
+  "in": true,
+  "text": "",
+  "html": ""
+ },
+ {
+  "datetime": "2013-05-14T22:31:54",
+  "in": false,
+  "text": "ну и?\n",
+  "html": "ну и?<br/>"
+ },
+ {
+  "mid": 74651,
+  "subject": " ... ",
+  "firstFocus": true,
+  "focus": true,
+  "datetime": "2013-05-14T22:32:11",
+  "in": true,
+  "text": "я как понял он ругается, что энимал не компэрэбл",
+  "html": "я как понял он ругается, что энимал не компэрэбл"
+ },
+ {
+  "mid": 74652,
+  "subject": " ... ",
+  "datetime": "2013-05-14T22:32:28",
+  "in": true,
+  "text": "или нет?",
+  "html": "или нет?"
+ },
+ {
+  "datetime": "2013-05-14T22:32:36",
+  "in": false,
+  "text": "на каком месте?",
+  "html": "на каком месте?"
+ },
+ {
+  "mid": 74654,
+  "subject": " ... ",
+  "datetime": "2013-05-14T22:32:51",
+  "in": true,
+  "text": "ну вот я тебе скрин отправил",
+  "html": "ну вот я тебе скрин отправил"
+ },
+ {
+  "mid": 74655,
+  "subject": " ... ",
+  "datetime": "2013-05-14T22:36:56",
+  "in": true,
+  "text": "?",
+  "html": "?"
+ },
+ {
+  "datetime": "2013-05-14T22:37:00",
+  "in": false,
+  "text": "а ну я просто не в вк а в мессенджере\n",
+  "html": "а ну я просто не в вк а в мессенджере<br/>"
+ },
+ {
+  "datetime": "2013-05-14T22:37:30",
+  "in": false,
+  "text": "MyList<Animal> list = new MyList<>();\n",
+  "html": "MyList&lt;Animal&gt; list = new MyList&lt;&gt;();<br/>"
+ },
+ {
+  "datetime": "2013-05-14T22:37:38",
+  "in": false,
+  "text": "вот так надо\n",
+  "html": "вот так надо<br/>"
+ },
+ {
+  "mid": 74659,
+  "subject": " ... ",
+  "firstFocus": true,
+  "focus": true,
+  "datetime": "2013-05-14T22:38:44",
+  "in": true,
+  "text": "Так нельзя",
+  "html": "Так нельзя"
+ },
+ {
+  "mid": 74660,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-14T22:39:19",
+  "in": true,
+  "text": "пустые оставлять",
+  "html": "пустые оставлять"
+ },
+ {
+  "datetime": "2013-05-14T22:39:33",
+  "in": false,
+  "text": "так нужно\n",
+  "html": "так нужно<br/>"
+ },
+ {
+  "datetime": "2013-05-14T22:39:52",
+  "in": false,
+  "text": "нетбинс так советует, т к это возможно в 7\n",
+  "html": "нетбинс так советует, т к это возможно в 7<br/>"
+ },
+ {
+  "mid": 74663,
+  "subject": " ... ",
+  "firstFocus": true,
+  "focus": true,
+  "datetime": "2013-05-14T22:40:28",
+  "in": true,
+  "text": "да",
+  "html": "да"
+ },
+ {
+  "mid": 74664,
+  "subject": " ... ",
+  "datetime": "2013-05-14T22:40:41",
+  "in": true,
+  "text": "понял",
+  "html": "понял"
+ },
+ {
+  "mid": 74665,
+  "subject": " ... ",
+  "datetime": "2013-05-14T22:40:41",
+  "in": true,
+  "text": "но все равно та же ошибка",
+  "html": "но все равно та же ошибка"
+ },
+ {
+  "mid": 74666,
+  "subject": " ... ",
+  "firstFocus": true,
+  "focus": true,
+  "datetime": "2013-05-14T22:41:31",
+  "in": true,
+  "text": "у тебя энимал экстендит компэрэбл?",
+  "html": "у тебя энимал экстендит компэрэбл?"
+ },
+ {
+  "datetime": "2013-05-14T22:41:59",
+  "in": false,
+  "text": "у тебя же у самого есть код\n",
+  "html": "у тебя же у самого есть код<br/>"
+ },
+ {
+  "mid": 74668,
+  "subject": " ... ",
+  "datetime": "2013-05-14T22:42:09",
+  "in": true,
+  "text": "энимала то нету",
+  "html": "энимала то нету"
+ },
+ {
+  "mid": 74669,
+  "subject": " ... ",
+  "datetime": "2013-05-14T22:43:04",
+  "in": true,
+  "text": "посмотри энимал",
+  "html": "посмотри энимал"
+ },
+ {
+  "firstFocus": true,
+  "focus": true,
+  "datetime": "2013-05-14T22:43:28",
+  "in": false,
+  "text": "почему? То есть ты работаешь со своим?\nБред))\nок\nты меня достал сам бы уже 100 раз написал\n",
+  "html": "почему? То есть ты работаешь со своим?<br/>Бред))<br/>ок<br/>ты меня достал сам бы уже 100 раз написал<br/>"
+ },
+ {
+  "mid": 74671,
+  "subject": " ... ",
+  "firstFocus": true,
+  "focus": true,
+  "datetime": "2013-05-14T22:43:50",
+  "in": true,
+  "text": "да не",
+  "html": "да не"
+ },
+ {
+  "mid": 74672,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-14T22:43:57",
+  "in": true,
+  "text": "проблема не в этом",
+  "html": "проблема не в этом"
+ },
+ {
+  "mid": 74673,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-14T22:44:16",
+  "in": true,
+  "text": "проблема в экстендс компэрэбд",
+  "html": "проблема в экстендс компэрэбд"
+ },
+ {
+  "firstFocus": true,
+  "focus": true,
+  "datetime": "2013-05-14T22:47:01",
+  "in": false,
+  "text": "http://hastebin.com/sopavojawa",
+  "html": "http://hastebin.com/sopavojawa <span class='urlpreview' id='urlpreview2'></span> "
+ },
+ {
+  "datetime": "2013-05-14T22:48:26",
+  "in": false,
+  "text": "скорее всего у твоего энимала нету комперебла\n",
+  "html": "скорее всего у твоего энимала нету комперебла<br/>"
+ },
+ {
+  "mid": 74676,
+  "subject": " ... ",
+  "firstFocus": true,
+  "focus": true,
+  "datetime": "2013-05-14T22:49:57",
+  "in": true,
+  "text": "если я его делаю, он ругаться начинает на реализации",
+  "html": "если я его делаю, он ругаться начинает на реализации"
+ },
+ {
+  "mid": 74677,
+  "subject": " ... ",
+  "datetime": "2013-05-14T22:50:17",
+  "in": true,
+  "text": "если делаю компэрэбл",
+  "html": "если делаю компэрэбл"
+ },
+ {
+  "service": true,
+  "firstFocus": true,
+  "focus": true,
+  "datetime": "2013-05-14T22:53:23",
+  "in": false,
+  "text": "File sent: Lesson1.zip (37902 bytes)\nDownload url: http://yadi.sk/d/El1KpOCB4qAOl",
+  "html": "File sent: Lesson1.zip (37902 bytes)<br/>Download url: http://yadi.sk/d/El1KpOCB4qAOl <span class='urlpreview' id='urlpreview3'></span> "
+ },
+ {
+  "datetime": "2013-05-14T22:54:10",
+  "in": false,
+  "text": "это весь тот проект разирайся на гитхаб не выкладываю уж извините\n",
+  "html": "это весь тот проект разирайся на гитхаб не выкладываю уж извините<br/>"
+ },
+ {
+  "mid": 74703,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-14T23:15:35",
+  "in": true,
+  "text": "сделал так же",
+  "html": "сделал так же"
+ },
+ {
+  "mid": 74704,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-14T23:15:37",
+  "in": true,
+  "text": "не работает",
+  "html": "не работает"
+ },
+ {
+  "mid": 74710,
+  "subject": " ... ",
+  "history": true,
+  "firstFocus": true,
+  "focus": true,
+  "datetime": "2013-05-14T23:17:10",
+  "in": false,
+  "text": "ну значит пиши сам)",
+  "html": "ну значит пиши сам)"
+ },
+ {
+  "mid": 74711,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-14T23:17:17",
+  "in": true,
+  "text": "бля",
+  "html": "бля"
+ },
+ {
+  "mid": 74712,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-14T23:17:20",
+  "in": true,
+  "text": "что за хуйня",
+  "html": "что за хуйня"
+ },
+ {
+  "mid": 76622,
+  "subject": " ... ",
+  "history": true,
+  "datetime": "2013-05-28T01:55:32",
+  "in": false,
+  "text": "завтра есть мокеева?",
+  "html": "завтра есть мокеева?"
+ },
+ {
+  "mid": 76623,
+  "subject": " ... ",
+  "datetime": "2013-05-28T01:55:42",
+  "in": true,
+  "text": "да",
+  "html": "да"
+ },
+ {
+  "mid": 76625,
+  "subject": " ... ",
+  "datetime": "2013-05-28T01:55:45",
+  "in": true,
+  "text": "долги, к/р",
+  "html": "долги, к/р"
+ },
+ {
+  "mid": 76626,
+  "subject": " ... ",
+  "history": true,
+  "datetime": "2013-05-28T01:55:55",
+  "in": false,
+  "text": "Ок",
+  "html": "Ок"
+ },
+ {
+  "mid": 76627,
+  "subject": " ... ",
+  "history": true,
+  "datetime": "2013-05-28T01:56:00",
+  "in": false,
+  "text": "спс",
+  "html": "спс"
+ },
+ {
+  "mid": 76636,
+  "subject": "... ",
+  "datetime": "2013-05-28T07:52:07",
+  "in": true,
+  "text": "обязательно",
+  "html": "обязательно"
+ },
+ {
+  "mid": 76635,
+  "subject": "... ",
+  "datetime": "2013-05-28T07:52:07",
+  "in": true,
+  "text": "с первой",
+  "html": "с первой"
+ },
+ {
+  "mid": 76634,
+  "subject": "... ",
+  "datetime": "2013-05-28T07:52:07",
+  "in": true,
+  "text": "надо с рубежкой по физике решать что-то",
+  "html": "надо с рубежкой по физике решать что-то"
+ },
+ {
+  "mid": 76637,
+  "subject": " ... ",
+  "history": true,
+  "firstFocus": true,
+  "focus": true,
+  "datetime": "2013-05-28T07:53:08",
+  "in": false,
+  "text": "ага, а хули ты не спишь в 5 30?",
+  "html": "ага, а хули ты не спишь в 5 30?"
+ },
+ {
+  "mid": 76638,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-28T07:53:58",
+  "in": true,
+  "text": "я вообще не ложился",
+  "html": "я вообще не ложился"
+ },
+ {
+  "mid": 76639,
+  "subject": " ... ",
+  "history": true,
+  "focus": true,
+  "datetime": "2013-05-28T07:54:04",
+  "in": false,
+  "text": "ахаха",
+  "html": "ахаха"
+ },
+ {
+  "mid": 76640,
+  "subject": " ... ",
+  "history": true,
+  "focus": true,
+  "datetime": "2013-05-28T07:54:08",
+  "in": false,
+  "text": "и зачем?",
+  "html": "и зачем?"
+ },
+ {
+  "mid": 76641,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-28T07:54:17",
+  "in": true,
+  "text": "ЯП",
+  "html": "ЯП"
+ },
+ {
+  "mid": 76642,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-28T07:54:29",
+  "in": true,
+  "text": "латех, вим, баш делал",
+  "html": "латех, вим, баш делал"
+ },
+ {
+  "mid": 76643,
+  "subject": " ... ",
+  "history": true,
+  "focus": true,
+  "datetime": "2013-05-28T07:54:37",
+  "in": false,
+  "text": "молодец",
+  "html": "молодец"
+ },
+ {
+  "mid": 76644,
+  "subject": " ... ",
+  "history": true,
+  "focus": true,
+  "datetime": "2013-05-28T07:54:53",
+  "in": false,
+  "text": "всю ночь? Ну ты бля даешь",
+  "html": "всю ночь? Ну ты бля даешь"
+ },
+ {
+  "mid": 76645,
+  "subject": " ... ",
+  "history": true,
+  "focus": true,
+  "datetime": "2013-05-28T07:55:12",
+  "in": false,
+  "text": "баш?",
+  "html": "баш?"
+ },
+ {
+  "mid": 76646,
+  "subject": " ... ",
+  "firstFocus": true,
+  "focus": true,
+  "datetime": "2013-05-28T07:56:03",
+  "in": true,
+  "text": "ну я еще клинику смотрел",
+  "html": "ну я еще клинику смотрел"
+ },
+ {
+  "mid": 76647,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-28T07:56:11",
+  "in": true,
+  "text": "и консольку настраивал",
+  "html": "и консольку настраивал"
+ },
+ {
+  "mid": 76648,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-28T07:56:13",
+  "in": true,
+  "text": "часа два",
+  "html": "часа два"
+ },
+ {
+  "mid": 76649,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-28T07:56:15",
+  "in": true,
+  "text": "лол",
+  "html": "лол"
+ },
+ {
+  "mid": 76650,
+  "subject": " ... ",
+  "history": true,
+  "focus": true,
+  "datetime": "2013-05-28T07:56:22",
+  "in": false,
+  "text": "хах сколько сезонов?",
+  "html": "хах сколько сезонов?"
+ },
+ {
+  "mid": 76651,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-28T07:56:24",
+  "in": true,
+  "text": "",
+  "html": ""
+ },
+ {
+  "mid": 76652,
+  "subject": " ... ",
+  "history": true,
+  "focus": true,
+  "datetime": "2013-05-28T07:56:46",
+  "in": false,
+  "text": "ок",
+  "html": "ок"
+ },
+ {
+  "mid": 76653,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-28T07:56:51",
+  "in": true,
+  "text": "щас 6ой смотрю",
+  "html": "щас 6ой смотрю"
+ },
+ {
+  "mid": 76654,
+  "subject": " ... ",
+  "history": true,
+  "focus": true,
+  "datetime": "2013-05-28T07:56:55",
+  "in": false,
+  "text": "поставь zsh",
+  "html": "поставь zsh"
+ },
+ {
+  "mid": 76655,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-28T07:57:00",
+  "in": true,
+  "text": "зачем?",
+  "html": "зачем?"
+ },
+ {
+  "mid": 76656,
+  "subject": " ... ",
+  "history": true,
+  "focus": true,
+  "datetime": "2013-05-28T07:57:09",
+  "in": false,
+  "text": "он лучше",
+  "html": "он лучше"
+ },
+ {
+  "mid": 76657,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-28T07:57:18",
+  "in": true,
+  "text": "чем?",
+  "html": "чем?"
+ },
+ {
+  "mid": 76658,
+  "subject": " ... ",
+  "history": true,
+  "focus": true,
+  "datetime": "2013-05-28T07:57:42",
+  "in": false,
+  "text": "удобней в мелочах",
+  "html": "удобней в мелочах"
+ },
+ {
+  "mid": 76659,
+  "subject": " ... ",
+  "history": true,
+  "focus": true,
+  "datetime": "2013-05-28T07:58:06",
+  "in": false,
+  "text": "особенно с пакетом oh-my-zsh",
+  "html": "особенно с пакетом oh-my-zsh"
+ },
+ {
+  "mid": 76660,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-28T07:58:23",
+  "in": true,
+  "text": "ЧЕЕМ?",
+  "html": "ЧЕЕМ?"
+ },
+ {
+  "mid": 76661,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-28T07:58:26",
+  "in": true,
+  "text": "конкретики",
+  "html": "конкретики"
+ },
+ {
+  "mid": 76662,
+  "subject": " ... ",
+  "history": true,
+  "focus": true,
+  "datetime": "2013-05-28T07:58:30",
+  "in": false,
+  "text": "бля гугли",
+  "html": "бля гугли"
+ },
+ {
+  "mid": 76663,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-28T07:58:48",
+  "in": true,
+  "text": "фу какой грубый",
+  "html": "фу какой грубый"
+ },
+ {
+  "mid": 76664,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-28T07:58:53",
+  "in": true,
+  "text": "фу фу фу",
+  "html": "фу фу фу"
+ },
+ {
+  "mid": 76665,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-28T07:58:57",
+  "in": true,
+  "text": "фу таким быть",
+  "html": "фу таким быть"
+ },
+ {
+  "mid": 76666,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-28T07:59:04",
+  "in": true,
+  "text": "",
+  "html": ""
+ },
+ {
+  "mid": 76667,
+  "subject": " ... ",
+  "history": true,
+  "focus": true,
+  "datetime": "2013-05-28T07:59:57",
+  "in": false,
+  "text": "о так ты вим знаешь?",
+  "html": "о так ты вим знаешь?"
+ },
+ {
+  "mid": 76668,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-28T08:00:07",
+  "in": true,
+  "text": "ну так",
+  "html": "ну так"
+ },
+ {
+  "mid": 76669,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-28T08:00:23",
+  "in": true,
+  "text": "почитал ночью, потестил",
+  "html": "почитал ночью, потестил"
+ },
+ {
+  "mid": 76670,
+  "subject": " ... ",
+  "history": true,
+  "focus": true,
+  "datetime": "2013-05-28T08:00:23",
+  "in": false,
+  "text": "все ответы r lp знаешь?",
+  "html": "все ответы r lp знаешь?"
+ },
+ {
+  "mid": 76671,
+  "subject": " ... ",
+  "history": true,
+  "focus": true,
+  "datetime": "2013-05-28T08:00:29",
+  "in": false,
+  "text": "Дз",
+  "html": "Дз"
+ },
+ {
+  "mid": 76672,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-28T08:00:33",
+  "in": true,
+  "text": "да",
+  "html": "да"
+ },
+ {
+  "mid": 76673,
+  "subject": " ... ",
+  "history": true,
+  "focus": true,
+  "datetime": "2013-05-28T08:00:39",
+  "in": false,
+  "text": "скажи мне)",
+  "html": "скажи мне)"
+ },
+ {
+  "mid": 76674,
+  "subject": " ... ",
+  "firstFocus": true,
+  "focus": true,
+  "datetime": "2013-05-28T08:00:53",
+  "in": true,
+  "text": "http://ru.wikibooks.org/wiki/Vim все здесь",
+  "html": "http://ru.wikibooks.org/wiki/Vim <span class='urlpreview' id='urlpreview6'></span>  все здесь"
+ },
+ {
+  "mid": 76675,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-28T08:01:11",
+  "in": true,
+  "text": "там команды смотри",
+  "html": "там команды смотри"
+ },
+ {
+  "mid": 76676,
+  "subject": " ... ",
+  "history": true,
+  "focus": true,
+  "datetime": "2013-05-28T08:01:38",
+  "in": false,
+  "text": "не это долго я не успею напиши нормально",
+  "html": "не это долго я не успею напиши нормально"
+ },
+ {
+  "mid": 76677,
+  "subject": " ... ",
+  "history": true,
+  "focus": true,
+  "datetime": "2013-05-28T08:01:48",
+  "in": false,
+  "text": "пожалуйста",
+  "html": "пожалуйста"
+ },
+ {
+  "mid": 76678,
+  "subject": " ... ",
+  "history": true,
+  "focus": true,
+  "datetime": "2013-05-28T08:01:50",
+  "in": false,
+  "text": ")",
+  "html": ")"
+ },
+ {
+  "mid": 76679,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-28T08:01:53",
+  "in": true,
+  "text": "я не успею написать, мне выходить надо",
+  "html": "я не успею написать, мне выходить надо"
+ },
+ {
+  "mid": 76680,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-28T08:01:57",
+  "in": true,
+  "text": "давай там покажу",
+  "html": "давай там покажу"
+ },
+ {
+  "mid": 76681,
+  "subject": " ... ",
+  "history": true,
+  "focus": true,
+  "datetime": "2013-05-28T08:02:06",
+  "in": false,
+  "text": "оо",
+  "html": "оо"
+ },
+ {
+  "mid": 76682,
+  "subject": " ... ",
+  "history": true,
+  "focus": true,
+  "datetime": "2013-05-28T08:02:13",
+  "in": false,
+  "text": "ладно",
+  "html": "ладно"
+ },
+ {
+  "mid": 76683,
+  "subject": " ... ",
+  "history": true,
+  "focus": true,
+  "datetime": "2013-05-28T08:02:19",
+  "in": false,
+  "text": "гад",
+  "html": "гад"
+ },
+ {
+  "mid": 76684,
+  "subject": " ... ",
+  "history": true,
+  "focus": true,
+  "datetime": "2013-05-28T08:02:27",
+  "in": false,
+  "text": "в ебенях живешь",
+  "html": "в ебенях живешь"
+ },
+ {
+  "mid": 76685,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-28T08:02:59",
+  "in": true,
+  "text": "http://ru.wikibooks.org/wiki/Vim#.D0.9F.D0.B5.D1.80.D0.B5.D0.BC.D0.B5.D1.89.D0.B5.D0.BD.D0.B8.D0.B5_.D0.BF.D0.BE_.D1.84.D0.B0.D0.B9.D0.BB.D1.83",
+  "html": "http://ru.wikibooks.org/wiki/Vim#.D0.9F.D0.B5.D1.80.D0.B5.D0.BC.D0.B5.D1.89.D0.B5.D0.BD.D0.B8.D0.B5_.D0.BF.D0.BE_.D1.84.D0.B0.D0.B9.D0.BB.D1.83 <span class='urlpreview' id='urlpreview7'></span> "
+ },
+ {
+  "mid": 76686,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-28T08:03:02",
+  "in": true,
+  "text": "вот отсюда",
+  "html": "вот отсюда"
+ },
+ {
+  "mid": 76687,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-28T08:03:06",
+  "in": true,
+  "text": "там все нужное есть",
+  "html": "там все нужное есть"
+ },
+ {
+  "mid": 76688,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-28T08:03:13",
+  "in": true,
+  "text": "5 минут займет",
+  "html": "5 минут займет"
+ },
+ {
+  "mid": 76689,
+  "subject": " ... ",
+  "history": true,
+  "focus": true,
+  "datetime": "2013-05-28T08:08:19",
+  "in": false,
+  "text": "хули ты тогда всю ночь сидел?)",
+  "html": "хули ты тогда всю ночь сидел?)"
+ },
+ {
+  "mid": 76690,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-28T08:08:55",
+  "in": true,
+  "text": "в основном баш изучал",
+  "html": "в основном баш изучал"
+ },
+ {
+  "mid": 76691,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-28T08:09:01",
+  "in": true,
+  "text": "и латех делал дз1",
+  "html": "и латех делал дз1"
+ },
+ {
+  "mid": 76692,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-28T08:09:11",
+  "in": true,
+  "text": "консольку настраивал",
+  "html": "консольку настраивал"
+ },
+ {
+  "mid": 76693,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-28T08:09:15",
+  "in": true,
+  "text": "клинику смотрел",
+  "html": "клинику смотрел"
+ },
+ {
+  "mid": 76694,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-28T08:09:26",
+  "in": true,
+  "text": "вконтакте залипал",
+  "html": "вконтакте залипал"
+ },
+ {
+  "mid": 76695,
+  "subject": " ... ",
+  "history": true,
+  "focus": true,
+  "datetime": "2013-05-28T08:09:35",
+  "in": false,
+  "text": "ты в консольке только цвета поменял)",
+  "html": "ты в консольке только цвета поменял)"
+ },
+ {
+  "mid": 76696,
+  "subject": " ... ",
+  "focus": true,
+  "datetime": "2013-05-28T08:10:21",
+  "in": true,
+  "text": "ну да)",
+  "html": "ну да)"
+ },
+ {
+  "mid": 76697,
+  "subject": " ... ",
+  "datetime": "2013-05-28T08:10:27",
+  "in": true,
+  "text": "думаешь так просто)",
+  "html": "думаешь так просто)"
+ },
+ {
+  "datetime": "2013-05-28T08:10:31",
+  "in": false,
+  "text": "да",
+  "html": "да"
+ },
+ {
+  "mid": 76699,
+  "subject": " ... ",
+  "datetime": "2013-05-28T08:10:49",
+  "in": true,
+  "text": "команды всякие смотрел",
+  "html": "команды всякие смотрел"
+ },
+ {
+  "mid": 76700,
+  "subject": " ... ",
+  "datetime": "2013-05-28T08:10:56",
+  "in": true,
+  "text": "кароче херней страдал",
+  "html": "кароче херней страдал"
+ },
+ {
+  "datetime": "2013-05-28T08:11:03",
+  "in": false,
+  "text": "да понял я",
+  "html": "да понял я"
+ },
+ {
+  "datetime": "2013-05-28T08:11:15",
+  "in": false,
+  "text": "z; для смеху написал не переживай",
+  "html": "z; для смеху написал не переживай"
+ },
+ {
+  "mid": 76703,
+  "subject": " ... ",
+  "firstFocus": true,
+  "focus": true,
+  "datetime": "2013-05-28T08:11:55",
+  "in": true,
+  "text": "щито?",
+  "html": "щито?"
+ }
+]

@@ -1,0 +1,2 @@
+set editor-command=gvim -f %s
+tabopen navalny.com

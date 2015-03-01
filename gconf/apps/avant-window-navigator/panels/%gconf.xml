@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="panel_list" mtime="1398018037" type="list" ltype="int">
+		<li type="int" value="1"/>
+		<li type="int" value="2"/>
+		<li type="int" value="3"/>
+	</entry>
+</gconf>
